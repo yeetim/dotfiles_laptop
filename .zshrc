@@ -79,6 +79,7 @@ alias audit='lynis --auditor MoJo'
 alias Minimal='~/Scripts/minimal.sh'
 
 # Git
+alias cdG='cd ~/Git/dotfiles'
 alias GitStatus='git status -u no'
 alias GitCommit='git commit -m'
 
