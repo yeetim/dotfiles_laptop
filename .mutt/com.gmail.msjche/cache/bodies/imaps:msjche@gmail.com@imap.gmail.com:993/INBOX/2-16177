@@ -1,0 +1,250 @@
+Delivered-To: msjche@gmail.com
+Received: by 10.194.34.4 with SMTP id v4csp1958763wji;
+        Sun, 15 Mar 2015 01:26:44 -0700 (PDT)
+X-Received: by 10.43.55.145 with SMTP id vy17mr2264705icb.60.1426408002723;
+        Sun, 15 Mar 2015 01:26:42 -0700 (PDT)
+Return-Path: <bounces+1573066-d169-msjche=gmail.com@em.ghin.com>
+Received: from o3.em.ghin.com (o3.em.ghin.com. [50.31.32.118])
+        by mx.google.com with ESMTPS id o1si7294574icp.73.2015.03.15.01.26.41
+        for <msjche@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 15 Mar 2015 01:26:42 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+1573066-d169-msjche=gmail.com@em.ghin.com designates 50.31.32.118 as permitted sender) client-ip=50.31.32.118;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounces+1573066-d169-msjche=gmail.com@em.ghin.com designates 50.31.32.118 as permitted sender) smtp.mail=bounces+1573066-d169-msjche=gmail.com@em.ghin.com;
+       dkim=pass header.i=@ghin.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=ghin.com; 
+	h=mime-version:from:sender:to:reply-to:subject:content-type; 
+	s=smtpapi; bh=Ki0Fp15/cglWQH+Ypd1Insy+R9s=; b=OVyy4vXwNFDl4pDRM9
+	zB8R4D8lGqtiVPBJ5mkkO0SyOhFmG18Cs2k4UX/hpF/7tOCZnKH4ml8qQSFHZlxV
+	n+Fbo1mKYfrOMN2slT25RM3jJh23RyQ9ECm5vp3hGcGIJLDw5t9rD/6Ko6UHR+us
+	foWKyu4Ju63rnKuCgSdMqT+6o=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=mime-version:from:sender:to:reply-to:subject:content-type:x-feedback-id; 
+	s=smtpapi; bh=Ki0Fp15/cglWQH+Ypd1Insy+R9s=; b=raDMAYMIVZChNmRm48
+	SrRWT7NWfkXWu34BzPxoOlQcRM1hw3zS4lA/DjtOedOZVdTDfgCivo6NkYAPVH3q
+	vMh8gcd1o6gsRstbyX5QGm/PYLGEP/pY1hc6cYMSvPSjvM9CoYZie72Qr7MCnezz
+	gH1isvYhjtQmgxNzs6CsM9r9s=
+Received: by filter0168p1mdw1.sendgrid.net with SMTP id filter0168p1mdw1.29161.550542234
+        2015-03-15 08:26:40.939335203 +0000 UTC
+Received: from USGOL-VMGC002 (usgol-vmgc002.inetuhosted.net [209.235.230.180])
+	by ismtpd-036 (SG) with ESMTP id 14c1c8acd72.4f5.4e5ca
+	for <msjche@gmail.com>; Sun, 15 Mar 2015 08:26:40 +0000 (UTC)
+MIME-Version: 1.0
+From: "revisionupdate@ghin.com" <revisionupdate@ghin.com>
+Sender: "revisionupdate@ghin.com" <revisionupdate@ghin.com>
+To: msjche@gmail.com
+Reply-To: "revisionupdate@ghin.com" <revisionupdate@ghin.com>
+Date: 15 Mar 2015 04:26:40 -0400
+Subject: Revision Update from the NORTHERN CALIFORNIA GOLF ASSOC
+Content-Type: multipart/alternative;
+ boundary=--boundary_1189187_41801c2d-a702-4c5e-8c74-5c0683b6c0ea
+Message-ID: <14c1c8acd72.4f5.4e5ca@ismtpd-036>
+X-SG-EID: 4NNc9m1MeGLQ60BEKSUFXZ/mQc4rthcTG2UvZKq41F0Tm6taHLZdqb3sj9Z2r54X+p9IaZxEEmXe0l
+ bq6aN3h9NMGAF9lARRSBICKom4wz+SBMZD/rdmQEhup1QlWZnI30uwoluv1XC0tYALxHX4UnyFQFpC
+ fOcPnL4xcw3r+ts=
+X-Feedback-ID: 1573066:IoLhedLSHp0cng90dafXvc85pnlse2+kEVQya+Fp5Q8=:IoLhedLSHp0cng90dafXvc85pnlse2+kEVQya+Fp5Q8=:SG
+
+----boundary_1189187_41801c2d-a702-4c5e-8c74-5c0683b6c0ea
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+To view this email as a web page click here: http://ghpcdn.ghin.com/GHINeNewsletters/ViewMail.aspx?ghinno=8670588&tid=22245&club=6375101&assoc=53&rrid=10749&em=msjche@gmail.com
+----boundary_1189187_41801c2d-a702-4c5e-8c74-5c0683b6c0ea
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<div align="center"><div align="center" style="font-size:8pt;">To view this email as a web page <a href="http://ghpcdn.ghin.com/GHINeNewsletters/ViewMail.aspx?ghinno=8670588&tid=22245&club=6375101&assoc=53&rrid=10749&em=msjche@gmail.com" target="_blank">click here</a></div><table border="0" cellspacing="0" cellpadding="0"style="background-color:Transparent;color:Black;font-family:Arial,Helvetica,sans-serif;width:700px;border:none 0px Black; ">
+<tbody><tr><td align="center" valign="top"style="background-color:Transparent;color:Black;width:700px;height:150px;border:none 0px Black; "><table border="0" cellspacing="0" cellpadding="0" width="700" height="150" style="background-color:Transparent;color:Black; ">
+<tr>
+<td align="center" valign="middle" style="text-align:center;vertical-align:middle; "><div align="center" style="position:relative;display:block;text-align:center;vertical-align:middle;" >
+<div style="margin-left:auto;margin-right:auto;width:700px;height:146px;" >
+<img width="700" height="146" src="https://s3.amazonaws.com/ncga-erevision/eRevision.jpg" border="0" /></div>
+</div></td>
+</tr><tr>
+<td align="center" valign="middle" colspan="1" style="text-align:center;vertical-align:middle; "><img border="0" alt="" src="http://ghpcdn.ghin.com/GHINeNewsletterImages/spacer.gif" height="20" />
+</td>
+</tr></table></td></tr><tr><td align="center" valign="top"style="background-color:Transparent;width:700px;height:700px;border:none 0px Black; "><table border="0" cellspacing="0" cellpadding="0" width="700" height="700" style="background-color:Transparent; ">
+<tr>
+<td align="left" valign="top" rowspan="14" style="text-align:left;vertical-align:top; "><div align="left" style="position:relative;display:block;text-align:left;vertical-align:top;" >
+<div style="margin-right:auto;width:375px;" >
+<table width="355px" cellspacing="0" cellpadding="0" border="0" style="text-align: left; padding-right: 20px; font-family: helvetica,arial,lucida grande,sans-serif;"><tbody><tr><td><h3 style="font-family: helvetica,arial,lucida grande,sans-serif; font-size: 24px; margin: 2px 0px; padding: 0px;">Hello Morgan Johnson</h3><h4 style="font-family: helvetica,arial,lucida grande,sans-serif; font-size: 16px; margin: 2px; padding: 0px;">NCGA Member #: 8670588</h4><h4 style="font-family: helvetica,arial,lucida grande,sans-serif; font-size: 16px; margin: 2px; padding: 0px;">Your index is 5.6 as of 03/15/2015</h4><h4 style="font-family: helvetica,arial,lucida grande,sans-serif; font-size: 16px; margin: 2px; padding: 0px;">Your low handicap index is: 3.8</h4><img width="339" border="0" height="23" src="https://s3.amazonaws.com/ncga-erevision/main/bluespacer.jpg" /></td></tr><tr> <td><table width="100%" border="0" style="font-family: helvetica,arial,lucida grande,sans-serif;"><tbody><tr><t
+ d colspan="2"><h3 style="font-family: helvetica,arial,lucida grande,sans-serif; font-size: 24px; margin: 5px 0px 0px; padding: 0px;">Quick Links</h3>                        </td>            </tr>                    <tr><td><span style="color: #ef8811; font-size: 18px;">•</span> <a href="http://www.poppyhillsgolf.com" style="font-family: helvetica,arial,lucida grande,sans-serif; font-size: 16px; color: #000000;">Poppy Hills</a></td>                              <td><span style="color: #ef8811; font-size: 18px;">•</span> <a href="http://www.fb.com/ncgagolf/" style="font-family: helvetica,arial,lucida grande,sans-serif; font-size: 16px; color: #000000;">Facebook</a></td></tr><tr> <td><span style="color: #ef8811; font-size: 18px;">•</span> <a href="http://www.poppyridgegolf.com" style="font-family: helvetica,arial,lucida grande,sans-serif; font-size: 16px; color: #000000;">Poppy Ridge</a></td><td><span style="color: #ef8811; font-size: 18px;">•</span> <a href="http://tw
+ itter.com/ncga1901" style="font-family: helvetica,arial,lucida grande,sans-serif; font-size: 16px; color: #000000;">Twitter</a></td></tr><tr><td><span style="color: #ef8811; font-size: 18px;">•</span> <a href="http://www.ncga.org/category/tournament/" style="font-family: helvetica,arial,lucida grande,sans-serif; font-size: 16px; color: #000000;">Tournament Central</a>                    </td> <td><span style="color: #ef8811; font-size: 18px;">• </span><a href="http://www.ncga.org/membership/registerchange-email-address/" style="font-family: helvetica,arial,lucida grande,sans-serif; font-size: 16px; color: #000000;">Change Email</a></td></tr></tbody></table> </td></tr><tr><td> </td></tr><tr><td><h4 style="font-family: helvetica,arial,lucida grande,sans-serif; font-size: 16px; margin: 20px 0px 2px; padding: 0px;">Poppy Hills and Ridge Titleist Offer</h4><p style="padding-top: 0px; margin-top: 0px;"><span style="font-size: 10pt;">On Tuesdays at Poppy Hills, your $100 gree
+ n fee includes a box of Titleist Pro V1s and funds two Youth on Course rounds. Thursdays at Poppy Ridge, get the same deal, plus a cart, for just $75. Reserve a starting at <a href="http://poppyhillsgolf.com/reserve-time/" target="_self">Poppy Hills</a> on Tuesday or <a href="http://poppyridgegolf.com/reserve-time/" target="_self">Poppy Ridge</a> on Thursday to receive this special offer.</span></p></td></tr><tr><td> </td></tr><tr><td><table width="100%" cellpadding="10" cellspacing:"3"="" style="font-family: helvetica,arial,lucida grande,sans-serif; background-color: #bfd4e8;"><tbody><tr><td><h4 style="font-family: helvetica,arial,lucida grande,sans-serif; font-size: 16px; padding: 0px; margin: 0px 0px 2px;">Here’s Your Chance to Play Round Hill and Support a Worthy Cause!</h4><a href="http://ncga.org/roundhillcc"><img width="150" border="0" align="right" height="150" src="https://s3.amazonaws.com/ncga-erevision/abh.png" style="padding: 0px 0px 8px 8px;" /></a><p style="
+ padding-top: 0px; margin-top: 0px;">Round Hill Country Club in Alamo will host an event on behalf of American Bone Health on June 29. The 9 AM shotgun start includes breakfast, barbecue lunch, contests, raffle and more. Proceeds benefit American Bone Health - a limited number of foursomes available for this incredible event. Join the fun! Register by April 15 and enter the raffle for a $100 gift certificate at Bridges Restaurant. Hosted by Charles Schwab and Company Inc. <a href="http://www.americanbonehealth.org/index.php?option=com_ohanah&view=event&id=146&Itemid=77">Register now.</a> </p></td></tr></tbody></table></td></tr><tr><td> </td></tr><tr><td><table width="100%" cellpadding="10" cellspacing:"3"="" style="font-family: helvetica,arial,lucida grande,sans-serif; background-color: #bfd4e8;"><tbody><tr><td><h4 style="font-family: helvetica,arial,lucida grande,sans-serif; font-size: 16px; padding: 0px; margin: 0px 0px 2px;">NCGA Special Offer - Join Our Exclusive Tournam
+ ent at Sea!</h4><a href="http://www.golfngocruises.com"><img width="150" border="0" align="right" height="150" src="https://s3.amazonaws.com/ncga-erevision/cruise.jpg" style="padding: 0px 0px 8px 8px;" /></a><p style="padding-top: 0px; margin-top: 0px;">Pebble Beach, Torrey Pines, Sandpiper, Half Moon Bay and others await! Play three elite courses for a chance to win a trip to the 2016 British Open. Travel by sea at night enjoying breathtaking scenery and entertainment. NCGA members receive special upgrades and a gift bag. <a href="http://www.golfngocruises.com">More Information</a> </p></td></tr></tbody></table></td></tr><tr><td> </td></tr><tr><td><h4 style="font-family: helvetica,arial,lucida grande,sans-serif; font-size: 16px; margin: 20px 0px 2px; padding: 0px;">WGC Match Play NCGA Member Ticket Offer</h4><p style="padding-top: 0px; margin-top: 0px;">The Cadillac World Match Play Golf Championship is headed to TPC Harding Park April 27-May 3. NCGA members can take advan
+ tage of an exclusive limited-time offer, and purchase weekly passes for 60% off, plus an upgrade to the Golden Gate Terrace hospitality area. Tickets also include a private Q&A with NBC/Golf Channel talent and a chance to be an Honorary Observer. Tickets are $185 for the week. The Golden Gate Terrace (located between holes 12 and 13) offers a relaxed, sports bar setting, big screen TVs and food for purchase. <span style="font-size: 10pt;">The promo code is </span><b style="font-size: 10pt;">NCGA</b><span style="font-size: 10pt;">. </span><a href="https://oss.ticketmaster.com/aps/pgmat/EN/link/promotion/home/9d847805c8422b6af5aecc8fd60c6a38d86f8a5c?camefrom=NCGA2015" style="font-size: 10pt;">Buy tickets now</a><span style="font-size: 10pt;">!</span></p></td></tr><tr><td> </td></tr><tr><td><h4 style="font-family: helvetica,arial,lucida grande,sans-serif; font-size: 16px; margin: 20px 0px 2px; padding: 0px;">2015 U.S Senior Open Special Offer for NCGA Members</h4><p style="
+ padding-top: 0px; margin-top: 0px;">The prestigious U.S. Senior Open will be played for the first time ever in Northern California at Sacramento’s prestigious Del Paso Country Club June 22-28. NCGA member can take advantage of a special daily ticket offer starting at only $35 plus be entered to win some fabulous golf prizes. NCGA members are being offered this discounted price prior to tickets going on sale to the general public. Over 125,000 fans are expected to line Del Paso’s fairways for this National Championship, get your NCGA discounted tickets today. <a href="https://events.cuetoems.com/usso_2015/OnlineTicketSales.aspx?l=NCGA Member">Click here to purchase your tickets!</a></p><p></p></td></tr><tr><td> </td></tr><tr><td><h4 style="font-family: helvetica,arial,lucida grande,sans-serif; font-size: 16px; margin: 20px 0px 2px; padding: 0px;">The World Golf Championships is looking for volunteers!</h4><p style="padding-top: 0px; margin-top: 0px;">Enjoy a behind the s
+ cenes experience as the top 64 golfers in the world compete head-to-head, April 27 - May 3 at TPC Harding Park. All volunteers will receive: Nike uniform package, daily access to tournament grounds when not volunteering, weekly grounds ticket for a guest, commemorative volunteer pin, discounted golf and much more! Register now for just $90.     Register <a href="https://events.r2it.com/volunteer/wgcmatchplay/2015/">online</a> or call 415-566-7287.  <a href="https://oss.ticketmaster.com/aps/sharks/EN/link/promotion/home/5145a03b8390178387e62e4ce9b9acb79ee81a14">Buy now</a></p></td></tr></tbody></table></div>
+</div></td><td align="left" valign="middle" style="text-align:left;vertical-align:middle; "><div align="left" style="position:relative;display:block;text-align:left;vertical-align:middle;" >
+<div style="margin-right:auto;width:300px;" >
+<h3 style="font-family: helveticaneue-light, 'helvetica neue light', 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif; font-size: 14px; text-align: left; padding-left: 5px; color: #006699;">NCGA Partners</h3></div>
+</div></td>
+</tr><tr>
+<td align="center" valign="middle" style="text-align:center;vertical-align:middle; "><div align="center" style="position:relative;display:block;text-align:center;vertical-align:middle;" >
+<div style="margin-left:auto;margin-right:auto;width:300px;" >
+<a href="http://golfmoose.com/product-category/northern-california/"><img src="https://s3.amazonaws.com/ncga-erevision/NCGA 300x250 3-13.png" /></a></div>
+</div></td>
+</tr><tr>
+<td align="center" valign="middle" style="text-align:center;vertical-align:middle; "><img border="0" alt="" src="http://ghpcdn.ghin.com/GHINeNewsletterImages/spacer.gif" height="20" />
+</td>
+</tr><tr>
+<td align="center" valign="middle" style="text-align:center;vertical-align:middle; "><div align="center" style="position:relative;display:block;text-align:center;vertical-align:middle;" >
+<div style="margin-left:auto;margin-right:auto;" >
+<a href="http://www.mayacama.com/learnmore?_vsrefdom=myaencga&cid=70150000000t5ot&source=Web hit - Info Request&sales=General Queue&utm_source=Northern+California+Golf+Assn&utm_medium=enewsletter&utm_campaign=70150000000t5ot"><img src="https://s3.amazonaws.com/ncga-erevision/MYA_40873_WebBanner_300x250_Mar15.jpg"/></a></div>
+</div></td>
+</tr><tr>
+<td align="center" valign="middle" style="text-align:center;vertical-align:middle; "><img border="0" alt="" src="http://ghpcdn.ghin.com/GHINeNewsletterImages/spacer.gif" height="20" />
+</td>
+</tr><tr>
+<td align="center" valign="middle" style="text-align:center;vertical-align:middle; "><div align="center" style="position:relative;display:block;text-align:center;vertical-align:middle;" >
+<div style="margin-left:auto;margin-right:auto;" >
+<a href="http://sevenforone.com/index.php?utm_source=ncga&utm_medium=banner-ad&utm_campaign=300x250-e-newsletter"><img src="https://s3.amazonaws.com/ncga-erevision/cliffs.jpg" /></a></div>
+</div></td>
+</tr><tr>
+<td></td>
+</tr><tr>
+<td></td>
+</tr><tr>
+<td align="center" valign="middle" style="text-align:center;vertical-align:middle; "><div align="center" style="position:relative;display:block;text-align:center;vertical-align:middle;" >
+<div style="margin-left:auto;margin-right:auto;height:20px;" >
+<img src="https://s3.amazonaws.com/ncga-erevision/main/bluespacer.jpg" width="300" height="23" border="0" /></div>
+</div></td>
+</tr><tr>
+<td align="center" valign="top" style="text-align:center;vertical-align:top; ">
+<table cellspacing="0" cellpadding="0" border="0" align="center" id="Table_01" style="background-color:White;">
+<tbody>
+<tr>
+<td><img src="http://ghpcdn.ghin.com/GHINeNewsletters/images/spacer.gif" alt="" width="6" height="1" /></td>
+<td><img src="http://ghpcdn.ghin.com/GHINeNewsletters/images/spacer.gif" alt="" width="225" height="1" /></td>
+<td><img src="http://ghpcdn.ghin.com/GHINeNewsletters/images/spacer.gif" alt="" width="63" height="1" /></td>
+<td><img src="http://ghpcdn.ghin.com/GHINeNewsletters/images/spacer.gif" alt="" width="7" height="1" /></td>
+</tr>
+<tr>
+<td colspan="4" align="left"><a href="http://ghpcdn.ghin.com/ghinenewsletters/ViewPrint.aspx?ghinno=8670588&club=6375101&tid=11323&assoc=53&rrid=0" target="_blank"><img src="http://ghpcdn.ghin.com/GHINeNewsletters/images/labelb01.gif" alt="" border="0" /></a></td>
+</tr>
+<tr>
+<td rowspan="2" valign="top" align="left"><a href="http://ghpcdn.ghin.com/ghinenewsletters/ViewPrint.aspx?ghinno=8670588&club=6375101&tid=11323&assoc=53&rrid=0" target="_blank"><img border="0" width="6" src="http://ghpcdn.ghin.com/GHINeNewsletters/images/labelb02.gif" alt="" /></a></td>
+<td align="left" width="225" style="white-space:nowrap;"><span style="color:#000000;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:9px;"><a href="http://ghpcdn.ghin.com/ghinenewsletters/ViewPrint.aspx?ghinno=8670588&club=6375101&tid=11323&assoc=53&rrid=0" target="_blank" style="color:#000000;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:9px;text-decoration:none;">Name: </a></span><span style="color:#000000;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:10px;font-weight:bold;"><a href="http://ghpcdn.ghin.com/ghinenewsletters/ViewPrint.aspx?ghinno=8670588&club=6375101&tid=11323&assoc=53&rrid=0" target="_blank" style="color:#000000;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:10px;font-weight:bold;text-decoration:none;">Morgan Johnson</a></span></td>
+<td colspan="2" valign="top" align="left" width="70"><a href="http://ghpcdn.ghin.com/ghinenewsletters/ViewPrint.aspx?ghinno=8670588&club=6375101&tid=11323&assoc=53&rrid=0" target="_blank"><img border="0" src="http://ghpcdn.ghin.com/GHINeNewsletters/images/labelb04.gif" alt="" /></a></td>
+</tr>
+<tr>
+<td colspan="2">
+<table cellspacing="0" cellpadding="0" border="0" width="288">
+<tbody>
+<tr>
+<td colspan="2" align="left" height="15"><span style="color:#000000;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:9px;"><a href="http://ghpcdn.ghin.com/ghinenewsletters/ViewPrint.aspx?ghinno=8670588&club=6375101&tid=11323&assoc=53&rrid=0" target="_blank" style="color:#000000;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:9px;text-decoration:none;">Club: </a></span><span style="color:#000000;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:10px;font-weight:bold;"><a href="http://ghpcdn.ghin.com/ghinenewsletters/ViewPrint.aspx?ghinno=8670588&club=6375101&tid=11323&assoc=53&rrid=0" target="_blank" style="color:#000000;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:10px;font-weight:bold;text-decoration:none;">E-Club East Bay</a></span></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="left"><span style="color:#000000;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:9px;"><a href="http://ghpcdn.ghin.com/ghinenewsletters/ViewPrint.aspx?ghinno=8670588&club=6375101&tid=11323&assoc=53&rrid=0" target="_blank" style="color:#000000;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:9px;text-decoration:none;">Club #: </a></span><span style="color:#000000;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:10px;font-weight:bold;"><a href="http://ghpcdn.ghin.com/ghinenewsletters/ViewPrint.aspx?ghinno=8670588&club=6375101&tid=11323&assoc=53&rrid=0" target="_blank" style="color:#000000;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:10px;font-weight:bold;text-decoration:none;">63-751-01</a></span><br /><span style="color:#000000;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:9px;"><a href="http://ghpcdn.ghin.com/ghinenewsletters/ViewPrint.aspx?ghinno=8670588&club=6375101&tid=11323&assoc=53&rrid=0
+ " target="_blank" style="color:#000000;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:9px;text-decoration:none;"> Scores Posted: </a></span><span style="color:#000000;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:10px;font-weight:bold;"><a href="http://ghpcdn.ghin.com/ghinenewsletters/ViewPrint.aspx?ghinno=8670588&club=6375101&tid=11323&assoc=53&rrid=0" target="_blank" style="color:#000000;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:10px;font-weight:bold;text-decoration:none;">4</a></span></td>
+<td width="50%" valign="top" align="left"><span style="color:#000000;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:9px;"><a href="http://ghpcdn.ghin.com/ghinenewsletters/ViewPrint.aspx?ghinno=8670588&club=6375101&tid=11323&assoc=53&rrid=0" target="_blank" style="color:#000000;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:9px;text-decoration:none;">GHIN #: </a></span><span style="color:#000000;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:10px;font-weight:bold;"><a href="http://ghpcdn.ghin.com/ghinenewsletters/ViewPrint.aspx?ghinno=8670588&club=6375101&tid=11323&assoc=53&rrid=0" target="_blank" style="color:#000000;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:10px;font-weight:bold;text-decoration:none;">8670588</a></span><br /><span style="color:#000000;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:9px;"><a href="http://ghpcdn.ghin.com/ghinenewsletters/ViewPrint.aspx?ghinno=8670588&club=6375101&tid=11323&assoc=53&rrid=0" 
+ target="_blank" style="color:#000000;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:9px;text-decoration:none;"> USGA HCP Index: </a></span><span style="color:#000000;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:10px;font-weight:bold;"><a href="http://ghpcdn.ghin.com/ghinenewsletters/ViewPrint.aspx?ghinno=8670588&club=6375101&tid=11323&assoc=53&rrid=0" target="_blank" style="color:#000000;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:10px;font-weight:bold;text-decoration:none;">5.6</a></span><br /></td>
+</tr>
+<tr>
+<td colspan="2" align="left">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="left" width="175"><span style="color:#000000;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:9px;"><a href="http://ghpcdn.ghin.com/ghinenewsletters/ViewPrint.aspx?ghinno=8670588&club=6375101&tid=11323&assoc=53&rrid=0" target="_blank" style="color:#000000;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:9px;text-decoration:none;"> Effective Date: </a></span><span style="color:#000000;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:10px;font-weight:bold;"><a href="http://ghpcdn.ghin.com/ghinenewsletters/ViewPrint.aspx?ghinno=8670588&club=6375101&tid=11323&assoc=53&rrid=0" target="_blank" style="color:#000000;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:10px;font-weight:bold;text-decoration:none;">03/15/2015</a></span></td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td valign="top" align="left"><a href="http://ghpcdn.ghin.com/ghinenewsletters/ViewPrint.aspx?ghinno=8670588&club=6375101&tid=11323&assoc=53&rrid=0" target="_blank"><img border="0" src="http://ghpcdn.ghin.com/GHINeNewsletters/images/labelb06.gif" alt="" /></a></td>
+</tr>
+<tr>
+<td colspan="4" align="left"><a href="http://ghpcdn.ghin.com/ghinenewsletters/ViewPrint.aspx?ghinno=8670588&club=6375101&tid=11323&assoc=53&rrid=0" target="_blank"><img border="0" src="http://ghpcdn.ghin.com/GHINeNewsletters/images/labelb07.gif" alt="" /></a></td>
+</tr>
+<tr>
+<td valign="top" align="left"><a href="http://ghpcdn.ghin.com/ghinenewsletters/ViewPrint.aspx?ghinno=8670588&club=6375101&tid=11323&assoc=53&rrid=0" target="_blank"><img border="0" src="http://ghpcdn.ghin.com/GHINeNewsletters/images/labelb08.gif" alt="" /></a></td>
+<td width="288" colspan="2" valign="top" align="left"><pre style="color:#003399; font-family: 'Courier New', Courier, mono; font-size:11px; font-weight:bolder; margin-top: 5px; margin-bottom:5px;"><a href="http://ghpcdn.ghin.com/ghinenewsletters/ViewPrint.aspx?ghinno=8670588&club=6375101&tid=11323&assoc=53&rrid=0" target="_blank" style="color:#003399; font-family: 'Courier New', Courier, mono; font-size:11px; font-weight:bolder;text-decoration:none;"> 81 A    82 A    83 A    84 A    85 A <br/> 80*A    82 A    85 A    75*A    78*A <br/> 81*A    81 A    81*A    75*A    80*A <br/> 79*A    85 A    81*A    76*A    83 A <br/></a></pre></td>
+<td valign="top" align="left"><a href="http://ghpcdn.ghin.com/ghinenewsletters/ViewPrint.aspx?ghinno=8670588&club=6375101&tid=11323&assoc=53&rrid=0" target="_blank"><img border="0" src="http://ghpcdn.ghin.com/GHINeNewsletters/images/labelb10.gif" alt="" /></a></td>
+</tr>
+<tr>
+<td colspan="4" align="left"><a href="http://ghpcdn.ghin.com/ghinenewsletters/ViewPrint.aspx?ghinno=8670588&club=6375101&tid=11323&assoc=53&rrid=0" target="_blank"><img border="0" src="http://ghpcdn.ghin.com/GHINeNewsletters/images/labelb11.gif" alt="" /></a></td>
+</tr>
+<tr>
+<td colspan="4" align="center"><a href="http://ghpcdn.ghin.com/GHINeNewsletters/ViewPrint.aspx?ghinno=8670588&tid=11323&club=6375101&assoc=53&rrid=10749" target="_blank"><span style="font-size:12px; font-family: arial">Click Card for Print-Friendly Version</span></a></td>
+</tr>
+</tbody>
+</table>
+
+</td>
+</tr><tr>
+<td align="center" valign="middle" style="text-align:center;vertical-align:middle; "><img border="0" alt="" src="http://ghpcdn.ghin.com/GHINeNewsletterImages/spacer.gif" />
+</td>
+</tr><tr>
+<td align="center" valign="middle" style="text-align:center;vertical-align:middle; "><div align="center" style="position:relative;display:block;text-align:center;vertical-align:middle;" >
+<div style="margin-left:auto;margin-right:auto;" >
+<p align="center" style="margin: 0px;"><a target="_blank" href="http://www.usga.org/playing/handicaps/calculator/course_handicap_calculator.asp"><img width="216" border="0" height="51" src="https://s3.amazonaws.com/ncga-erevision/crshandicap.jpg" /></a></p></div>
+</div></td>
+</tr><tr>
+<td align="center" valign="middle" style="text-align:center;vertical-align:middle; "><img border="0" alt="" src="http://ghpcdn.ghin.com/GHINeNewsletterImages/spacer.gif" />
+</td>
+</tr><tr>
+<td align="center" valign="middle" style="text-align:center;vertical-align:middle; "><div align="center" style="position:relative;display:block;text-align:center;vertical-align:middle;" >
+<div style="margin-left:auto;margin-right:auto;" >
+<h4 style="font-family: helveticaneue-light, 'helvetica neue light', 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif; font-size: 18px; color: #ef8811; font-style: italic;">NCGA...the most important club <br />in your bag keeps getting better.</h4></div>
+</div></td>
+</tr></table></td></tr><tr><td align="center" valign="top"style="background-color:White;color:Black;width:700px;height:0px;border:none 0px Black; "><table border="0" cellspacing="0" cellpadding="0" width="700" style="background-color:White;color:Black; ">
+<tr>
+<td align="center" valign="middle" colspan="2" style="text-align:center;vertical-align:middle; "><img border="0" alt="" src="http://ghpcdn.ghin.com/GHINeNewsletterImages/spacer.gif" height="20" />
+</td>
+</tr><tr>
+<td align="center" valign="middle" colspan="2" style="text-align:center;vertical-align:middle; "><table cellspacing="0" cellpadding="0" border="0" align="center" width="700"><tbody><tr style="background-color:#EF8811"><td align="center" colspan="7" style="color:White;font-family:verdana;font-size:14px;font-weight:bold; ">Score History</td></tr>
+<tr style="background-color:#0066CC"><th align="center" width="20" style="color:White;font-family:verdana;font-size:8pt; ">U</th><th align="center" width="19" style="color:White;font-family:verdana;font-size:8pt; ">T</th><th align="center" width="61" style="color:White;font-family:verdana;font-size:8pt; ">Date</th><th align="center" width="51" style="color:White;font-family:verdana;font-size:8pt; ">Score</th><th align="center" width="62" style="color:White;font-family:verdana;font-size:8pt; ">CR/Slope</th><th align="center" width="38" style="color:White;font-family:verdana;font-size:8pt; ">Diff.</th><th align="center" width="195" style="color:White;font-family:verdana;font-size:8pt; ">Course Name</th></tr>
+<tr style="background-color:#F8E6D1;color:Black;font-family:verdana;font-size:8pt; "><td align="center"> </td><td align="center">A</td><td align="center">2/7/15</td><td align="center"><b>81</b></td><td align="center">69.6/123</td><td align="center">10.5</td><td align="left">Half Moon Bay - Ocean Course</td></tr>
+<tr style="background-color:White;color:Black;font-family:verdana;font-size:8pt; "><td align="center"> </td><td align="center">A</td><td align="center">1/10/15</td><td align="center"><b>82</b></td><td align="center">72.2/124</td><td align="center">8.9</td><td align="left">Monarch Bay GC Tony Lema</td></tr>
+<tr style="background-color:#F8E6D1;color:Black;font-family:verdana;font-size:8pt; "><td align="center"> </td><td align="center">A</td><td align="center">1/4/15</td><td align="center"><b>83</b></td><td align="center">72.4/129</td><td align="center">9.3</td><td align="left">Boundary Oak GC</td></tr>
+<tr style="background-color:White;color:Black;font-family:verdana;font-size:8pt; "><td align="center"> </td><td align="center">A</td><td align="center">1/1/15</td><td align="center"><b>84</b></td><td align="center">72.4/129</td><td align="center">10.2</td><td align="left">Boundary Oak GC</td></tr>
+<tr style="background-color:#F8E6D1;color:Black;font-family:verdana;font-size:8pt; "><td align="center"> </td><td align="center">A</td><td align="center">12/26/14</td><td align="center"><b>85</b></td><td align="center">71.3/129</td><td align="center">12.0</td><td align="left">Riverview Gcc</td></tr>
+<tr style="background-color:White;color:Black;font-family:verdana;font-size:8pt; "><td align="center">*</td><td align="center">A</td><td align="center">12/13/14</td><td align="center"><b>80</b></td><td align="center">72.4/129</td><td align="center">6.7</td><td align="left">Boundary Oak GC</td></tr>
+<tr style="background-color:#F8E6D1;color:Black;font-family:verdana;font-size:8pt; "><td align="center"> </td><td align="center">A</td><td align="center">12/6/14</td><td align="center"><b>82</b></td><td align="center">72.9/126</td><td align="center">8.2</td><td align="left">Harding Park (Tpc) GC Harding</td></tr>
+<tr style="background-color:White;color:Black;font-family:verdana;font-size:8pt; "><td align="center"> </td><td align="center">A</td><td align="center">11/27/14</td><td align="center"><b>85</b></td><td align="center">71.3/129</td><td align="center">12.0</td><td align="left">Riverview Gcc</td></tr>
+<tr style="background-color:#F8E6D1;color:Black;font-family:verdana;font-size:8pt; "><td align="center">*</td><td align="center">A</td><td align="center">11/15/14</td><td align="center"><b>75</b></td><td align="center">72.4/129</td><td align="center">2.3</td><td align="left">Boundary Oak GC</td></tr>
+<tr style="background-color:White;color:Black;font-family:verdana;font-size:8pt; "><td align="center">*</td><td align="center">A</td><td align="center">10/26/14</td><td align="center"><b>78</b></td><td align="center">71.3/129</td><td align="center">5.9</td><td align="left">Riverview Gcc</td></tr>
+<tr style="background-color:#F8E6D1;color:Black;font-family:verdana;font-size:8pt; "><td align="center">*</td><td align="center">A</td><td align="center">10/19/14</td><td align="center"><b>81</b></td><td align="center">71.8/132</td><td align="center">7.9</td><td align="left">Franklin Canyon GC</td></tr>
+<tr style="background-color:White;color:Black;font-family:verdana;font-size:8pt; "><td align="center"> </td><td align="center">A</td><td align="center">10/12/14</td><td align="center"><b>81</b></td><td align="center">71.8/132</td><td align="center">7.9</td><td align="left">Franklin Canyon GC</td></tr>
+<tr style="background-color:#F8E6D1;color:Black;font-family:verdana;font-size:8pt; "><td align="center">*</td><td align="center">A</td><td align="center">9/28/14</td><td align="center"><b>81</b></td><td align="center">72.4/129</td><td align="center">7.5</td><td align="left">Boundary Oak GC</td></tr>
+<tr style="background-color:White;color:Black;font-family:verdana;font-size:8pt; "><td align="center">*</td><td align="center">A</td><td align="center">9/27/14</td><td align="center"><b>75</b></td><td align="center">69.2/120</td><td align="center">5.5</td><td align="left">Peacock Gap Gcc</td></tr>
+<tr style="background-color:#F8E6D1;color:Black;font-family:verdana;font-size:8pt; "><td align="center">*</td><td align="center">A</td><td align="center">9/21/14</td><td align="center"><b>80</b></td><td align="center">71.8/132</td><td align="center">7.0</td><td align="left">Franklin Canyon GC</td></tr>
+<tr style="background-color:White;color:Black;font-family:verdana;font-size:8pt; "><td align="center">*</td><td align="center">A</td><td align="center">9/13/14</td><td align="center"><b>79</b></td><td align="center">72.4/129</td><td align="center">5.8</td><td align="left">Boundary Oak GC</td></tr>
+<tr style="background-color:#F8E6D1;color:Black;font-family:verdana;font-size:8pt; "><td align="center"> </td><td align="center">A</td><td align="center">9/6/14</td><td align="center"><b>85</b></td><td align="center">71.7/129</td><td align="center">11.7</td><td align="left">Rooster Run GC</td></tr>
+<tr style="background-color:White;color:Black;font-family:verdana;font-size:8pt; "><td align="center">*</td><td align="center">A</td><td align="center">9/1/14</td><td align="center"><b>81</b></td><td align="center">72.4/129</td><td align="center">7.5</td><td align="left">Boundary Oak GC</td></tr>
+<tr style="background-color:#F8E6D1;color:Black;font-family:verdana;font-size:8pt; "><td align="center">*</td><td align="center">A</td><td align="center">8/31/14</td><td align="center"><b>76</b></td><td align="center">72.4/129</td><td align="center">3.2</td><td align="left">Boundary Oak GC</td></tr>
+<tr style="background-color:White;color:Black;font-family:verdana;font-size:8pt; "><td align="center"> </td><td align="center">A</td><td align="center">8/30/14</td><td align="center"><b>83</b></td><td align="center">72.9/126</td><td align="center">9.1</td><td align="left">Harding Park (Tpc) GC Harding</td></tr>
+<tr style="background-color:#EF8811"><td align="center" height="2" colspan="7" style="color:White;"></td></tr>
+<tr><td align="center" colspan="7"><span style="color:#003399;font-family:verdana;font-size:8pt; ">T = Score Type (H - Home, A - Away, T - Tournament, P - Penalty,<br/>
+C - Combined, I - Internet)<br/>
+U - Used for USGA Handicap Index&reg; Computation
+</span></td></tr>
+<tr style="background-color:#EF8811"><td align="center" colspan="7" style="color:White;font-family:verdana;font-size:14px;font-weight:bold; ">Two Lowest Eligible Tournament Scores</td></tr>
+<tr style="background-color:#0066CC"><th align="center" width="20" style="color:White;font-family:verdana;font-size:8pt; ">&nbsp;</th><th align="center" width="19" style="color:White;font-family:verdana;font-size:8pt; ">T</th><th align="center" width="61" style="color:White;font-family:verdana;font-size:8pt; ">Date</th><th align="center" width="51" style="color:White;font-family:verdana;font-size:8pt; ">Score</th><th align="center" width="62" style="color:White;font-family:verdana;font-size:8pt; ">CR/Slope</th><th align="center" width="38" style="color:White;font-family:verdana;font-size:8pt; ">Diff.</th><th align="center" width="195" style="color:White;font-family:verdana;font-size:8pt; ">Course Name</th></tr>
+<tr style="background-color:#F8E6D1;color:Black;font-family:verdana;font-size:8pt; "><td align="center">&nbsp;</td><td align="center">T</td><td align="center">4/11/14</td><td align="center"><b>78</b></td><td align="center">73.8/131</td><td align="center">3.6</td><td align="left">Metropolitan Golf Links Club</td></tr>
+<tr style="background-color:White;color:Black;font-family:verdana;font-size:8pt; "><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr style="background-color:#EF8811"><td align="center" height="2" colspan="7" style="color:White;"></td></tr>
+</tbody></table></td>
+</tr><tr>
+<td align="center" valign="middle" colspan="2" style="text-align:center;vertical-align:middle; "><img border="0" alt="" src="http://ghpcdn.ghin.com/GHINeNewsletterImages/spacer.gif" height="20" />
+</td>
+</tr><tr>
+<td align="center" valign="middle" colspan="2" style="text-align:center;vertical-align:middle; "><div align="center" style="position:relative;display:block;text-align:center;vertical-align:middle;" >
+<div style="margin-left:auto;margin-right:auto;" >
+<p style="font-family: helvetica, arial, 'lucida grande', sans-serif; font-size: 16px; margin: 2px 0px; padding: 0px; color: #006699; text-decoration: none;"><a href="http://www.ncga.org/membership/join-us/" style="text-decoration: none; color: #006699;">Membership</a> | <a href="http://www.ncga.org/gcupdate/cd/gcd/" style="text-decoration: none; color: #006699;">NCGA Courses</a> | <a href="http://www.ncga.org/rules/" style="text-decoration: none; color: #006699;">Rules</a> | <a href="http://www.ncga.org/category/tournament/" style="text-decoration: none; color: #006699;">Competitions</a> | <a href="http://www.ncga.org/handicap/" style="text-decoration: none; color: #006699;">Handicap</a>  <br /><a href="http://www.ncga.org/juniors/" style="text-decoration: none; color: #006699;">Juniors</a> | <a href="http://shop.ncga.org/?Click=25" style="text-decoration: none; color: #006699;">Shop</a> | <a href="http://www.ncga.org/about-us/contact-us/" style="text-decoration: none; color
+ : #006699;">Contact Us</a> </p><p> <br /></p><p style="font-family: helvetica, arial, 'lucida grande', sans-serif; font-size: 14px; margin: 2px 0px; padding: 0px;">Northern California Golf Association<br />3200 Lopez Road | PO Box NCGA | Pebble Beach, CA 93953 <br />831.625.4653 | Web: <a href="http://www.ncga.org/">www.ncga.org</a> | E-mail: <a href="mailto:ncgainfo@ncga.org">member@ncga.org</a></p></div>
+</div></td>
+</tr><tr>
+<td align="center" valign="top" colspan="2" style="text-align:center;vertical-align:top; "><div align="center" style="position:relative;display:block;text-align:center;vertical-align:top;" >
+<div style="margin-left:auto;margin-right:auto;" >
+<table cellspacing="0" cellpadding="0" border="0" align="center" valign="top"><tbody><tr><td align="center" style="font-size: 10px;">Your privacy is very important. Your e-mail address will be kept private, is not publicly accessible and will never be given out or sold to any third party.  To remove your e-mail address <a href="http://www.ghin.com/emailUpdate.aspx">CLICK HERE</a> and enter your GHIN Number and either your last name or club number. Next, delete your e-mail address and click <b>NEXT</b>.  If you have any questions, contact us at <a href="mailto:member@ncga.org">member@ncga.org</a> or (831) 625-4653.<br /><br /><br /></td></tr></tbody></table></div>
+</div></td>
+</tr></table></td></tr></tbody></table><div style="float:right;">
+<img src="http://ghp.ghin.com/GHINeNewsletters/images/LogVisit.gif?rrid=10749&ghin=8670588&vc=1&em=msjche@gmail.com" alt="" /></div>
+</div>
+----boundary_1189187_41801c2d-a702-4c5e-8c74-5c0683b6c0ea--
+
+

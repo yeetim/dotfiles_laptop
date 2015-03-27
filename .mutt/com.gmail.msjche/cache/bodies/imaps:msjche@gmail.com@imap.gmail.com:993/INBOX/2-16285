@@ -1,0 +1,2103 @@
+Delivered-To: msjche@gmail.com
+Received: by 10.194.34.4 with SMTP id v4csp2130487wji;
+        Tue, 24 Mar 2015 06:04:44 -0700 (PDT)
+X-Received: by 10.42.249.20 with SMTP id mi20mr25341951icb.86.1427202283383;
+        Tue, 24 Mar 2015 06:04:43 -0700 (PDT)
+Return-Path: <36mARVQcLBp8MNQDOKXXNTSTAD.BNLLRIBGDFL9HK.BNL@scoutcamp.bounces.google.com>
+Received: from mail-ie0-x246.google.com (mail-ie0-x246.google.com. [2607:f8b0:4001:c03::246])
+        by mx.google.com with ESMTPS id 24si3047916ior.97.2015.03.24.06.04.42
+        for <msjche@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 24 Mar 2015 06:04:43 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 36mARVQcLBp8MNQDOKXXNTSTAD.BNLLRIBGDFL9HK.BNL@scoutcamp.bounces.google.com designates 2607:f8b0:4001:c03::246 as permitted sender) client-ip=2607:f8b0:4001:c03::246;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 36mARVQcLBp8MNQDOKXXNTSTAD.BNLLRIBGDFL9HK.BNL@scoutcamp.bounces.google.com designates 2607:f8b0:4001:c03::246 as permitted sender) smtp.mail=36mARVQcLBp8MNQDOKXXNTSTAD.BNLLRIBGDFL9HK.BNL@scoutcamp.bounces.google.com;
+       dkim=pass header.i=@youtube.com;
+       dmarc=pass (p=QUARANTINE dis=NONE) header.from=youtube.com
+Received: by mail-ie0-x246.google.com with SMTP id oe10so144262129ieb.3
+        for <msjche@gmail.com>; Tue, 24 Mar 2015 06:04:42 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=youtube.com; s=20120806;
+        h=mime-version:reply-to:precedence:list-unsubscribe:feedback-id
+         :message-id:date:subject:from:to:content-type;
+        bh=zOJh5Irqzw0+q5uM0DJ0iSatu4pgaxAMGy0hILbIZNM=;
+        b=JgLETEWUF/iM7yaup/LjNfOA3nvlC2S6ZmHcvPWg+VpjGoY0k5LrQC8JirV1bHxHTV
+         RLMbwi0FGVdLxdqtMrxtDA3Sb1/84+4kf+vc3NhcWKJO7haRMoUUQs8HfdEiHHelbLzl
+         I0Hr1oU8l35EcaADmgcK0Hu2ftttoylmM2upOqfJar/Aouy2s/KOM9vOJmB5UbrA+ewQ
+         FnokrSMrsxVKiO4FDrgpZ46Jk3qxR+Ofou9MkTuSu5BBdaUrydPZIBrBTeRiLtg/fyIb
+         DVLpyvRTRCAkj6M5X+O9GjeQatud1XbQ4Wa9vs1mt0cbkkN/aWeRNZQhVCCWSjbVjk1A
+         DOaQ==
+MIME-Version: 1.0
+X-Received: by 10.182.105.169 with SMTP id gn9mr3277206obb.28.1427202282216;
+ Tue, 24 Mar 2015 06:04:42 -0700 (PDT)
+Reply-To: YouTube <noreply@youtube.com>
+X-Google-Id: 5000623174975488
+Precedence: bulk
+List-Unsubscribe: <https://www.youtube.com/attribution_link?u=/email_unsubscribe?uid%3D4I3--47DNXxpQbWOhcyTvQ%26action_unsubscribe%3DJPKrsD8NWbfBzW2TzzhMrfEsHmh8MTQyNzE2MDA4NEAxNDI3MTYwMDg0%26feature%3Dem-mc&g=yM0zOHoQHK35mSiVANE8TTW-GHXbZcc%3D&a=SKi0J0z2Qao>
+Feedback-ID: Len-US:D832015:C542703:gamma
+X-No-Auto-Attachment: 1
+Message-ID: <1e47fe3ef8d32dd5.1427202280902.604909.542703.en-US.77b04dd8e4f7e627@google.com>
+Date: Tue, 24 Mar 2015 13:04:42 +0000
+Subject: Experience the 2015 YouTube Music Awards Show
+From: YouTube <noreply@youtube.com>
+To: msjche@gmail.com
+Content-Type: multipart/alternative; boundary=089e0149bac20ddfab0512086d31
+
+--089e0149bac20ddfab0512086d31
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+VmlldyBlbWFpbCBpbiBhIHdlYiBicm93c2VyICANCmh0dHA6Ly95b3V0dWJlLmZicmlkZ2VjZG4u
+bmV0L3l0bWEyMDE1L2VuX3VzL2luZGV4Lmh0bWwNCiAgCQkgCQkgWW91VHViZSBCcm9hZGNhc3QN
+CiAgIA0KaHR0cHM6Ly93d3cueW91dHViZS5jb20vYXR0cmlidXRpb25fbGluaz91PS95b3V0dWJl
+P2ZlYXR1cmUlM0RpbnAtZW0tdzU4LTAxJmc9QW9CWUhuOHVNWTItNFZ3RE9GYjE1c1JMUmRwU2c0
+aUxjQW9GcnJGUGt6UXd6bzI0Y0xZT01saW10aFlrZV9Yc0trSzAmYT1TS2kwSjB6MlFhbw0KDQot
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tDQoNCiAgCQkg
+CQkgVGhlIDIwMTUgWW91VHViZSBNdXNpYyBBd2FyZHMgU2hvdyBpcyBub3cgTElWRQ0KICBDZWxl
+YnJhdGUgdGhlIGFydGlzdHMgeW91IHZpZXdlZCwgc2hhcmVkLCBhbmQgbG92ZWQgdGhlIG1vc3Qg
+bGFzdCB5ZWFyICANCndpdGggYW4gYXdhcmRzIHNob3cgbGlrZSB5b3UndmUgbmV2ZXIgc2VlbiBi
+ZWZvcmUuIEZlYXR1cmluZyBlc3RhYmxpc2hlZCAgDQphbmQgZW1lcmdpbmcgYWN0cyBhbHJlYWR5
+IG9uIHRoZWlyIHdheSB0byBhIGJpZyAyMDE1LCB3ZSB0ZWFtZWQgd2l0aCBWaWNlICANCnRvIGNy
+ZWF0ZSBhbiBleGNsdXNpdmUgY29sbGVjdGlvbiBvZiAxMyBvZmZpY2lhbCwgbmV3IG11c2ljIHZp
+ZGVvcy4gV2F0Y2ggIA0KdGhlbSBhbGwgIA0KKGh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2F0dHJp
+YnV0aW9uX2xpbms/dT0vcGxheWxpc3Q/bGlzdCUzRFBMYk9xNm55Nkk2X25nNVJhdS02aFYyUTFK
+NzVWX3JXcjElMjZmZWF0dXJlJTNEaW5wLWVtLXc1OC0wMyZnPUVZd1VCcDZYVjhRYXFTOEpPZ3Bl
+YWEtNDdjVXc3TXhGd2dqVEtjYi02RFJSMVNlUHh3dUYxQmRRR3cyMHRxekZqOTJNcmclM0QlM0Qm
+YT1TS2kwSjB6MlFhbykgIA0KYXQgb25jZSwgb3Igb25lIGEgZGF5LCB0aGlzIHNob3cncyBhbGwg
+eW91cnMuDQogIAkJIAkJICANCmh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2F0dHJpYnV0aW9uX2xp
+bms/dT0vd2F0Y2g/diUzRE9ycV83NWtGaThJJTI2bGlzdCUzRFBMYk9xNm55Nkk2X25nNVJhdS02
+aFYyUTFKNzVWX3JXcjElMjZpbmRleCUzRDI2JTI2ZmVhdHVyZSUzRGlucC1lbS13NTgtMDQmZz1H
+R3dXRDZVS0kzc3ZJNzFQMi1VeDZEdm0xUWhZQUJSS2FubjhqeHBzV213dkZoeFZ3SUxoV2ZHWGNo
+ZThQTVFYekElM0QlM0QmYT1TS2kwSjB6MlFhbw0KICAJCSAJCSBFZCBTaGVlcmFuICYgUnVkaW1l
+bnRhbC0gIkJsb29kc3RyZWFtIg0KDQogIAkJIAkJIAkJICANCmh0dHBzOi8vd3d3LnlvdXR1YmUu
+Y29tL2F0dHJpYnV0aW9uX2xpbms/dT0vd2F0Y2g/diUzRDVmNUE0RG5HdGlzJTI2bGlzdCUzRFBM
+Yk9xNm55Nkk2X25nNVJhdS02aFYyUTFKNzVWX3JXcjElMjZpbmRleCUzRDE5JTI2ZmVhdHVyZSUz
+RGlucC1lbS13NTgtMDUmZz11a1R1UE1kWktEZXBPTV8zTXBHbjFJREhFc2xEQVVwNG5VMzU5ZVFp
+dmZkUVg5Y2EtSGxhWmJNcmhicVFfMDczJmE9U0tpMEowejJRYW8NCiAgCQkgCQkgQ2hhcmxpIFhD
+WCAtIEZhbW91cw0KDQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tDQoNCiAgCQkgIA0KaHR0cHM6Ly93d3cueW91dHViZS5jb20vYXR0cmlidXRpb25fbGlu
+az91PS93YXRjaD92JTNEbkpTZFlsQUZLcUElMjZpbmRleCUzRDIlMjZsaXN0JTNEUExiT3E2bnk2
+STZfbmc1UmF1LTZoVjJRMUo3NVZfcldyMSUyNmZlYXR1cmUlM0RpbnAtZW0tdzU4LTA2Jmc9dTdK
+U3JYVThlUDVjck9MNk5UdXFmWkx4UXVmb3REb21DNlZjRi1VVmFndUZwTVNjSUhLdkV3Yjc0UG5x
+Ym9aYVBWeG80QSUzRCUzRCZhPVNLaTBKMHoyUWFvDQogIAkJIAkJIE1hcnRpbiBHYXJyaXggZmVh
+dC4gVXNoZXIgLSAnRG9uJ3QgTG9vayBEb3duJw0KDQogIAkJIAkJIAkJICANCmh0dHBzOi8vd3d3
+LnlvdXR1YmUuY29tL2F0dHJpYnV0aW9uX2xpbms/dT0vd2F0Y2g/diUzRGNOYkZjLWZhLXd3JTI2
+aW5kZXglM0QxMyUyNmxpc3QlM0RQTGJPcTZueTZJNl9uZzVSYXUtNmhWMlExSjc1Vl9yV3IxJTI2
+ZmVhdHVyZSUzRGlucC1lbS13NTgtMDcmZz1DNXhLWU5XZGpKWmozU1JHN2RMeUl2dk44d0dXZ09a
+YzBFdWtrSFNQQkxvRlg0M0UxdFVLMFNPODNnc2ZJRHNlJmE9U0tpMEowejJRYW8NCiAgCQkgCQkg
+RktBIHR3aWdzIC0tIEdsYXNzICYgUGF0cm9uDQoNCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0NCg0KICAJCSAJCSAgDQpodHRwczovL3d3dy55b3V0dWJl
+LmNvbS9hdHRyaWJ1dGlvbl9saW5rP3U9L3dhdGNoP3YlM0RRQUQwQnRFdjYtUSUyNmluZGV4JTNE
+MjglMjZsaXN0JTNEUExiT3E2bnk2STZfbmc1UmF1LTZoVjJRMUo3NVZfcldyMSUyNmZlYXR1cmUl
+M0RpbnAtZW0tdzU4LTA4Jmc9UlJtZEt1OEwtU0JZMV8tbjh5QWJfNDNSRmx1RDNmOTFvVHYwRHIz
+Y3JjVHQyT1pXazdkWjJGb3RjR0tfVk1LUXpURTl2d0dwQXclM0QlM0QmYT1TS2kwSjB6MlFhbw0K
+ICAJCSBMaW5kc2V5IFN0aXJsaW5nIC0gVGFrZSBGbGlnaHQNCg0KICAJCSAJCSAgDQpodHRwczov
+L3d3dy55b3V0dWJlLmNvbS9hdHRyaWJ1dGlvbl9saW5rP3U9L3dhdGNoP3YlM0RoWEk4UlFZQzM2
+USUyNmxpc3QlM0RQTGJPcTZueTZJNl9uZzVSYXUtNmhWMlExSjc1Vl9yV3IxJTI2aW5kZXglM0Qy
+NCUyNmZlYXR1cmUlM0RpbnAtZW0tdzU4LTA5Jmc9WlNIS3oyemJRQUhUSjNIRFRpLUJhYTBFYkV5
+RjdyTG1Pamg5YTF2UjBkRlJzcW9wckRuVEctV3d4TlFzb0FDTSZhPVNLaTBKMHoyUWFvDQogIAkJ
+IE5pY2t5IEphbSB5IEVucmlxdWUgSWdsZXNpYXMgRWwgUGVyZPNuDQoNCiAgCQkgCQkgIA0KaHR0
+cHM6Ly93d3cueW91dHViZS5jb20vYXR0cmlidXRpb25fbGluaz91PS93YXRjaD92JTNEUnJJLTN2
+dDVWbkUlMjZpbmRleCUzRDExJTI2bGlzdCUzRFBMYk9xNm55Nkk2X25nNVJhdS02aFYyUTFKNzVW
+X3JXcjElMjZmZWF0dXJlJTNEaW5wLWVtLXc1OC0xMCZnPUdNQ1VOS2NpUEhzR3I0bl9UR081QnpB
+UGFoZUU4d1pjaDcyUjVkMVJJbXprci1Ha0pfNDk0cHV3dU5zJTNEJmE9U0tpMEowejJRYW8NCiAg
+CQkgTWlnb3MgLS0gT25lIFRpbWUNCg0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLQ0KDQogIAkJICANCmh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2F0dHJp
+YnV0aW9uX2xpbms/dT0vd2F0Y2g/diUzRDEwS2M3Uksyck9zJTI2aW5kZXglM0Q4JTI2bGlzdCUz
+RFBMYk9xNm55Nkk2X25nNVJhdS02aFYyUTFKNzVWX3JXcjElMjZmZWF0dXJlJTNEaW5wLWVtLXc1
+OC0xMSZnPXhXbllDSm4wWWduQVVvNjdkeWh5bXB3cDctMjJNNnB2X3hXem40MkRqU19KT3ZnR0RI
+ZE5rTWhNbW1wZyZhPVNLaTBKMHoyUWFvDQogIAkJIFNoYW1pciAtIENhbGwgSXQgT2ZmDQoNCiAg
+CQkgCQkgIA0KaHR0cHM6Ly93d3cueW91dHViZS5jb20vYXR0cmlidXRpb25fbGluaz91PS93YXRj
+aD92JTNEczJfWUR0S21zVkElMjZsaXN0JTNEUExiT3E2bnk2STZfbmc1UmF1LTZoVjJRMUo3NVZf
+cldyMSUyNmluZGV4JTNENiUyNmZlYXR1cmUlM0RpbnAtZW0tdzU4LTEyJmc9UzhxZXRzMWUzQkdo
+MDVuM0VpVFoyajEyYmFiRXdUN0ZQS3hOZlR0R1RTcGNaZW5pQUFGTzlwWVV4aWg1RDM0YlBhLTV3
+dyUzRCUzRCZhPVNLaTBKMHoyUWFvDQogIAkJIE1BWCAtIEdpYmJlcmlzaCAoZmVhdC4gSG9vZGll
+IEFsbGVuKQ0KDQogIAkJIAkJICANCmh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2F0dHJpYnV0aW9u
+X2xpbms/dT0vd2F0Y2g/diUzRHpFUEtBV0ZiOGtFJTI2aW5kZXglM0QxNCUyNmxpc3QlM0RQTGJP
+cTZueTZJNl9uZzVSYXUtNmhWMlExSjc1Vl9yV3IxJTI2ZmVhdHVyZSUzRGlucC1lbS13NTgtMTMm
+Zz16YkdiZURqWGVpRmJMSkZkZXFyZkVCY3dLZmU1Um9xSW1rdndxRHJ5dFljc2gtYjl5V1hUZGht
+UUdDRkU4ZyUzRCUzRCZhPVNLaTBKMHoyUWFvDQogIAkJIENhaG9vdHMgLSBObyBNb25leSAoZmVh
+dC4gUm9vbWllKQ0KDQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tDQoNCiAgCQkgIA0KaHR0cHM6Ly93d3cueW91dHViZS5jb20vYXR0cmlidXRpb25fbGlu
+az91PS93YXRjaD92JTNEaHBzYlVwWjYyMW8lMjZsaXN0JTNEUExiT3E2bnk2STZfbmc1UmF1LTZo
+VjJRMUo3NVZfcldyMSUyNmluZGV4JTNEMjElMjZmZWF0dXJlJTNEaW5wLWVtLXc1OC0xNCZnPWQw
+ZnlkY000YzRxd2dYSWR5cmxoZU0tbHhZa2Nwd3hrc2NOLTdlR3lIdEJ4RFdKUXNYVmZCWFRQWU00
+eEJYRUlxeFdpJmE9U0tpMEowejJRYW8NCiAgCQkgTWVnYW4gTmljb2xlIC0tIEVzY2FwZQ0KDQog
+IAkJIAkJICANCmh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2F0dHJpYnV0aW9uX2xpbms/dT0vd2F0
+Y2g/diUzRGJWUF93MXJRd2VFJTI2bGlzdCUzRFBMYk9xNm55Nkk2X25nNVJhdS02aFYyUTFKNzVW
+X3JXcjElMjZpbmRleCUzRDE3JTI2ZmVhdHVyZSUzRGlucC1lbS13NTgtMTUmZz03VTFTTWo1OU9P
+dmllUWpmS1ZWQXBnUElic0R4T3liV2pkZjFKeXNEZUozVlRLVHRDZVc5RTkyZ3lFSXpOTzNYR0ZE
+REJDOCUzRCZhPVNLaTBKMHoyUWFvDQogIAkJIEFjdGlvbiBCcm9uc29uIGZlYXQuIENoYW5jZSBU
+aGUgUmFwcGVyIC0gQmFieSBCbHVlDQoNCiAgCQkgCQkgIA0KaHR0cHM6Ly93d3cueW91dHViZS5j
+b20vYXR0cmlidXRpb25fbGluaz91PS93YXRjaD92JTNEQmdmY1RvQWpmZGMlMjZsaXN0JTNEUExi
+T3E2bnk2STZfbmc1UmF1LTZoVjJRMUo3NVZfcldyMSUyNmluZGV4JTNENCUyNmZlYXR1cmUlM0Rp
+bnAtZW0tdzU4LTE2Jmc9RmV2SkFhYmk3RjJWSEx1azZRS205MUs1b3BiYVVBazc2S3VJUXpZTVNh
+YndXaHZtdkllbWNNdnRpdyUzRCUzRCZhPVNLaTBKMHoyUWFvDQogIAkJIEt5Z28gLSBTdG9sZSBU
+aGUgU2hvdw0KDQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tDQoNCiAgCQkgCQkgCQkgCQkgVHJlbmRpbmcgdGhpcyB3ZWVrDQoNCldlJ3ZlIGdvdCB0aGUg
+c2xvd2VzdCBjaGFzZSBvZiBhbGwgdGltZS4gQnV0IGlmIHlvdSB3YW50IHNvbWV0aGluZyBhIGJp
+dCAgDQptb3JlIGFjdGlvbiBwYWNrZWQsIGNoZWNrIG91dCB3aGF0IGhhcHBlbnMgd2hlbiBMZWdv
+cyByZWNyZWF0ZSAiVGhlICANCk1hdHJpeC4iIE9yLCBvbiBhIG1vcmUgc2VyaW91cyBub3RlLCBs
+aXN0ZW4gdG8gTW9uaWNhIExld2luc2t5J3MgdGFrZSBvbiAgDQpjeWJlciBidWxseWluZy4NCg0K
+ICAJCSAJCSAgDQpodHRwczovL3d3dy55b3V0dWJlLmNvbS9hdHRyaWJ1dGlvbl9saW5rP3U9L3dh
+dGNoP3YlM0RSanRDUzBFRW9DWSUyNmxpc3QlM0RQTGJwaTZaYWh0T0g3aDlPVUxSMUFWYjRpOHpv
+MGN0d0VyJTI2aW5kZXglM0QzJTI2ZmVhdHVyZSUzRGlucC1lbS13NTgtMTcmZz1XdkpnUXVyVmVD
+ejZlSGZkeGt6emQ4cXpGcjZiVTJmS0xma0tKM1pNdUZZakwxLXhVVUFlZ3QySGFuNExnV19fT0xX
+dWVZbyUzRCZhPVNLaTBKMHoyUWFvDQogIAkJIEV4cGxvcmVyIEludGVycnVwdHMgTWF0aW5nIFRv
+cnRvaXNlcywgU2xvd2VzdCBDaGFzZSBFdmVyIEVuc3Vlcw0KDQogIAkJIAkJICANCmh0dHBzOi8v
+d3d3LnlvdXR1YmUuY29tL2F0dHJpYnV0aW9uX2xpbms/dT0vd2F0Y2g/diUzRG5UMGtZdlVGcVZj
+JTI2bGlzdCUzRFBMYnBpNlphaHRPSDdoOU9VTFIxQVZiNGk4em8wY3R3RXIlMjZpbmRleCUzRDQl
+MjZmZWF0dXJlJTNEaW5wLWVtLXc1OC0xOCZnPTNHLVBrdS1YRnhYeEJYbS1sUFBqZmNJNEY2ZUlC
+SmpnWV9yQm4tLVNnbm1RNTNYYW9VeDhkcG1STGw5MXJjenJhNEdPLUxzJTNEJmE9U0tpMEowejJR
+YW8NCiAgCQkgTGVnbyBNYXRyaXggTG9iYnkgRmlnaHQgU2NlbmUNCg0KICAJCSAJCSAgDQpodHRw
+czovL3d3dy55b3V0dWJlLmNvbS9hdHRyaWJ1dGlvbl9saW5rP3U9L3dhdGNoP3YlM0RIXzh5MFdM
+bTc4VSUyNmxpc3QlM0RQTGJwaTZaYWh0T0g3aDlPVUxSMUFWYjRpOHpvMGN0d0VyJTI2aW5kZXgl
+M0QxJTI2ZmVhdHVyZSUzRGlucC1lbS13NTgtMTkmZz0tN3dEWWhzMWZ4aTdOVWV5SUtSUWp1Q3FH
+WVctX0VoYUdON1VzZDM0NXJJamh1dnZfRGp4LTAwVVlyWXVVTXlFcXBPOUVaUSUzRCZhPVNLaTBK
+MHoyUWFvDQogIAkJIE1vbmljYSBMZXdpbnNreTogVGhlIHByaWNlIG9mIHNoYW1lDQoNCi0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0NCg0KICAJCSAJCSAJ
+CSAJCSAJCSBXYW50IG1vcmUgdmlkZW9zPyBGb2xsb3cgYW5kIHN1YnNjcmliZQ0KICAJCSBHb29n
+bGUrOiBodHRwczovL3BsdXMuZ29vZ2xlLmNvbS8reW91dHViZQ0KICAJCSBUd2l0dGVyOiBodHRw
+czovL3R3aXR0ZXIuY29tL1lvdVR1YmUNCiAgCQkgWW91VHViZTogIA0KaHR0cHM6Ly93d3cueW91
+dHViZS5jb20vYXR0cmlidXRpb25fbGluaz91PS95b3V0dWJlP2ZlYXR1cmUlM0RpbnAtZW0tdzU4
+LTIwJmc9X25QWE1rQjFPR2gxa0MzNk02WVo4WHRKLXdzeGYyRnVEV3puMEgtRDNMMWh4eGhrcmZK
+MXB0THAxZWxmTFZBM1pja0tXblJvaDhwZTFBJTNEJTNEJmE9U0tpMEowejJRYW8NCg0KLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQ0KDQogIAkJIChjKSAy
+MDE1IFlvdVR1YmUsIExMQyA5MDEgQ2hlcnJ5IEF2ZSwgU2FuIEJydW5vLCBDQSA5NDA2Ng0KDQpU
+aGlzIGVtYWlsIHdhcyBzZW50IHRvIG1zamNoZUBnbWFpbC5jb20gYmVjYXVzZSB5b3UgaW5kaWNh
+dGVkIHRoYXQgeW91IGFyZSAgDQp3aWxsaW5nIHRvIHJlY2VpdmUgb2NjYXNpb25hbCBZb3VUdWJl
+IHByb2R1Y3QtcmVsYXRlZCBlbWFpbHMuIElmIHlvdSBkbyBub3QgIA0Kd2lzaCB0byByZWNlaXZl
+IHN1Y2ggZW1haWxzIGluIHRoZSBmdXR1cmUsIHBsZWFzZSB1bnN1YnNjcmliZSAgDQpodHRwczov
+L3d3dy55b3V0dWJlLmNvbS9hdHRyaWJ1dGlvbl9saW5rP3U9L2VtYWlsX3Vuc3Vic2NyaWJlP3Vp
+ZCUzRDRJMy0tNDdETlh4cFFiV09oY3lUdlElMjZhY3Rpb25fdW5zdWJzY3JpYmUlM0RKUEtyc0Q4
+TldiZkJ6VzJUenpoTXJmRXNIbWg4TVRReU56RTJNREE0TkVBeE5ESTNNVFl3TURnMCUyNmZlYXR1
+cmUlM0RlbS1tYyZnPXlNMHpPSG9RSEszNW1TaVZBTkU4VFRXLUdIWGJaY2MlM0QmYT1TS2kwSjB6
+MlFhby4gIA0KWW91IGNhbiBhbHNvIGNoYW5nZSB5b3VyIHByZWZlcmVuY2VzIGJ5IHZpc2l0aW5n
+IHlvdXIgRW1haWwgT3B0aW9ucyAgDQpodHRwczovL3d3dy55b3V0dWJlLmNvbS9hdHRyaWJ1dGlv
+bl9saW5rP3U9L2FjY291bnRfbm90aWZpY2F0aW9ucz9mZWF0dXJlJTNEaW5wLWVtLXc1OC0yMSZn
+PXBOT1F6MC1zb3l5NGxtQWNLZzNPblk2NWFIeV9ENmQ0OXNEVGtLRkImYT1TS2kwSjB6MlFhbw0K
+ICBpbiB5b3VyIFlvdVR1YmUgYWNjb3VudCBhdCB3d3cueW91dHViZS5jb20vYWNjb3VudF9ub3Rp
+ZmljYXRpb25zICANCmh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2F0dHJpYnV0aW9uX2xpbms/dT0v
+YWNjb3VudF9ub3RpZmljYXRpb25zP2ZlYXR1cmUlM0RpbnAtZW0tdzU4LTIyJmc9cE5PUXowLXNv
+eXk0bG1BY0tnM09uWTY1YUh5X0Q2ZDQ5c0RUa0tGQiZhPVNLaTBKMHoyUWFvDQo=
+--089e0149bac20ddfab0512086d31
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html public "- / /w3c / /dtd xhtml 1.0 strict / /en" "http: / /ww=
+w.w3.org /tr /xhtml1 /dtd /xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+	<meta name=3D"HandheldFriendly" content=3D"true">
+	<meta name=3D"MobileOptimized" content=3D"320">=20
+	<meta name=3D"viewport" content=3D"width=3Ddevice-width">
+	<title>YouTube Broadcast</title>
+
+	<!--[if IEMobile]>
+		<style type=3D"text/css">
+			table[class=3D"wrapper-table"]{ width:320px!important; min-width: 320px!=
+important;}
+
+			/* STANDARD HEADER */
+			a[class=3D"browser-link"]{ margin-left:15px!important;}
+			table[class=3D"standard-header-table"]{ width:290px!important; height:60=
+px!important;}
+			table[class=3D"standard-header-table"] tr{ display:table-row!important;}
+			td[class=3D"standard-header-table-outer"]{ width:290px!important; height=
+:60px!important;}
+			td[class=3D"resizable-row"]{ width:61px!important; min-width:61px!import=
+ant; height:60px!important; display:table-cell!important;}
+			img[class=3D"resizable-image"]{ width:61px!important; height:60px!import=
+ant; display:block!important;}
+			td[class=3D"logo-row"]{ width:229px!important; height:60px!important; di=
+splay:table-cell!important;}
+			img[class=3D"logo-image"]{ width:229px!important; height:60px!important;=
+ display:block!important;}
+			td[class=3Dspacer-header]{ height:5px!important;}
+
+			td[class=3D"outer-desktop-header-table"]{ display:none!important; width:=
+0px!important; height:0px!important; visibility:hidden!important;}
+			table[class=3D"desktop-header-table"]{  display:none!important; width:0p=
+x!important; height:0px!important; visibility:hidden!important;}
+			td[class=3D"desktop-header-cell"]{ display:none!important; width:0px!imp=
+ortant; height:0px!important; visibility:hidden!important; min-width: 0px!i=
+mportant;}
+			img[class=3D"desktop-header-image"]{ display:none!important; width:0px!i=
+mportant; height:0px!important; visibility:hidden!important;}
+
+			/* HERO */
+			table[class=3Dhero-table]{ width:290px!important;}
+			img[class=3Dhero-image]{ width:290px!important;height:163px!important;}
+		=09
+			/* CHANNEL BANNER */
+			img[class=3Dhero-banner]{ width:290px!important;height:47px!important;}
+		=09
+			table[class=3Dsubs-banner]{ width: 250px!important;}
+			span[class=3Dsubs-count]{ display: block!important;}
+
+			/* THREE VIDEOS CONTAINER */
+			td[class=3Dthree-videos-container]{ width:290px!important; display:block=
+!important; text-align:center!important;}
+			table[class=3Dthree-videos-data]{ width:250px!important; margin-left:20p=
+x!important;}
+			img[class=3Dthree-videos-image-resize]{ width:290px!important;height:aut=
+o!important;}
+			td[class=3Dthree-vid-data-cell]{ width:185px!important;}
+
+			/* TWO VIDEOS + SUBSCRIBE */
+			table[class=3Dtwo-video-table]{ width:290px!important;}
+			td[class=3Dtwo-video-table-inner]{ width:290px!important;}
+			td[class=3Dtwo-video-single]{ width:290px!important; display:block!impor=
+tant;padding-bottom: 15px;}
+			td[class=3Dtwo-video-single-review]{ width:290px!important; display:bloc=
+k!important;padding-top: 10px;}
+			img[class=3Dtwo-video-image]{ width:290px!important;height:auto!importan=
+t;}
+			table[class=3Dsubscribe-table]{ width:270px!important;}
+			td[class=3Dsubscribe-container]{ width:270px!important; display:block!im=
+portant; text-align:left!important;}
+			img[class=3Dsubscribe-button]{ padding-top:10px!important; text-align:le=
+ft!important;}
+			table[class=3Dtwo-vid-data-table]{ width:280px!important;}
+			table[class=3Dtwo-vid-data-inner]{ width:250px!important;}
+			td[class=3Dtwo-vid-data-inner-info]{ width:185px!important;}
+
+			/* TRENDING VIDEOS */
+			table[class=3Dtrending-container]{ width:290px!important;}
+			table[class=3Dtrending-outer]{ width:290px!important;}
+			td[class=3Dtrending-outer]{ width:290px!important;}
+			td[class=3Dspacer]{ display:none!important;}
+			table[class=3Dtrending-inner]{ width:250px!important;}
+			td[class=3Dtrending-video-row]{ width:290px!important; display:block!imp=
+ortant; text-align:center!important;padding-bottom:15px;}
+			img[class=3Dtrending-video]{ width:290px!important;height:auto!important=
+;}
+			table[class=3Dtrending-text]{ width:250px!important; margin-left:20px!im=
+portant;}
+
+			/* SOCIAL */
+			table[class=3Douter-social]{ width:290px!important;}
+			table[class=3Dinner-social]{ width:250px!important;}
+			td[class=3Dsocial-icon-cell]{ width:40px!important;}
+			td[class=3Dsocial-icon-cell] img{ width:30px!important; height:30px!impo=
+rtant;}
+			span[class=3Dfirst-text]{ display:block; font-size:11px!important;}
+			span[class=3Dsecond-text]{ color:#666666!important; font-size:9px!import=
+ant; font-weight:normal!important; }
+
+			/* FOOTER */
+			table[class=3Dfooter-table]{ width:250px!important;}
+		=09
+			/* LINNER */
+			table[class=3Dliner-separation]{ width:250px!important;}=09
+
+			/* Insights re:view */
+			table[class=3Dtable-insights]{width:305px!important;padding-left:15px!im=
+portant;}
+			td[class=3Dseparator-insights-mobil]{height:10px!important;}
+			td[class=3Delement-block]{display:block!important;width:100%}
+
+			/* Promo module */
+			table[class=3Dtable-promo]{width:305px!important;padding-left:15px!impor=
+tant;padding-right:15px!important;}
+			img[class=3Dapp-store-buttons]{padding-bottom:5px!important;}
+=09
+		</style>
+	<![endif]-->
+=09
+	<style type=3D"text/css">
+		/* Client-specific Styles */
+		#outlook a {padding:0;} /* Force Outlook to provide a "view in browser" m=
+enu link. */
+		body{width:100% !important; -webkit-text-size-adjust:100%; margin:0; padd=
+ing:0;}
+		.ExternalClass {width:100%;} /* Force Hotmail to display emails at full w=
+idth*/ =20
+		.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass fon=
+t, .ExternalClass td, .ExternalClass div {line-height: 100%;} Force Hotmail=
+ to display normal line spacing.  More on that: http://www.emailonacid.com/=
+forum/viewthread/43/=20
+		#backgroundTable {margin:0; padding:0; width:100% !important;}
+		/* End reset */
+
+		body{ margin:0px; background:#F0F0F0;}
+		a{ color:#468aca; text-decoration:none;}
+		hr{display: none!important;background-color: red;}
+
+		@media only screen and (min-device-width: 560px) and (max-device-width: 6=
+00px) {=20
+			table[class=3D"wrapper-table"]{ width:560px!important; min-width: 560px!=
+important;}
+		=09
+			/* STANDARD HEADER */
+			a[class=3D"browser-link"]{ margin-left:15px!important;}
+			table[class=3D"standard-header-table"]{ width:530px!important; height:60=
+px!important;}
+			table[class=3D"standard-header-table"] tr{ display:table-row!important;}
+			td[class=3D"standard-header-table-outer"]{ width:530px!important; height=
+:60px!important;}
+			td[class=3D"resizable-row"]{ width:301px!important; min-width:301px!impo=
+rtant; height:60px!important; display:table-cell!important;}
+			img[class=3D"resizable-image"]{ width:301px!important; height:60px!impor=
+tant; display:block!important;}
+			td[class=3D"logo-row"]{ width:229px!important; height:60px!important; di=
+splay:table-cell!important;}
+			img[class=3D"logo-image"]{ width:229px!important; height:60px!important;=
+ display:block!important;}
+
+			td[class=3D"outer-desktop-header-table"]{ display:none!important; width:=
+0px!important; height:0px!important; visibility:hidden!important;}
+			table[class=3D"desktop-header-table"]{  display:none!important; width:0p=
+x!important; height:0px!important; visibility:hidden!important;}
+			td[class=3D"desktop-header-cell"]{ display:none!important; width:0px!imp=
+ortant; height:0px!important; visibility:hidden!important; min-width: 0px!i=
+mportant;}
+			img[class=3D"desktop-header-image"]{ display:none!important; width:0px!i=
+mportant; height:0px!important; visibility:hidden!important;}
+
+			/* HERO */
+			table[class=3Dhero-table]{ width:530px!important;}
+			img[class=3Dhero-image]{ width:530px!important;height:299px!important;}
+		=09
+			/* CHANNEL BANNER */
+			img[class=3Dhero-banner]{ width:530px!important;height:87px!important;}
+		=09
+			table[class=3Dsubs-banner]{ width: 490px!important;}
+
+			/* THREE VIDEOS CONTAINER */
+			td[class=3Dthree-videos-container]{ width:530px!important; display:block=
+!important; text-align:center!important;}
+			table[class=3Dthree-videos-data]{ width:490px!important; margin-left:20p=
+x!important;}
+			img[class=3Dthree-videos-image-resize]{ width:530px!important;height:aut=
+o!important;}
+			td[class=3Dthree-vid-data-cell]{ width:425px!important;}
+
+			/* TWO VIDEOS + SUBSCRIBE */
+			table[class=3Dtwo-video-table]{ width:530px!important;}
+			td[class=3Dtwo-video-table-inner]{ width:490px!important;}
+			td[class=3Dtwo-video-single]{ width:530px!important; display:block!impor=
+tant;padding-bottom: 15px;}
+			td[class=3Dtwo-video-single-review]{ width:530px!important; display:bloc=
+k!important;padding-top: 10px;}
+			img[class=3Dtwo-video-image]{ width:530px!important;height:auto!importan=
+t;}
+			table[class=3Dsubscribe-table]{ width:510px!important;}
+			td[class=3Dsubscribe-container]{ width:510px!important; display:block!im=
+portant; text-align:left!important;}
+			img[class=3Dsubscribe-button]{ padding-top:10px!important; text-align:le=
+ft!important;}
+			table[class=3Dtwo-vid-data-table]{ width:490px!important;}
+			table[class=3Dtwo-vid-data-inner]{ width:490px!important;}
+			td[class=3Dtwo-vid-data-inner-info]{ width:425px!important;}
+
+			/* TRENDING VIDEOS */
+			table[class=3Dtrending-container]{ width:530px!important;}
+			table[class=3Dtrending-outer]{ width:530px!important;}
+			td[class=3Dtrending-outer]{ width:530px!important;}
+			td[class=3Dspacer]{ display:none!important;}
+			table[class=3Dtrending-inner]{ width:490px!important;}
+			td[class=3Dtrending-video-row]{ width:530px!important; display:block!imp=
+ortant; text-align:center!important;padding-bottom:15px;}
+			img[class=3Dtrending-video]{ width:530px!important;height:auto!important=
+;}
+			table[class=3Dtrending-text]{ width:490px!important; margin-left:20px!im=
+portant;}
+
+			/* SOCIAL */
+			table[class=3Douter-social]{ width:530px!important;}
+			table[class=3Dinner-social]{ width:490px!important;}
+			td[class=3Dsocial-icon-cell]{ width:60px!important;}
+			td[class=3Dsocial-icon-cell] img{ width:50px!important; height:50px!impo=
+rtant;}
+			span[class=3Dfirst-text]{ display:block;}
+			span[class=3Dsecond-text]{ color:#666666!important; font-size:11px!impor=
+tant; font-weight:normal!important; }=20
+
+			/* FOOTER */
+			table[class=3Dfooter-table]{ width:490px!important;}
+			a[class=3Dbrowser-link]{ margin-left:15px!important;}
+
+			/* LINNER */
+			table[class=3Dliner-separation]{ width:490px!important;}
+
+			/* Insights re:view */
+			table[class=3Dtable-insights]{width:545px!important;padding-left:15px!im=
+portant;}
+			td[class=3Dseparator-insights-mobil]{height:10px!important;}
+			td[class=3Delement-block]{display:block!important;width:100%;}
+
+			/* Promo module */
+			table[class=3Dtable-promo]{width:510px!important;padding-right:15px!impo=
+rtant; margin-left: 15px!important;}
+			img[class=3Dapp-store-buttons]{padding-bottom:10px!important;}
+			img[class=3Dimg-block]{ width: 530px!important; margin-bottom: 10px!impo=
+rtant}
+			td[class=3Dseparator-mobil]{ display: none!important;}
+		}
+
+		@media only screen and (min-device-width: 480px) and (max-device-width: 5=
+59px) {
+			table[class=3D"wrapper-table"]{ width:480px!important; min-width: 480px!=
+important;}
+		=09
+			/* STANDARD HEADER */
+			a[class=3D"browser-link"]{ margin-left:15px!important;}
+			table[class=3D"standard-header-table"]{ width:450px!important; height:60=
+px!important;}
+			table[class=3D"standard-header-table"] tr{ display:table-row!important;}
+			td[class=3D"standard-header-table-outer"]{ width:450px!important; height=
+:60px!important;}
+			td[class=3D"resizable-row"]{ width:221px!important; min-width:221px!impo=
+rtant; height:60px!important; display:table-cell!important;}
+			img[class=3D"resizable-image"]{ width:221px!important; height:60px!impor=
+tant; display:block!important;}
+			td[class=3D"logo-row"]{ width:229px!important; height:60px!important; di=
+splay:table-cell!important;}
+			img[class=3D"logo-image"]{ width:229px!important; height:60px!important;=
+ display:block!important;}
+
+			td[class=3D"outer-desktop-header-table"]{ display:none!important; width:=
+0px!important; height:0px!important; visibility:hidden!important;}
+			table[class=3D"desktop-header-table"]{  display:none!important; width:0p=
+x!important; height:0px!important; visibility:hidden!important;}
+			td[class=3D"desktop-header-cell"]{ display:none!important; width:0px!imp=
+ortant; height:0px!important; visibility:hidden!important; min-width: 0px!i=
+mportant;}
+			img[class=3D"desktop-header-image"]{ display:none!important; width:0px!i=
+mportant; height:0px!important; visibility:hidden!important;}
+
+			/* HERO */
+			table[class=3Dhero-table]{ width:450px!important;}
+			img[class=3Dhero-image]{ width:450px!important;height:254px!important;}
+		=09
+			/* CHANNEL BANNER */
+			img[class=3Dhero-banner]{ width:450px!important;height:74px!important;}
+		=09
+			table[class=3Dsubs-banner]{ width: 410px!important;}
+
+			/* THREE VIDEOS CONTAINER */
+			td[class=3Dthree-videos-container]{ width:450px!important; display:block=
+!important; text-align:center!important;}
+			table[class=3Dthree-videos-data]{ width:410px!important; margin-left:20p=
+x!important;}
+			img[class=3Dthree-videos-image-resize]{ width:450px!important;height:aut=
+o!important;}
+			td[class=3Dthree-vid-data-cell]{ width:345px!important;}
+
+			/* TWO VIDEOS + SUBSCRIBE */
+			table[class=3Dtwo-video-table]{ width:450px!important;}
+			td[class=3Dtwo-video-table-inner]{ width:410px!important;}
+			td[class=3Dtwo-video-single]{ width:450px!important; display:block!impor=
+tant;padding-bottom: 15px;}
+			td[class=3Dtwo-video-single-review]{ width:450px!important; display:bloc=
+k!important;padding-top: 10px;}
+			img[class=3Dtwo-video-image]{ width:450px!important;height:auto!importan=
+t;}
+			table[class=3Dsubscribe-table]{ width:430px!important;}
+			td[class=3Dsubscribe-container]{ width:430px!important; display:block!im=
+portant; text-align:left!important;}
+			img[class=3Dsubscribe-button]{ padding-top:10px!important; text-align:le=
+ft!important;}
+			table[class=3Dtwo-vid-data-table]{ width:410px!important;}
+			table[class=3Dtwo-vid-data-inner]{ width:410px!important;}
+			td[class=3Dtwo-vid-data-inner-info]{ width:345px!important;}
+
+			/* TRENDING VIDEOS */
+			table[class=3Dtrending-container]{ width:450px!important;}
+			table[class=3Dtrending-outer]{ width:450px!important;}
+			td[class=3Dtrending-outer]{ width:450px!important;}
+			td[class=3Dspacer]{ display:none!important;}
+			table[class=3Dtrending-inner]{ width:410px!important;}
+			td[class=3Dtrending-video-row]{ width:450px!important; display:block!imp=
+ortant; text-align:center!important;padding-bottom:15px;}
+			img[class=3Dtrending-video]{ width:450px!important;height:auto!important=
+;}
+			table[class=3Dtrending-text]{ width:410px!important; margin-left:20px!im=
+portant;}
+
+			/* SOCIAL */
+			table[class=3Douter-social]{ width:450px!important;}
+			table[class=3Dinner-social]{ width:410px!important;}
+			td[class=3Dsocial-icon-cell]{ width:60px!important;}
+			td[class=3Dsocial-icon-cell] img{ width:50px!important; height:50px!impo=
+rtant;}
+			span[class=3Dfirst-text]{ display:block;}
+			span[class=3Dsecond-text]{ color:#666666!important; font-size:11px!impor=
+tant; font-weight:normal!important; }=20
+
+			/* FOOTER */
+			table[class=3Dfooter-table]{ width:410px!important;}
+			a[class=3Dbrowser-link]{ margin-left:15px!important;}
+
+			/* LINNER */
+			table[class=3Dliner-separation]{ width:410px!important;}
+
+			/* Insights re:view */
+			table[class=3Dtable-insights]{width:465px!important;padding-left:15px!im=
+portant;}
+			td[class=3Dseparator-insights-mobil]{height:10px!important;}
+			td[class=3Delement-block]{display:block!important;width:100%;}
+
+			/* Promo module */
+			table[class=3Dtable-promo]{width:430px!important;padding-right:15px!impo=
+rtant; margin-left: 15px!important;}
+			img[class=3Dapp-store-buttons]{padding-bottom:10px!important;}
+			img[class=3Dimg-block]{ width: 450px!important; margin-bottom: 10px!impo=
+rtant}
+			td[class=3Dseparator-mobil]{ display: none!important;}
+		}
+
+		@media only screen and (min-device-width: 320px) and (max-device-width: 4=
+79px) {
+			table[class=3D"wrapper-table"]{ width:320px!important; min-width: 320px!=
+important;}
+		=09
+			/* STANDARD HEADER */
+			a[class=3D"browser-link"]{ margin-left:15px!important;}
+			table[class=3D"standard-header-table"]{ width:290px!important; height:60=
+px!important;}
+			table[class=3D"standard-header-table"] tr{ display:table-row!important;}
+			td[class=3D"standard-header-table-outer"]{ width:290px!important; height=
+:60px!important;}
+			td[class=3D"resizable-row"]{ width:61px!important; min-width:61px!import=
+ant; height:60px!important; display:table-cell!important;}
+			img[class=3D"resizable-image"]{ width:61px!important; height:60px!import=
+ant; display:block!important;}
+			td[class=3D"logo-row"]{ width:229px!important; height:60px!important; di=
+splay:table-cell!important;}
+			img[class=3D"logo-image"]{ width:229px!important; height:60px!important;=
+ display:block!important;}
+
+			td[class=3D"outer-desktop-header-table"]{ display:none!important; width:=
+0px!important; height:0px!important; visibility:hidden!important;}
+			table[class=3D"desktop-header-table"]{  display:none!important; width:0p=
+x!important; height:0px!important; visibility:hidden!important;}
+			td[class=3D"desktop-header-cell"]{ display:none!important; width:0px!imp=
+ortant; height:0px!important; visibility:hidden!important; min-width: 0px!i=
+mportant;}
+			img[class=3D"desktop-header-image"]{ display:none!important; width:0px!i=
+mportant; height:0px!important; visibility:hidden!important;}
+
+			/* HERO */
+			table[class=3Dhero-table]{ width:290px!important;}
+			img[class=3Dhero-image]{ width:290px!important;height:163px!important;}
+		=09
+			/* CHANNEL BANNER */
+			img[class=3Dhero-banner]{ width:290px!important;height:47px!important;}
+		=09
+			table[class=3Dsubs-banner]{ width: 250px!important;}
+			span[class=3Dsubs-count]{ display: block!important;}
+
+			/* THREE VIDEOS CONTAINER */
+			td[class=3Dthree-videos-container]{ width:290px!important; display:block=
+!important; text-align:center!important;}
+			table[class=3Dthree-videos-data]{ width:250px!important; margin-left:20p=
+x!important;}
+			img[class=3Dthree-videos-image-resize]{ width:290px!important;height:aut=
+o!important;}
+			td[class=3Dthree-vid-data-cell]{ width:185px!important;}
+
+			/* TWO VIDEOS + SUBSCRIBE */
+			table[class=3Dtwo-video-table]{ width:290px!important;}
+			td[class=3Dtwo-video-table-inner]{ width:290px!important;}
+			td[class=3Dtwo-video-single]{ width:290px!important; display:block!impor=
+tant;padding-bottom: 15px;}
+			td[class=3Dtwo-video-single-review]{ width:290px!important; display:bloc=
+k!important;padding-top: 10px;}
+			img[class=3Dtwo-video-image]{ width:290px!important;height:auto!importan=
+t;}
+			table[class=3Dsubscribe-table]{ width:270px!important;}
+			td[class=3Dsubscribe-container]{ width:270px!important; display:block!im=
+portant; text-align:left!important;}
+			img[class=3Dsubscribe-button]{ padding-top:10px!important; text-align:le=
+ft!important;}
+			table[class=3Dtwo-vid-data-table]{ width:250px!important;}
+			table[class=3Dtwo-vid-data-inner]{ width:250px!important;}
+			td[class=3Dtwo-vid-data-inner-info]{ width:185px!important;}
+
+			/* TRENDING VIDEOS */
+			table[class=3Dtrending-container]{ width:290px!important;}
+			table[class=3Dtrending-outer]{ width:290px!important;}
+			td[class=3Dtrending-outer]{ width:290px!important;}
+			td[class=3Dspacer]{display:none!important;}
+			table[class=3Dtrending-inner]{ width:250px!important;}
+			td[class=3Dtrending-video-row]{ width:290px!important; display:block!imp=
+ortant; text-align:center!important;padding-bottom:15px;}
+			img[class=3Dtrending-video]{ width:290px!important;height:auto!important=
+;}
+			table[class=3Dtrending-text]{ width:250px!important; margin-left:20px!im=
+portant;}
+
+			/* SOCIAL */
+			table[class=3Douter-social]{ width:290px!important;}
+			table[class=3Dinner-social]{ width:250px!important;}
+			td[class=3Dsocial-icon-cell]{ width:40px!important;}
+			td[class=3Dsocial-icon-cell] img{ width:30px!important; height:30px!impo=
+rtant;}
+			span[class=3Dfirst-text]{ display:block; font-size:11px!important;}
+			span[class=3Dsecond-text]{ color:#666666!important; font-size:9px!import=
+ant; font-weight:normal!important; }
+
+			/* FOOTER */
+			table[class=3Dfooter-table]{ width:250px!important;}
+			a[class=3Dbrowser-link]{ margin-left:15px!important;}
+
+			/* LINNER */
+			table[class=3Dliner-separation]{ width:250px!important;}
+
+			/* Insights re:view */
+			table[class=3Dtable-insights]{width:290px!important;padding-left:15px!im=
+portant;}
+			td[class=3Dseparator-insights-mobil]{height:10px!important;}
+			td[class=3Delement-block]{display:block!important;width:100%}
+
+			/* Promo module */
+			table[class=3Dtable-promo]{width:270px!important;padding-right:15px!impo=
+rtant; margin-left: 15px!important;}
+			img[class=3Dapp-store-buttons]{padding-bottom:10px!important;}
+			img[class=3Dimg-block]{ width: 290px!important; margin-bottom: 10px!impo=
+rtant}
+			td[class=3Dseparator-mobil]{ display: none!important;}
+		}
+
+		@media only screen and (min-device-width: 300px) and (max-device-width: 3=
+19px) {
+			table[class=3D"wrapper-table"]{ width:300px!important; min-width: 300px!=
+important;}
+		=09
+			/* STANDARD HEADER */
+			a[class=3D"browser-link"]{ margin-left:15px!important;}
+			table[class=3D"standard-header-table"]{ width:270px!important; height:60=
+px!important;}
+			table[class=3D"standard-header-table"] tr{ display:table-row!important;}
+			td[class=3D"standard-header-table-outer"]{ width:270px!important; height=
+:60px!important;}
+			td[class=3D"resizable-row"]{ width:41px!important; min-width:41px!import=
+ant; height:60px!important; display:table-cell!important;}
+			img[class=3D"resizable-image"]{ width:41px!important; height:60px!import=
+ant; display:block!important;}
+			td[class=3D"logo-row"]{ width:229px!important; height:60px!important; di=
+splay:table-cell!important;}
+			img[class=3D"logo-image"]{ width:229px!important; height:60px!important;=
+ display:block!important;}
+
+			td[class=3D"outer-desktop-header-table"]{ display:none!important; width:=
+0px!important; height:0px!important; visibility:hidden!important;}
+			table[class=3D"desktop-header-table"]{  display:none!important; width:0p=
+x!important; height:0px!important; visibility:hidden!important;}
+			td[class=3D"desktop-header-cell"]{ display:none!important; width:0px!imp=
+ortant; height:0px!important; visibility:hidden!important; min-width: 0px!i=
+mportant;}
+			img[class=3D"desktop-header-image"]{ display:none!important; width:0px!i=
+mportant; height:0px!important; visibility:hidden!important;}
+		=09
+			/* HERO */
+			table[class=3Dhero-table]{ width:270px!important;}
+			img[class=3Dhero-image]{ width:270px!important;height:152px!important;}
+		=09
+			/* CHANNEL BANNER */
+			img[class=3Dhero-banner]{ width:270px!important;height:44px!important;}
+		=09
+			table[class=3Dsubs-banner]{ width:230px!important;}
+			span[class=3Dsubs-count]{display:block!important;}
+
+			/* THREE VIDEOS CONTAINER */
+			td[class=3Dthree-videos-container]{ width:270px!important; display:block=
+!important; text-align:center!important;}
+			table[class=3Dthree-videos-data]{ width:230px!important; margin-left:20p=
+x!important;}
+			img[class=3Dthree-videos-image-resize]{ width:270px!important;height:aut=
+o!important;}
+			td[class=3Dthree-vid-data-cell]{ width:165px!important;}
+
+			/* TWO VIDEOS + SUBSCRIBE */
+			table[class=3Dtwo-video-table]{ width:270px!important;}
+			td[class=3Dtwo-video-table-inner]{ width:270px!important;}
+			td[class=3Dtwo-video-single]{ width:270px!important; display:block!impor=
+tant;padding-bottom: 15px;}
+			td[class=3Dtwo-video-single-review]{ width:270px!important; display:bloc=
+k!important;padding-top: 10px;}
+			img[class=3Dtwo-video-image]{ width:270px!important;height:auto!importan=
+t;}
+			table[class=3Dsubscribe-table]{ width:250px!important;}
+			td[class=3Dsubscribe-container]{ width:250px!important; display:block!im=
+portant; text-align:left!important;}
+			img[class=3Dsubscribe-button]{ padding-top:10px!important; text-align:le=
+ft!important;}
+			table[class=3Dtwo-vid-data-table]{ width:230px!important;}
+			table[class=3Dtwo-vid-data-inner]{ width:230px!important;}
+			td[class=3Dtwo-vid-data-inner-info]{ width:165px!important;}
+
+			/* TRENDING VIDEOS */
+			table[class=3Dtrending-container]{ width:270px!important;}
+			table[class=3Dtrending-outer]{ width:270px!important;}
+			td[class=3Dtrending-outer]{ width:270px!important;}
+			td[class=3Dspacer]{ display:none!important;}
+			table[class=3Dtrending-inner]{ width:230px!important;}
+			td[class=3Dtrending-video-row]{ width:270px!important;height:auto!import=
+ant;display:block!important;text-align:center!important;padding-bottom:15px=
+;}
+			img[class=3Dtrending-video]{ width:270px!important;height:auto!important=
+;}
+			table[class=3Dtrending-text]{ width:230px!important; margin-left:20px!im=
+portant;}
+
+			/* SOCIAL */
+			table[class=3Douter-social]{ width:270px!important;}
+			table[class=3Dinner-social]{ width:230px!important;}
+			td[class=3Dsocial-icon-cell]{ width:35px!important;}
+			td[class=3Dsocial-icon-cell] img{ width:25px!important; height:25px!impo=
+rtant;}
+			span[class=3Dfirst-text]{ display:block; font-size:11px!important;}
+			span[class=3Dsecond-text]{ color:#666666!important; font-size:9px!import=
+ant; font-weight:normal!important; }
+
+			/* FOOTER */
+			table[class=3Dfooter-table]{ width:230px!important;}
+			a[class=3Dbrowser-link]{ margin-left:15px!important;}
+
+			/* LINNER */
+			table[class=3Dliner-separation]{ width:230px!important;}
+
+			/* Insights re:view */
+			table[class=3Dtable-insights]{width:270px!important;padding-left:15px!im=
+portant;}
+			td[class=3Dseparator-insights-mobil]{height:10px!important;}
+			td[class=3Dcolum-left-insights-mobil]{width:70%!important;}
+			td[class=3Dcolum-right-insights-mobil]{width:30%!important;}
+
+			/* Promo module */
+			table[class=3Dtable-promo]{width:250px!important;padding-right:15px!impo=
+rtant; margin-left: 15px!important;}
+			img[class=3Dapp-store-buttons]{padding-bottom:10px!important;}
+			img[class=3Dimg-block]{ width: 270px!important; margin-bottom: 10px!impo=
+rtant}
+			td[class=3Dseparator-mobil]{ display: none!important;}
+		}
+
+		@media only screen and (max-device-width: 480px) {
+		  	td[class=3Dborder-devices]{padding: 0 15px!important;}
+		  	td[class=3Dborder-devices-footer]{padding: 0 15px 15px 15px!important;=
+}
+		  	td[class=3Delement-block]{display:block!important;width:100%!important=
+}
+		}
+
+	</style>
+</head>
+<body>
+
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+	<tr>
+		<td align=3D"center" bgcolor=3D"#F0F0F0" style=3D"vertical-align:top;">
+			<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600" cl=
+ass=3D"wrapper-table">
+			=09
+							=09
+	<tr id=3D"row_1" class=3D"banner_header module">
+	<td align=3D"center" bgcolor=3D"#F0F0F0" style=3D"vertical-align:top;">
+		<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600" cla=
+ss=3D"wrapper-table" style=3D"min-width:600px;">
+			<tbody><tr>
+				<td height=3D"15" class=3D"spacer-header" align=3D"center"></td>
+			</tr>
+			<tr>
+				<td height=3D"15" align=3D"center">
+					<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600" =
+class=3D"standard-header-table" style=3D"border-collapse:collapse; border-s=
+pacing:0px; padding:0px!important; margin:0px!important;">=09
+						<tbody><tr>
+							<td width=3D"50%" align=3D"left"><p style=3D"display:inline;font-fam=
+ily:Arial, Helvetica, sans-serif; font-size:11px; color:#999999; line-heigh=
+t:normal; margin:0px; padding:0px;" class=3D" pre-text-data"></p></td>=09
+							<td width=3D"50%" align=3D"right"><!-- VIEW IN BROWSER --><p style=
+=3D"display:inline; font-family:Arial, Helvetica, sans-serif; font-size:11p=
+x; color:#999999; line-height:normal; margin:0px; padding:0px;text-align:ri=
+ght;"><a href=3D"http://www.google.com/appserve/mkt/p/yKS7b0SZ-tDk_uIlMagGF=
+QCcBlyh6XBEWgUQ2R4W2gqRtzn_3B57H6iIAscEpGULxYnkTRDYjhQ3YfoGx5t5MK3kA5QOcHU_=
+" style=3D"text-decoration:none; color:#468aca;" class=3D" browser-link not=
+-clickeable">View email in a web browser</a></p><!-- VIEW IN BROWSER ENDS -=
+-></td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>	=09
+			<tr>
+				<td height=3D"15" class=3D"spacer-header" align=3D"center"></td>
+			</tr>
+			<tr>
+				<td align=3D"center" style=3D"vertical-align:top;" class=3D"standard-he=
+ader-table-outer">
+					<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%"=
+ class=3D"standard-header-table" style=3D"border-collapse:collapse; border-=
+spacing:0px; padding:0px!important; margin:0px!important;">
+						<tbody><tr style=3D"display:none; line-height:0; font-size:0; height:=
+0; padding:0; mso-hide:all;">
+							<td align=3D"left" style=3D"display:none; line-height:0; font-size:0=
+; height:0; padding:0; mso-hide:all;" class=3D"logo-row"><a href=3D"https:/=
+/www.youtube.com/attribution_link?u=3D/youtube?feature%3Dinp-em-w58-01&amp;=
+g=3DAoBYHn8uMY2-4VwDOFb15sRLRdpSg4iLcAoFrrFPkzQwzo24cLYOMlimthYke_XsKkK0&am=
+p;a=3DSKi0J0z2Qao" data-header-description=3D"YouTube Broadcast"><img id=3D=
+"img0" src=3D"http://youtube.fbridgecdn.net/_common/images/v1/en_us/header-=
+a-broadcast.png" width=3D"0" height=3D"0" border=3D"0" style=3D"display:non=
+e; line-height:0; font-size:0; height:0; padding:0; mso-hide:all;" class=3D=
+"logo-image"></a></td>
+							<td align=3D"left" class=3D"resizable-row" style=3D"display:none; li=
+ne-height:0; font-size:0; height:0; padding:0; mso-hide:all;"><img id=3D"im=
+g1" src=3D"http://youtube.fbridgecdn.net/_common/images/v1/en_us/header-c-b=
+roadcast.png" width=3D"0" height=3D"0" border=3D"0" style=3D"display:none; =
+line-height:0; font-size:0; height:0; padding:0; mso-hide:all;" class=3D"re=
+sizable-image"></td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+			<tr>
+				<td height=3D"60" align=3D"left" style=3D"vertical-align:top;" class=3D=
+"outer-desktop-header-table">
+					<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600" =
+class=3D"desktop-header-table" style=3D"border-collapse:collapse; border-sp=
+acing:0px; padding:0px!important; margin:0px!important;">
+						<tbody><tr>
+							<td width=3D"600" height=3D"60" align=3D"left" style=3D"font-size:0p=
+x!important; line-height:0px!important; min-width:600px;" class=3D"desktop-=
+header-cell">
+								<a href=3D"https://www.youtube.com/attribution_link?u=3D/youtube?fe=
+ature%3Dinp-em-w58-02&amp;g=3DLpmFxBE0FiOQC_vZRFHgBWfIbRvFSEhQk9Iq1LAjJQroA=
+cjJI__ckcgMUrGgK8zk9j8X&amp;a=3DSKi0J0z2Qao" class=3D"open-pop-up-header" d=
+ata-header-description=3D"YouTube Broadcast">
+									<img id=3D"img2" src=3D"http://youtube.fbridgecdn.net/_common/imag=
+es/v1/en_us/header-full-broadcast.png" width=3D"600" height=3D"60" border=
+=3D"0" style=3D"display:block;" class=3D"desktop-header-image">
+								</a>
+							</td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+		<span class=3D"hr" style=3D"display:none!important;width:0px!important;he=
+ight:0px!important;line-height:0px!important;margin:0!important;border:0!im=
+portant;padding:0!important;"></span>
+	</td>
+</tr>	=09
+
+	<tr id=3D"row_2" class=3D"spacer module">
+	<td align=3D"center" style=3D"vertical-align:middle;">
+		<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" cla=
+ss=3D"hero-table">
+			<tbody><tr>
+				<td height=3D"20" style=3D"vertical-align: middle;box-shadow: 0px -2px =
+0px rgb(204, 204, 204);"></td>
+			</tr>
+		</tbody></table>
+	</td>
+</tr>	=09
+
+	<tr id=3D"row_3" class=3D"white_spacer module">
+	<td align=3D"center" style=3D"vertical-align:middle;">
+		<table width=3D"600" bgcolor=3D"#ffffff" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" class=3D"hero-table">
+			<tbody><tr><td height=3D"20" style=3D"vertical-align:middle;"></td></tr>
+		</tbody></table>
+	</td>
+</tr>	=09
+
+	<tr id=3D"row_4" class=3D"header_more_text module">
+	<td align=3D"center" valign=3D"top">
+        <table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"=
+0" class=3D"hero-table">
+            <tbody><tr>
+				<td align=3D"center" style=3D"vertical-align:top;" bgcolor=3D"#FFFFFF">
+					<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"560" =
+class=3D"trending-inner">
+						<tbody><tr>
+							<td width=3D"100%" align=3D"left" style=3D"vertical-align:top;">
+								<h1 style=3D"font-family:Arial, Helvetica, sans-serif; font-size:20=
+px; color:#000000; font-weight:bold; line-height:28px; margin:0px!important=
+; padding:0px; padding-bottom:8px;" class=3D"heading-text">The 2015 YouTube=
+ Music Awards Show is now LIVE</h1>
+								<h6 class=3D"content" style=3D"font-family:Arial, Helvetica, sans-s=
+erif; font-size:12px; font-weight:normal; color:#555555; line-height:19px; =
+margin:0px!important; padding:0px!important;background-color:#ffffff;">
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+									<p style=3D"margin: 0px !important; padding: 0px !important;">Cele=
+brate the artists you viewed, shared, and loved the most last year with an =
+awards show like you&rsquo;ve never seen before. Featuring established and =
+emerging acts already on their way to a big 2015, we teamed with Vice to cr=
+eate an exclusive collection of 13 official, new music videos.&nbsp;<a href=
+=3D"https://www.youtube.com/attribution_link?u=3D/playlist?list%3DPLbOq6ny6=
+I6_ng5Rau-6hV2Q1J75V_rWr1%26feature%3Dinp-em-w58-03&amp;g=3DEYwUBp6XV8QaqS8=
+JOgpeaa-47cUw7MxFwgjTKcb-6DRR1SePxwuF1BdQGw20tqzFj92Mrg%3D%3D&amp;a=3DSKi0J=
+0z2Qao" class=3D"">Watch them all</a>&nbsp;at once, or one a day,&nbsp;this=
+ show&rsquo;s all yours.<br></p>
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+								</h6>
+							</td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+        </tbody></table>
+    </td>   =20
+</tr>	=09
+
+	<tr id=3D"row_5" class=3D"white_spacer module">
+	<td align=3D"center" style=3D"vertical-align:middle;">
+		<table width=3D"600" bgcolor=3D"#ffffff" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" class=3D"hero-table">
+			<tbody><tr><td height=3D"20" style=3D"vertical-align:middle;"></td></tr>
+		</tbody></table>
+	</td>
+</tr>	=09
+
+	<tr id=3D"row_6" class=3D"two_channel_videos module">
+	<td width=3D"100%" align=3D"center">
+		<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600" cla=
+ss=3D"two-video-table">
+			<tbody><tr>
+				<td width=3D"100%" align=3D"center" style=3D"vertical-align:middle;" bg=
+color=3D"#FFFFFF">
+					<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" border=3D"0"=
+>
+						<tbody><tr>
+							<td width=3D"100%" align=3D"center" style=3D"vertical-align:top;">
+								<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"10=
+0%">
+									<tbody><tr>
+										<td width=3D"290" align=3D"left" style=3D"vertical-align:top;" cl=
+ass=3D"two-video-single">
+												<a href=3D"https://www.youtube.com/attribution_link?u=3D/watch?=
+v%3DOrq_75kFi8I%26list%3DPLbOq6ny6I6_ng5Rau-6hV2Q1J75V_rWr1%26index%3D26%26=
+feature%3Dinp-em-w58-04&amp;g=3DGGwWD6UKI3svI71P2-Ux6Dvm1QhYABRKann8jxpsWmw=
+vFhxVwILhWfGXche8PMQXzA%3D%3D&amp;a=3DSKi0J0z2Qao" class=3D"">
+													<img id=3D"img0" src=3D"http://youtube.fbridgecdn.net/ytma2015=
+/images/en_us/8c1bc55777380b892656775ab6fb6866_290x163_1427153878.jpeg" hei=
+ght=3D"163" width=3D"290" data-mark=3D"medium" border=3D"0" style=3D"displa=
+y:block;" alt=3D"Ed&nbsp;Sheeran&nbsp;&amp;&nbsp;Rudimental&shy;&nbsp;&quot=
+;Bloodstream&quot;" class=3D"two-video-image">
+												</a>
+											<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+												<tbody><tr>
+													<td height=3D"15" colspan=3D"3"></td>
+												</tr>
+												<tr>
+													<td width=3D"20" align=3D"left"></td>
+													<td align=3D"left" style=3D"vertical-align:top;">
+														<h2 style=3D"height:38px;overflow:hidden;font-family:Arial, H=
+elvetica, sans-serif; font-size:14px; color:#000000; font-weight:bold; line=
+-height:19px; margin:0 0 10px 0!important; padding:0px;" class=3D" auto-tit=
+le">Ed&nbsp;Sheeran&nbsp;&amp;&nbsp;Rudimental&shy;&nbsp;&quot;Bloodstream&=
+quot;</h2>
+														<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=
+=3D"100%">
+															<tbody><tr>
+																<td width=3D"100%" align=3D"left" valign=3D"top"><p style=
+=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:n=
+ormal; color:#555555; line-height:19px; margin:0px!important; padding:0px!i=
+mportant;" class=3D""></p></td>
+															</tr>
+														</tbody></table>
+													</td>
+													<td width=3D"20" align=3D"left"></td>
+												</tr>
+											</tbody></table>
+										</td>
+										<td width=3D"20" align=3D"left" class=3D"spacer"></td>
+										<td width=3D"290" align=3D"left" style=3D"vertical-align:top;padd=
+ing-bottom:0px!important;" class=3D"two-video-single">
+											<a href=3D"https://www.youtube.com/attribution_link?u=3D/watch?v=
+%3D5f5A4DnGtis%26list%3DPLbOq6ny6I6_ng5Rau-6hV2Q1J75V_rWr1%26index%3D19%26f=
+eature%3Dinp-em-w58-05&amp;g=3DukTuPMdZKDepOM_3MpGn1IDHEslDAUp4nU359eQivfdQ=
+X9ca-HlaZbMrhbqQ_073&amp;a=3DSKi0J0z2Qao" class=3D"">
+												<img id=3D"img1" src=3D"http://youtube.fbridgecdn.net/ytma2015/=
+images/en_us/8162807c7dc79caa459676b1fcad0cb6_290x163_1427153892.jpeg" heig=
+ht=3D"163" width=3D"290" data-mark=3D"medium" border=3D"0" style=3D"display=
+:block;" alt=3D"Ed&nbsp;Sheeran&nbsp;&amp;&nbsp;Rudimental&shy;&nbsp;&quot;=
+Bloodstream&quot;" class=3D"two-video-image">
+											</a>
+											<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+												<tbody><tr>
+													<td height=3D"15" colspan=3D"3"></td>
+												</tr>
+												<tr>
+													<td width=3D"20" align=3D"left"></td>
+													<td align=3D"left" style=3D"vertical-align:top;">
+														<h2 style=3D"height:36px;overflow:hidden;font-family:Arial, H=
+elvetica, sans-serif; font-size:14px; color:#000000; font-weight:bold; line=
+-height:19px; margin:0 0 10px 0!important; padding:0px;" class=3D" auto-tit=
+le">Charli&nbsp;XCX&nbsp;- Famous</h2>
+														<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=
+=3D"100%">
+															<tbody><tr>
+																<td width=3D"100%" align=3D"left" valign=3D"top"><p style=
+=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:n=
+ormal; color:#555555; line-height:19px; margin:0px!important; padding:0px!i=
+mportant;" class=3D""></p></td>
+															</tr>
+														</tbody></table>
+													</td>
+													<td width=3D"20" align=3D"left"></td>
+												</tr>
+											</tbody></table>
+										</td>
+									</tr>
+								</tbody></table>
+							</td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+		<span class=3D"hr" style=3D"display:none!important;width:0px!important;he=
+ight:0px!important;line-height:0px!important;margin:0!important;border:0!im=
+portant;padding:0!important;"></span>
+	</td>
+</tr>	=09
+
+	<tr id=3D"row_7" class=3D"two_channel_videos module">
+	<td width=3D"100%" align=3D"center">
+		<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600" cla=
+ss=3D"two-video-table">
+			<tbody><tr>
+				<td width=3D"100%" align=3D"center" style=3D"vertical-align:middle;" bg=
+color=3D"#FFFFFF">
+					<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" border=3D"0"=
+>
+						<tbody><tr>
+							<td width=3D"100%" align=3D"center" style=3D"vertical-align:top;">
+								<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"10=
+0%">
+									<tbody><tr>
+										<td width=3D"290" align=3D"left" style=3D"vertical-align:top;" cl=
+ass=3D"two-video-single">
+												<a href=3D"https://www.youtube.com/attribution_link?u=3D/watch?=
+v%3DnJSdYlAFKqA%26index%3D2%26list%3DPLbOq6ny6I6_ng5Rau-6hV2Q1J75V_rWr1%26f=
+eature%3Dinp-em-w58-06&amp;g=3Du7JSrXU8eP5crOL6NTuqfZLxQufotDomC6VcF-UVaguF=
+pMScIHKvEwb74PnqboZaPVxo4A%3D%3D&amp;a=3DSKi0J0z2Qao" class=3D"">
+													<img id=3D"img0" src=3D"http://youtube.fbridgecdn.net/ytma2015=
+/images/en_us/91e1d497b25446b9a66e9e505d46faf0_290x163_1427147073.jpeg" hei=
+ght=3D"163" width=3D"290" data-mark=3D"medium" border=3D"0" style=3D"displa=
+y:block;" alt=3D"Martin Garrix feat. Usher - &#39;Don&#39;t Look Down&#39;"=
+ class=3D"two-video-image">
+												</a>
+											<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+												<tbody><tr>
+													<td height=3D"15" colspan=3D"3"></td>
+												</tr>
+												<tr>
+													<td width=3D"20" align=3D"left"></td>
+													<td align=3D"left" style=3D"vertical-align:top;">
+														<h2 style=3D"height:38px;overflow:hidden;font-family:Arial, H=
+elvetica, sans-serif; font-size:14px; color:#000000; font-weight:bold; line=
+-height:19px; margin:0 0 10px 0!important; padding:0px;" class=3D" auto-tit=
+le">Martin Garrix feat. Usher - &#39;Don&#39;t Look Down&#39;</h2>
+														<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=
+=3D"100%">
+															<tbody><tr>
+																<td width=3D"100%" align=3D"left" valign=3D"top"><p style=
+=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:n=
+ormal; color:#555555; line-height:19px; margin:0px!important; padding:0px!i=
+mportant;" class=3D""></p></td>
+															</tr>
+														</tbody></table>
+													</td>
+													<td width=3D"20" align=3D"left"></td>
+												</tr>
+											</tbody></table>
+										</td>
+										<td width=3D"20" align=3D"left" class=3D"spacer"></td>
+										<td width=3D"290" align=3D"left" style=3D"vertical-align:top;padd=
+ing-bottom:0px!important;" class=3D"two-video-single">
+											<a href=3D"https://www.youtube.com/attribution_link?u=3D/watch?v=
+%3DcNbFc-fa-ww%26index%3D13%26list%3DPLbOq6ny6I6_ng5Rau-6hV2Q1J75V_rWr1%26f=
+eature%3Dinp-em-w58-07&amp;g=3DC5xKYNWdjJZj3SRG7dLyIvvN8wGWgOZc0EukkHSPBLoF=
+X43E1tUK0SO83gsfIDse&amp;a=3DSKi0J0z2Qao" class=3D"">
+												<img id=3D"img1" src=3D"http://youtube.fbridgecdn.net/ytma2015/=
+images/en_us/5782b7a947ca18d86a97c1033fc355dc_290x163_1427141905.jpeg" heig=
+ht=3D"163" width=3D"290" data-mark=3D"medium" border=3D"0" style=3D"display=
+:block;" alt=3D"Martin Garrix feat. Usher - &#39;Don&#39;t Look Down&#39;" =
+class=3D"two-video-image">
+											</a>
+											<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+												<tbody><tr>
+													<td height=3D"15" colspan=3D"3"></td>
+												</tr>
+												<tr>
+													<td width=3D"20" align=3D"left"></td>
+													<td align=3D"left" style=3D"vertical-align:top;">
+														<h2 style=3D"height:36px;overflow:hidden;font-family:Arial, H=
+elvetica, sans-serif; font-size:14px; color:#000000; font-weight:bold; line=
+-height:19px; margin:0 0 10px 0!important; padding:0px;" class=3D" auto-tit=
+le">FKA twigs -&shy; Glass &amp; Patron</h2>
+														<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=
+=3D"100%">
+															<tbody><tr>
+																<td width=3D"100%" align=3D"left" valign=3D"top"><p style=
+=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:n=
+ormal; color:#555555; line-height:19px; margin:0px!important; padding:0px!i=
+mportant;" class=3D""></p></td>
+															</tr>
+														</tbody></table>
+													</td>
+													<td width=3D"20" align=3D"left"></td>
+												</tr>
+											</tbody></table>
+										</td>
+									</tr>
+								</tbody></table>
+							</td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+		<span class=3D"hr" style=3D"display:none!important;width:0px!important;he=
+ight:0px!important;line-height:0px!important;margin:0!important;border:0!im=
+portant;padding:0!important;"></span>
+	</td>
+</tr>	=09
+
+	<tr id=3D"row_8" class=3D"white_spacer module">
+	<td align=3D"center" style=3D"vertical-align:middle;">
+		<table width=3D"600" bgcolor=3D"#ffffff" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" class=3D"hero-table">
+			<tbody><tr><td height=3D"20" style=3D"vertical-align:middle;"></td></tr>
+		</tbody></table>
+	</td>
+</tr>	=09
+
+	<tr id=3D"row_9" class=3D"tree_trending_videos module">
+	<td width=3D"100%" align=3D"center">
+		<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600" cla=
+ss=3D"trending-container">
+			<tbody><tr>
+				<td width=3D"600" align=3D"center" style=3D"vertical-align:middle;" bgc=
+olor=3D"#FFFFFF" class=3D"trending-outer">
+					<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%"=
+>
+						<tbody><tr>
+							<td width=3D"100%" align=3D"center" style=3D"vertical-align:top;">
+								<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"10=
+0%" class=3D"trending-outer">
+									<tbody><tr>
+										<td width=3D"190" align=3D"center" style=3D"vertical-align:top;" =
+class=3D"trending-video-row">
+											<a href=3D"https://www.youtube.com/attribution_link?u=3D/watch?v=
+%3DQAD0BtEv6-Q%26index%3D28%26list%3DPLbOq6ny6I6_ng5Rau-6hV2Q1J75V_rWr1%26f=
+eature%3Dinp-em-w58-08&amp;g=3DRRmdKu8L-SBY1_-n8yAb_43RFluD3f91oTv0Dr3crcTt=
+2OZWk7dZ2FotcGK_VMKQzTE9vwGpAw%3D%3D&amp;a=3DSKi0J0z2Qao" class=3D" trendin=
+g-link">
+												<img id=3D"img0" src=3D"http://youtube.fbridgecdn.net/ytma2015/=
+images/en_us/5cc0609786590234225484aba1fc8692_190x107_1427127116.jpeg" heig=
+ht=3D"107" width=3D"190" data-mark=3D"small" border=3D"0" style=3D"display:=
+block;" alt=3D"Lindsey Stirling - Take Flight" class=3D" trending-video">
+											</a>
+											<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D=
+"150" class=3D"trending-text">
+												<tbody><tr>
+													<td width=3D"100%" height=3D"20"></td>
+												</tr>
+												<tr>
+													<td width=3D"100%" align=3D"left" style=3D"vertical-align:top;=
+">
+														<h2 style=3D"height: 57px;overflow: hidden;font-family:Arial,=
+ Helvetica, sans-serif; font-size:14px; color:#000000; font-weight:bold; li=
+ne-height:19px; margin:0 0 10px 0!important; padding:0px;" class=3D" auto-t=
+itle">Lindsey Stirling - Take Flight</h2>
+														<p style=3D"font-family:Arial, Helvetica, sans-serif; font-si=
+ze:12px; font-weight:normal; color:#555555; line-height:19px; margin:0px!im=
+portant; padding:0px!important;" class=3D""></p>
+													</td>
+												</tr>
+											</tbody></table>
+										</td>
+										<td width=3D"15" align=3D"left" style=3D"vertical-align:top" clas=
+s=3D"spacer"></td>
+										<td width=3D"190" align=3D"center" style=3D"vertical-align:top;" =
+class=3D"trending-video-row">
+											<a href=3D"https://www.youtube.com/attribution_link?u=3D/watch?v=
+%3DhXI8RQYC36Q%26list%3DPLbOq6ny6I6_ng5Rau-6hV2Q1J75V_rWr1%26index%3D24%26f=
+eature%3Dinp-em-w58-09&amp;g=3DZSHKz2zbQAHTJ3HDTi-Baa0EbEyF7rLmOjh9a1vR0dFR=
+sqoprDnTG-WwxNQsoACM&amp;a=3DSKi0J0z2Qao" class=3D" trending-link">
+												<img id=3D"img1" src=3D"http://youtube.fbridgecdn.net/ytma2015/=
+images/en_us/bfcb5d35894ca3ec89b4ede37c2dc1b0_190x107_1427127165.jpeg" heig=
+ht=3D"107" width=3D"190" data-mark=3D"small" border=3D"0" style=3D"display:=
+block;" alt=3D"Lindsey Stirling - Take Flight" class=3D" trending-video">
+											</a>
+											<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D=
+"150" class=3D"trending-text">
+												<tbody><tr>
+													<td width=3D"100%" height=3D"20"></td>
+												</tr>
+												<tr>
+													<td width=3D"100%" align=3D"left" style=3D"vertical-align:top;=
+">
+														<h2 style=3D"height: 57px;overflow: hidden;font-family:Arial,=
+ Helvetica, sans-serif; font-size:14px; color:#000000; font-weight:bold; li=
+ne-height:19px; margin:0 0 10px 0!important; padding:0px;" class=3D" auto-t=
+itle">Nicky Jam y Enrique Iglesias El Perd=F3n</h2>
+														<p style=3D"font-family:Arial, Helvetica, sans-serif; font-si=
+ze:12px; font-weight:normal; color:#555555; line-height:19px; margin:0px!im=
+portant; padding:0px!important;" class=3D""></p>
+													</td>
+												</tr>
+											</tbody></table>
+										</td>
+										<td width=3D"15" align=3D"left" style=3D"vertical-align:top" clas=
+s=3D"spacer"></td>
+										<td width=3D"190" align=3D"center" style=3D"vertical-align:top;pa=
+dding-bottom:0px!important;" class=3D"trending-video-row">
+											<a href=3D"https://www.youtube.com/attribution_link?u=3D/watch?v=
+%3DRrI-3vt5VnE%26index%3D11%26list%3DPLbOq6ny6I6_ng5Rau-6hV2Q1J75V_rWr1%26f=
+eature%3Dinp-em-w58-10&amp;g=3DGMCUNKciPHsGr4n_TGO5BzAPaheE8wZch72R5d1RImzk=
+r-GkJ_494puwuNs%3D&amp;a=3DSKi0J0z2Qao" class=3D" trending-link">
+												<img id=3D"img2" src=3D"http://youtube.fbridgecdn.net/ytma2015/=
+images/en_us/9729423e6275d9aa18e8fb6e4560ee9b_190x107_1427127202.jpeg" heig=
+ht=3D"107" width=3D"190" data-mark=3D"small" border=3D"0" style=3D"display:=
+block;" alt=3D"Lindsey Stirling - Take Flight" class=3D" trending-video">
+											</a>
+											<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D=
+"150" class=3D"trending-text">
+												<tbody><tr>
+													<td width=3D"100%" height=3D"20"></td>
+												</tr>
+												<tr>
+													<td width=3D"100%" align=3D"left" style=3D"vertical-align:top;=
+">
+														<h2 style=3D"height: 57px;overflow: hidden;font-family:Arial,=
+ Helvetica, sans-serif; font-size:14px; color:#000000; font-weight:bold; li=
+ne-height:19px; margin:0 0 10px 0!important; padding:0px;" class=3D" auto-t=
+itle">Migos &shy;- One Time</h2>
+														<p style=3D"font-family:Arial, Helvetica, sans-serif; font-si=
+ze:12px; font-weight:normal; color:#555555; line-height:19px; margin:0px!im=
+portant; padding:0px!important;" class=3D""></p>
+													</td>
+												</tr>
+											</tbody></table>
+										</td>
+									</tr>
+								</tbody></table>
+							</td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+		<span class=3D"hr" style=3D"display:none!important;width:0px!important;he=
+ight:0px!important;line-height:0px!important;margin:0!important;border:0!im=
+portant;padding:0!important;"></span>
+	</td>
+</tr>	=09
+
+	<tr id=3D"row_10" class=3D"tree_trending_videos module">
+	<td width=3D"100%" align=3D"center">
+		<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600" cla=
+ss=3D"trending-container">
+			<tbody><tr>
+				<td width=3D"600" align=3D"center" style=3D"vertical-align:middle;" bgc=
+olor=3D"#FFFFFF" class=3D"trending-outer">
+					<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%"=
+>
+						<tbody><tr>
+							<td width=3D"100%" align=3D"center" style=3D"vertical-align:top;">
+								<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"10=
+0%" class=3D"trending-outer">
+									<tbody><tr>
+										<td width=3D"190" align=3D"center" style=3D"vertical-align:top;" =
+class=3D"trending-video-row">
+											<a href=3D"https://www.youtube.com/attribution_link?u=3D/watch?v=
+%3D10Kc7RK2rOs%26index%3D8%26list%3DPLbOq6ny6I6_ng5Rau-6hV2Q1J75V_rWr1%26fe=
+ature%3Dinp-em-w58-11&amp;g=3DxWnYCJn0YgnAUo67dyhympwp7-22M6pv_xWzn42DjS_JO=
+vgGDHdNkMhMmmpg&amp;a=3DSKi0J0z2Qao" class=3D" trending-link">
+												<img id=3D"img0" src=3D"http://youtube.fbridgecdn.net/ytma2015/=
+images/en_us/fca8c4bd0560f6dbe84a3b2b3a4589c0_190x107_1427127248.jpeg" heig=
+ht=3D"107" width=3D"190" data-mark=3D"small" border=3D"0" style=3D"display:=
+block;" alt=3D"Shamir - Call It Off" class=3D" trending-video">
+											</a>
+											<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D=
+"150" class=3D"trending-text">
+												<tbody><tr>
+													<td width=3D"100%" height=3D"20"></td>
+												</tr>
+												<tr>
+													<td width=3D"100%" align=3D"left" style=3D"vertical-align:top;=
+">
+														<h2 style=3D"height: 57px;overflow: hidden;font-family:Arial,=
+ Helvetica, sans-serif; font-size:14px; color:#000000; font-weight:bold; li=
+ne-height:19px; margin:0 0 10px 0!important; padding:0px;" class=3D" auto-t=
+itle">Shamir - Call It Off</h2>
+														<p style=3D"font-family:Arial, Helvetica, sans-serif; font-si=
+ze:12px; font-weight:normal; color:#555555; line-height:19px; margin:0px!im=
+portant; padding:0px!important;" class=3D""></p>
+													</td>
+												</tr>
+											</tbody></table>
+										</td>
+										<td width=3D"15" align=3D"left" style=3D"vertical-align:top" clas=
+s=3D"spacer"></td>
+										<td width=3D"190" align=3D"center" style=3D"vertical-align:top;" =
+class=3D"trending-video-row">
+											<a href=3D"https://www.youtube.com/attribution_link?u=3D/watch?v=
+%3Ds2_YDtKmsVA%26list%3DPLbOq6ny6I6_ng5Rau-6hV2Q1J75V_rWr1%26index%3D6%26fe=
+ature%3Dinp-em-w58-12&amp;g=3DS8qets1e3BGh05n3EiTZ2j12babEwT7FPKxNfTtGTSpcZ=
+eniAAFO9pYUxih5D34bPa-5ww%3D%3D&amp;a=3DSKi0J0z2Qao" class=3D" trending-lin=
+k">
+												<img id=3D"img1" src=3D"http://youtube.fbridgecdn.net/ytma2015/=
+images/en_us/905466e282a1c2da69bb14b0e28d3c80_190x107_1427127300.jpeg" heig=
+ht=3D"107" width=3D"190" data-mark=3D"small" border=3D"0" style=3D"display:=
+block;" alt=3D"Shamir - Call It Off" class=3D" trending-video">
+											</a>
+											<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D=
+"150" class=3D"trending-text">
+												<tbody><tr>
+													<td width=3D"100%" height=3D"20"></td>
+												</tr>
+												<tr>
+													<td width=3D"100%" align=3D"left" style=3D"vertical-align:top;=
+">
+														<h2 style=3D"height: 57px;overflow: hidden;font-family:Arial,=
+ Helvetica, sans-serif; font-size:14px; color:#000000; font-weight:bold; li=
+ne-height:19px; margin:0 0 10px 0!important; padding:0px;" class=3D" auto-t=
+itle">MAX - Gibberish (feat. Hoodie Allen)</h2>
+														<p style=3D"font-family:Arial, Helvetica, sans-serif; font-si=
+ze:12px; font-weight:normal; color:#555555; line-height:19px; margin:0px!im=
+portant; padding:0px!important;" class=3D""></p>
+													</td>
+												</tr>
+											</tbody></table>
+										</td>
+										<td width=3D"15" align=3D"left" style=3D"vertical-align:top" clas=
+s=3D"spacer"></td>
+										<td width=3D"190" align=3D"center" style=3D"vertical-align:top;pa=
+dding-bottom:0px!important;" class=3D"trending-video-row">
+											<a href=3D"https://www.youtube.com/attribution_link?u=3D/watch?v=
+%3DzEPKAWFb8kE%26index%3D14%26list%3DPLbOq6ny6I6_ng5Rau-6hV2Q1J75V_rWr1%26f=
+eature%3Dinp-em-w58-13&amp;g=3DzbGbeDjXeiFbLJFdeqrfEBcwKfe5RoqImkvwqDrytYcs=
+h-b9yWXTdhmQGCFE8g%3D%3D&amp;a=3DSKi0J0z2Qao" class=3D" trending-link">
+												<img id=3D"img2" src=3D"http://youtube.fbridgecdn.net/ytma2015/=
+images/en_us/f012c57be05ce15ed9c3dd521709314b_190x107_1427127359.jpeg" heig=
+ht=3D"107" width=3D"190" data-mark=3D"small" border=3D"0" style=3D"display:=
+block;" alt=3D"Shamir - Call It Off" class=3D" trending-video">
+											</a>
+											<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D=
+"150" class=3D"trending-text">
+												<tbody><tr>
+													<td width=3D"100%" height=3D"20"></td>
+												</tr>
+												<tr>
+													<td width=3D"100%" align=3D"left" style=3D"vertical-align:top;=
+">
+														<h2 style=3D"height: 57px;overflow: hidden;font-family:Arial,=
+ Helvetica, sans-serif; font-size:14px; color:#000000; font-weight:bold; li=
+ne-height:19px; margin:0 0 10px 0!important; padding:0px;" class=3D" auto-t=
+itle">Cahoots - No Money (feat. Roomie)</h2>
+														<p style=3D"font-family:Arial, Helvetica, sans-serif; font-si=
+ze:12px; font-weight:normal; color:#555555; line-height:19px; margin:0px!im=
+portant; padding:0px!important;" class=3D""></p>
+													</td>
+												</tr>
+											</tbody></table>
+										</td>
+									</tr>
+								</tbody></table>
+							</td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+		<span class=3D"hr" style=3D"display:none!important;width:0px!important;he=
+ight:0px!important;line-height:0px!important;margin:0!important;border:0!im=
+portant;padding:0!important;"></span>
+	</td>
+</tr>	=09
+
+	<tr id=3D"row_11" class=3D"tree_trending_videos module">
+	<td width=3D"100%" align=3D"center">
+		<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600" cla=
+ss=3D"trending-container">
+			<tbody><tr>
+				<td width=3D"600" align=3D"center" style=3D"vertical-align:middle;" bgc=
+olor=3D"#FFFFFF" class=3D"trending-outer">
+					<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%"=
+>
+						<tbody><tr>
+							<td width=3D"100%" align=3D"center" style=3D"vertical-align:top;">
+								<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"10=
+0%" class=3D"trending-outer">
+									<tbody><tr>
+										<td width=3D"190" align=3D"center" style=3D"vertical-align:top;" =
+class=3D"trending-video-row">
+											<a href=3D"https://www.youtube.com/attribution_link?u=3D/watch?v=
+%3DhpsbUpZ621o%26list%3DPLbOq6ny6I6_ng5Rau-6hV2Q1J75V_rWr1%26index%3D21%26f=
+eature%3Dinp-em-w58-14&amp;g=3Dd0fydcM4c4qwgXIdyrlheM-lxYkcpwxkscN-7eGyHtBx=
+DWJQsXVfBXTPYM4xBXEIqxWi&amp;a=3DSKi0J0z2Qao" class=3D" trending-link">
+												<img id=3D"img0" src=3D"http://youtube.fbridgecdn.net/ytma2015/=
+images/en_us/3e1f65a557422ea527f50caff40cc4e8_190x107_1427127498.jpeg" heig=
+ht=3D"107" width=3D"190" data-mark=3D"small" border=3D"0" style=3D"display:=
+block;" alt=3D"Megan Nicole -&shy; Escape" class=3D" trending-video">
+											</a>
+											<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D=
+"150" class=3D"trending-text">
+												<tbody><tr>
+													<td width=3D"100%" height=3D"20"></td>
+												</tr>
+												<tr>
+													<td width=3D"100%" align=3D"left" style=3D"vertical-align:top;=
+">
+														<h2 style=3D"height: 57px;overflow: hidden;font-family:Arial,=
+ Helvetica, sans-serif; font-size:14px; color:#000000; font-weight:bold; li=
+ne-height:19px; margin:0 0 10px 0!important; padding:0px;" class=3D" auto-t=
+itle">Megan Nicole -&shy; Escape</h2>
+														<p style=3D"font-family:Arial, Helvetica, sans-serif; font-si=
+ze:12px; font-weight:normal; color:#555555; line-height:19px; margin:0px!im=
+portant; padding:0px!important;" class=3D""></p>
+													</td>
+												</tr>
+											</tbody></table>
+										</td>
+										<td width=3D"15" align=3D"left" style=3D"vertical-align:top" clas=
+s=3D"spacer"></td>
+										<td width=3D"190" align=3D"center" style=3D"vertical-align:top;" =
+class=3D"trending-video-row">
+											<a href=3D"https://www.youtube.com/attribution_link?u=3D/watch?v=
+%3DbVP_w1rQweE%26list%3DPLbOq6ny6I6_ng5Rau-6hV2Q1J75V_rWr1%26index%3D17%26f=
+eature%3Dinp-em-w58-15&amp;g=3D7U1SMj59OOvieQjfKVVApgPIbsDxOybWjdf1JysDeJ3V=
+TKTtCeW9E92gyEIzNO3XGFDDBC8%3D&amp;a=3DSKi0J0z2Qao" class=3D" trending-link=
+">
+												<img id=3D"img1" src=3D"http://youtube.fbridgecdn.net/ytma2015/=
+images/en_us/60020acbcf2d6f6c4170d3eac1929f04_190x107_1427127541.jpeg" heig=
+ht=3D"107" width=3D"190" data-mark=3D"small" border=3D"0" style=3D"display:=
+block;" alt=3D"Megan Nicole -&shy; Escape" class=3D" trending-video">
+											</a>
+											<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D=
+"150" class=3D"trending-text">
+												<tbody><tr>
+													<td width=3D"100%" height=3D"20"></td>
+												</tr>
+												<tr>
+													<td width=3D"100%" align=3D"left" style=3D"vertical-align:top;=
+">
+														<h2 style=3D"height: 57px;overflow: hidden;font-family:Arial,=
+ Helvetica, sans-serif; font-size:14px; color:#000000; font-weight:bold; li=
+ne-height:19px; margin:0 0 10px 0!important; padding:0px;" class=3D" auto-t=
+itle">Action Bronson feat. Chance The Rapper - Baby Blue</h2>
+														<p style=3D"font-family:Arial, Helvetica, sans-serif; font-si=
+ze:12px; font-weight:normal; color:#555555; line-height:19px; margin:0px!im=
+portant; padding:0px!important;" class=3D""></p>
+													</td>
+												</tr>
+											</tbody></table>
+										</td>
+										<td width=3D"15" align=3D"left" style=3D"vertical-align:top" clas=
+s=3D"spacer"></td>
+										<td width=3D"190" align=3D"center" style=3D"vertical-align:top;pa=
+dding-bottom:0px!important;" class=3D"trending-video-row">
+											<a href=3D"https://www.youtube.com/attribution_link?u=3D/watch?v=
+%3DBgfcToAjfdc%26list%3DPLbOq6ny6I6_ng5Rau-6hV2Q1J75V_rWr1%26index%3D4%26fe=
+ature%3Dinp-em-w58-16&amp;g=3DFevJAabi7F2VHLuk6QKm91K5opbaUAk76KuIQzYMSabwW=
+hvmvIemcMvtiw%3D%3D&amp;a=3DSKi0J0z2Qao" class=3D" trending-link">
+												<img id=3D"img2" src=3D"http://youtube.fbridgecdn.net/ytma2015/=
+images/en_us/cb5e7e24a2b185b81353357d98799c7f_190x107_1427127607.jpeg" heig=
+ht=3D"107" width=3D"190" data-mark=3D"small" border=3D"0" style=3D"display:=
+block;" alt=3D"Megan Nicole -&shy; Escape" class=3D" trending-video">
+											</a>
+											<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D=
+"150" class=3D"trending-text">
+												<tbody><tr>
+													<td width=3D"100%" height=3D"20"></td>
+												</tr>
+												<tr>
+													<td width=3D"100%" align=3D"left" style=3D"vertical-align:top;=
+">
+														<h2 style=3D"height: 57px;overflow: hidden;font-family:Arial,=
+ Helvetica, sans-serif; font-size:14px; color:#000000; font-weight:bold; li=
+ne-height:19px; margin:0 0 10px 0!important; padding:0px;" class=3D" auto-t=
+itle">Kygo - Stole The Show</h2>
+														<p style=3D"font-family:Arial, Helvetica, sans-serif; font-si=
+ze:12px; font-weight:normal; color:#555555; line-height:19px; margin:0px!im=
+portant; padding:0px!important;" class=3D""></p>
+													</td>
+												</tr>
+											</tbody></table>
+										</td>
+									</tr>
+								</tbody></table>
+							</td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+		<span class=3D"hr" style=3D"display:none!important;width:0px!important;he=
+ight:0px!important;line-height:0px!important;margin:0!important;border:0!im=
+portant;padding:0!important;"></span>
+	</td>
+</tr>	=09
+
+	<tr id=3D"row_12" class=3D"white_spacer module">
+	<td align=3D"center" style=3D"vertical-align:middle;">
+		<table width=3D"600" bgcolor=3D"#ffffff" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" class=3D"hero-table">
+			<tbody><tr><td height=3D"20" style=3D"vertical-align:middle;"></td></tr>
+		</tbody></table>
+	</td>
+</tr>	=09
+
+	<tr id=3D"row_13" class=3D"spacer module">
+	<td align=3D"center" style=3D"vertical-align:middle;">
+		<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" cla=
+ss=3D"hero-table">
+			<tbody><tr>
+				<td height=3D"20" style=3D"vertical-align: middle;box-shadow: 0px -2px =
+0px rgb(204, 204, 204);"></td>
+			</tr>
+		</tbody></table>
+	</td>
+</tr>	=09
+
+	<tr id=3D"row_14" class=3D"white_spacer module">
+	<td align=3D"center" style=3D"vertical-align:middle;">
+		<table width=3D"600" bgcolor=3D"#ffffff" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" class=3D"hero-table">
+			<tbody><tr><td height=3D"20" style=3D"vertical-align:middle;"></td></tr>
+		</tbody></table>
+	</td>
+</tr>	=09
+
+	<tr id=3D"row_15" class=3D"header_more_text module">
+	<td align=3D"center" valign=3D"top">
+        <table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"=
+0" class=3D"hero-table">
+            <tbody><tr>
+				<td align=3D"center" style=3D"vertical-align:top;" bgcolor=3D"#FFFFFF">
+					<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"560" =
+class=3D"trending-inner">
+						<tbody><tr>
+							<td width=3D"100%" align=3D"left" style=3D"vertical-align:top;">
+								<h1 style=3D"font-family:Arial, Helvetica, sans-serif; font-size:20=
+px; color:#000000; font-weight:bold; line-height:28px; margin:0px!important=
+; padding:0px; padding-bottom:8px;" class=3D"heading-text">Trending this we=
+ek</h1>
+								<h6 class=3D"content" style=3D"font-family:Arial, Helvetica, sans-s=
+erif; font-size:12px; font-weight:normal; color:#555555; line-height:19px; =
+margin:0px!important; padding:0px!important;background-color:#ffffff;">
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+								=09
+									<p style=3D"font-family:Arial, Helvetica, sans-serif; font-size:12=
+px; font-weight:normal; color:#555555; line-height:19px; margin:0px!importa=
+nt; padding:0px!important;background-color:#ffffff;"><span id=3D"docs-inter=
+nal-guid-2798df2e-3c53-3781-2ef3-00c2832499a9"></span></p><p dir=3D"ltr" st=
+yle=3D"margin-top: 0pt; margin-bottom: 0pt;">We&rsquo;ve got the slowest ch=
+ase of all time. But if you want something a bit more action packed, check =
+out what happens when Legos recreate &ldquo;The Matrix.&rdquo; Or, on a mor=
+e serious note, listen to Monica Lewinsky&rsquo;s take on cyber bullying.</=
+p>
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+							=09
+								</h6>
+							</td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+        </tbody></table>
+    </td>   =20
+</tr>	=09
+
+	<tr id=3D"row_16" class=3D"white_spacer module">
+	<td align=3D"center" style=3D"vertical-align:middle;">
+		<table width=3D"600" bgcolor=3D"#ffffff" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" class=3D"hero-table">
+			<tbody><tr><td height=3D"20" style=3D"vertical-align:middle;"></td></tr>
+		</tbody></table>
+	</td>
+</tr>	=09
+
+	<tr id=3D"row_17" class=3D"tree_trending_videos module">
+	<td width=3D"100%" align=3D"center">
+		<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600" cla=
+ss=3D"trending-container">
+			<tbody><tr>
+				<td width=3D"600" align=3D"center" style=3D"vertical-align:middle;" bgc=
+olor=3D"#FFFFFF" class=3D"trending-outer">
+					<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%"=
+>
+						<tbody><tr>
+							<td width=3D"100%" align=3D"center" style=3D"vertical-align:top;">
+								<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"10=
+0%" class=3D"trending-outer">
+									<tbody><tr>
+										<td width=3D"190" align=3D"center" style=3D"vertical-align:top;" =
+class=3D"trending-video-row">
+											<a href=3D"https://www.youtube.com/attribution_link?u=3D/watch?v=
+%3DRjtCS0EEoCY%26list%3DPLbpi6ZahtOH7h9OULR1AVb4i8zo0ctwEr%26index%3D3%26fe=
+ature%3Dinp-em-w58-17&amp;g=3DWvJgQurVeCz6eHfdxkzzd8qzFr6bU2fKLfkKJ3ZMuFYjL=
+1-xUUAegt2Han4LgW__OLWueYo%3D&amp;a=3DSKi0J0z2Qao" class=3D" trending-link"=
+>
+												<img id=3D"img0" src=3D"http://youtube.fbridgecdn.net/ytma2015/=
+images/en_us/2bdb079955cff67ee262abf7ab3a9bf7_190x107_1427128488.jpeg" heig=
+ht=3D"107" width=3D"190" data-mark=3D"small" border=3D"0" style=3D"display:=
+block;" alt=3D"Explorer Interrupts Mating Tortoises, Slowest Chase Ever Ens=
+ues" class=3D" trending-video">
+											</a>
+											<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D=
+"150" class=3D"trending-text">
+												<tbody><tr>
+													<td width=3D"100%" height=3D"20"></td>
+												</tr>
+												<tr>
+													<td width=3D"100%" align=3D"left" style=3D"vertical-align:top;=
+">
+														<h2 style=3D"height: 57px;overflow: hidden;font-family:Arial,=
+ Helvetica, sans-serif; font-size:14px; color:#000000; font-weight:bold; li=
+ne-height:19px; margin:0 0 10px 0!important; padding:0px;" class=3D" auto-t=
+itle">Explorer Interrupts Mating Tortoises, Slowest Chase Ever Ensues</h2>
+														<p style=3D"font-family:Arial, Helvetica, sans-serif; font-si=
+ze:12px; font-weight:normal; color:#555555; line-height:19px; margin:0px!im=
+portant; padding:0px!important;" class=3D"">1,657,510 views</p>
+													</td>
+												</tr>
+											</tbody></table>
+										</td>
+										<td width=3D"15" align=3D"left" style=3D"vertical-align:top" clas=
+s=3D"spacer"></td>
+										<td width=3D"190" align=3D"center" style=3D"vertical-align:top;" =
+class=3D"trending-video-row">
+											<a href=3D"https://www.youtube.com/attribution_link?u=3D/watch?v=
+%3DnT0kYvUFqVc%26list%3DPLbpi6ZahtOH7h9OULR1AVb4i8zo0ctwEr%26index%3D4%26fe=
+ature%3Dinp-em-w58-18&amp;g=3D3G-Pku-XFxXxBXm-lPPjfcI4F6eIBJjgY_rBn--SgnmQ5=
+3XaoUx8dpmRLl91rczra4GO-Ls%3D&amp;a=3DSKi0J0z2Qao" class=3D" trending-link"=
+>
+												<img id=3D"img1" src=3D"http://youtube.fbridgecdn.net/ytma2015/=
+images/en_us/597962a348514072546390dd68ef0184_190x107_1427128446.jpeg" heig=
+ht=3D"107" width=3D"190" data-mark=3D"small" border=3D"0" style=3D"display:=
+block;" alt=3D"Explorer Interrupts Mating Tortoises, Slowest Chase Ever Ens=
+ues" class=3D" trending-video">
+											</a>
+											<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D=
+"150" class=3D"trending-text">
+												<tbody><tr>
+													<td width=3D"100%" height=3D"20"></td>
+												</tr>
+												<tr>
+													<td width=3D"100%" align=3D"left" style=3D"vertical-align:top;=
+">
+														<h2 style=3D"height: 57px;overflow: hidden;font-family:Arial,=
+ Helvetica, sans-serif; font-size:14px; color:#000000; font-weight:bold; li=
+ne-height:19px; margin:0 0 10px 0!important; padding:0px;" class=3D" auto-t=
+itle">Lego Matrix Lobby Fight Scene</h2>
+														<p style=3D"font-family:Arial, Helvetica, sans-serif; font-si=
+ze:12px; font-weight:normal; color:#555555; line-height:19px; margin:0px!im=
+portant; padding:0px!important;" class=3D"">447,184 views</p>
+													</td>
+												</tr>
+											</tbody></table>
+										</td>
+										<td width=3D"15" align=3D"left" style=3D"vertical-align:top" clas=
+s=3D"spacer"></td>
+										<td width=3D"190" align=3D"center" style=3D"vertical-align:top;pa=
+dding-bottom:0px!important;" class=3D"trending-video-row">
+											<a href=3D"https://www.youtube.com/attribution_link?u=3D/watch?v=
+%3DH_8y0WLm78U%26list%3DPLbpi6ZahtOH7h9OULR1AVb4i8zo0ctwEr%26index%3D1%26fe=
+ature%3Dinp-em-w58-19&amp;g=3D-7wDYhs1fxi7NUeyIKRQjuCqGYW-_EhaGN7Usd345rIjh=
+uvv_Djx-00UYrYuUMyEqpO9EZQ%3D&amp;a=3DSKi0J0z2Qao" class=3D" trending-link"=
+>
+												<img id=3D"img2" src=3D"http://youtube.fbridgecdn.net/ytma2015/=
+images/en_us/a068e4b4666f494ac6ba10da210d29bb_190x107_1427128460.jpeg" heig=
+ht=3D"107" width=3D"190" data-mark=3D"small" border=3D"0" style=3D"display:=
+block;" alt=3D"Explorer Interrupts Mating Tortoises, Slowest Chase Ever Ens=
+ues" class=3D" trending-video">
+											</a>
+											<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D=
+"150" class=3D"trending-text">
+												<tbody><tr>
+													<td width=3D"100%" height=3D"20"></td>
+												</tr>
+												<tr>
+													<td width=3D"100%" align=3D"left" style=3D"vertical-align:top;=
+">
+														<h2 style=3D"height: 57px;overflow: hidden;font-family:Arial,=
+ Helvetica, sans-serif; font-size:14px; color:#000000; font-weight:bold; li=
+ne-height:19px; margin:0 0 10px 0!important; padding:0px;" class=3D" auto-t=
+itle">Monica Lewinsky: The price of shame</h2>
+														<p style=3D"font-family:Arial, Helvetica, sans-serif; font-si=
+ze:12px; font-weight:normal; color:#555555; line-height:19px; margin:0px!im=
+portant; padding:0px!important;" class=3D"">283,300 views</p>
+													</td>
+												</tr>
+											</tbody></table>
+										</td>
+									</tr>
+								</tbody></table>
+							</td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+		<span class=3D"hr" style=3D"display:none!important;width:0px!important;he=
+ight:0px!important;line-height:0px!important;margin:0!important;border:0!im=
+portant;padding:0!important;"></span>
+	</td>
+</tr>	=09
+
+	<tr id=3D"row_18" class=3D"white_spacer module">
+	<td align=3D"center" style=3D"vertical-align:middle;">
+		<table width=3D"600" bgcolor=3D"#ffffff" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" class=3D"hero-table">
+			<tbody><tr><td height=3D"20" style=3D"vertical-align:middle;"></td></tr>
+		</tbody></table>
+	</td>
+</tr>	=09
+
+	<tr id=3D"row_19" class=3D"white_spacer module">
+	<td align=3D"center" style=3D"vertical-align:middle;">
+		<table width=3D"600" bgcolor=3D"#ffffff" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" class=3D"hero-table">
+			<tbody><tr><td height=3D"20" style=3D"vertical-align:middle;"></td></tr>
+		</tbody></table>
+	</td>
+</tr>	=09
+
+	<tr id=3D"row_20" class=3D"spacer module">
+	<td align=3D"center" style=3D"vertical-align:middle;">
+		<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" cla=
+ss=3D"hero-table">
+			<tbody><tr>
+				<td height=3D"20" style=3D"vertical-align: middle;box-shadow: 0px -2px =
+0px rgb(204, 204, 204);"></td>
+			</tr>
+		</tbody></table>
+	</td>
+</tr>	=09
+
+	<tr id=3D"row_21" class=3D"social_footer module">
+	<td align=3D"center">
+		<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600" cla=
+ss=3D"outer-social">
+			<tbody><tr>
+				<td align=3D"left" height=3D"15" colspan=3D"4" bgcolor=3D"#FFFFFF"></td=
+>
+			</tr>
+			<tr>
+				<td align=3D"center" style=3D"vertical-align:middle;" bgcolor=3D"#FFFFF=
+F">
+					<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"560" =
+class=3D"inner-social">
+						<tbody><tr>
+							<td align=3D"left" style=3D"vertical-align:middle;" class=3D"social-=
+text-cell">
+								<span class=3D"first-text" style=3D"font-family:Arial, Helvetica, s=
+ans-serif; font-size:13px; color:#494949; font-weight:bold; margin:0px; pad=
+ding:0px;">Want more videos? Follow and subscribe</span>
+							</td>
+							<td width=3D"42" height=3D"32" align=3D"right" class=3D"social-icon-=
+cell">
+								<a href=3D"https://www.google.com/appserve/mkt/p/tlzN9WE20ew0YzV9aj=
+iIO7eYW6PIPyzIe6hapieUPpfzqU4IC_GRtZLrVbGVHCAsSA=3D=3D" data-social-descrip=
+tion=3D"Google+" class=3D"not-clickeable">
+									<img src=3D"http://youtube.fbridgecdn.net/_common/images/v1/en_us/=
+social-google.png" width=3D"32" height=3D"32" border=3D"0" alt=3D"Google" s=
+tyle=3D"display:block;">
+								</a>
+							</td>
+							<td width=3D"42" height=3D"32" align=3D"right" class=3D"social-icon-=
+cell">
+								<a href=3D"https://www.google.com/appserve/mkt/p/o7fa7aWTA6yePrvroA=
+j0uJzvDvvbY08VRJO4pBuuP1SgaebHbcfBC0EnEGE=3D" data-social-description=3D"Tw=
+itter" class=3D"not-clickeable">
+									<img src=3D"http://youtube.fbridgecdn.net/_common/images/v1/en_us/=
+social-twitter.png" width=3D"32" height=3D"32" border=3D"0" alt=3D"Twitter"=
+ style=3D"display:block;">
+								</a>
+							</td>
+							<td width=3D"42" height=3D"32" align=3D"right" class=3D"social-icon-=
+cell">
+								<a href=3D"https://www.youtube.com/attribution_link?u=3D/youtube?fe=
+ature%3Dinp-em-w58-20&amp;g=3D_nPXMkB1OGh1kC36M6YZ8XtJ-wsxf2FuDWzn0H-D3L1hx=
+xhkrfJ1ptLp1elfLVA3ZckKWnRoh8pe1A%3D%3D&amp;a=3DSKi0J0z2Qao" data-social-de=
+scription=3D"YouTube" class=3D"not-clickeable">
+									<img src=3D"http://youtube.fbridgecdn.net/_common/images/v1/en_us/=
+social-youtube.png" width=3D"32" height=3D"32" border=3D"0" alt=3D"YouTube"=
+ style=3D"display:block;">
+								</a>
+							</td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+			<tr>
+				<td align=3D"left" height=3D"15" colspan=3D"4" bgcolor=3D"#FFFFFF"></td=
+>
+			</tr>
+		</tbody></table>
+		<span class=3D"hr" style=3D"display:none!important;width:0px!important;he=
+ight:0px!important;line-height:0px!important;margin:0!important;border:0!im=
+portant;padding:0!important;"></span>
+	</td>
+</tr>	=09
+
+	<!-- FOOTER -->
+<tr id=3D"row_22" class=3D"opt_out_footer module">
+	<td align=3D"center" valign=3D"top" bgcolor=3D"#F0F0F0">
+        <table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"=
+0" class=3D"hero-table">
+            <tbody><tr>
+				<td align=3D"center" style=3D"vertical-align:top;">
+					<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"560" =
+class=3D"footer-table">
+						<tbody><tr>
+							<td height=3D"25" align=3D"left"></td>
+						</tr>
+						<tr>
+							<td align=3D"left"><p style=3D"font-family:Arial, Helvetica, sans-se=
+rif; font-size:11px; color:#999999; line-height:14px; margin:0px; padding:0=
+px;">&copy; 2015 YouTube, LLC 901 Cherry Ave, San Bruno, CA 94066<br><br>Th=
+is email was sent to msjche@gmail.com because you indicated that you are wi=
+lling to receive occasional YouTube product-related emails. If you do not w=
+ish to receive such emails in the future, please unsubscribe <a href=3D"htt=
+ps://www.youtube.com/attribution_link?u=3D/email_unsubscribe?uid%3D4I3--47D=
+NXxpQbWOhcyTvQ%26action_unsubscribe%3DJPKrsD8NWbfBzW2TzzhMrfEsHmh8MTQyNzE2M=
+DA4NEAxNDI3MTYwMDg0%26feature%3Dem-mc&amp;g=3DyM0zOHoQHK35mSiVANE8TTW-GHXbZ=
+cc%3D&amp;a=3DSKi0J0z2Qao" style=3D"text-decoration:none; color:#468aca;" c=
+lass=3D"not-clickeable">here</a>. You can also change your preferences by v=
+isiting your <a href=3D"https://www.youtube.com/attribution_link?u=3D/accou=
+nt_notifications?feature%3Dinp-em-w58-21&amp;g=3DpNOQz0-soyy4lmAcKg3OnY65aH=
+y_D6d49sDTkKFB&amp;a=3DSKi0J0z2Qao" style=3D"text-decoration:none; color:#4=
+68aca;" class=3D"not-clickeable">Email Options</a> in your YouTube account =
+at <a href=3D"https://www.youtube.com/attribution_link?u=3D/account_notific=
+ations?feature%3Dinp-em-w58-22&amp;g=3DpNOQz0-soyy4lmAcKg3OnY65aHy_D6d49sDT=
+kKFB&amp;a=3DSKi0J0z2Qao" style=3D"text-decoration:none; color:#468aca;" cl=
+ass=3D"not-clickeable">www.youtube.com/account_notifications</a></p></td>
+						</tr>
+						<tr>
+							<td height=3D"30" align=3D"left"></td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+        </tbody></table>  =20
+    </td> =09
+</tr>
+<!-- FOOTER -->	=09
+			</table>
+		</td>
+	</tr>
+</table>
+
+<!-- GAMMA EXTRA -->
+
+<img height=3D"1" src=3D"https://www.google.com/appserve/mkt/img/aucALYVi2Y=
+WDk0mxt9bUnhxsY4wm.gif" width=3D"3">
+</body>
+</html>
+--089e0149bac20ddfab0512086d31--

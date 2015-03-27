@@ -1,0 +1,232 @@
+Delivered-To: msjche@gmail.com
+Received: by 10.194.34.4 with SMTP id v4csp1754433wji;
+        Mon, 23 Mar 2015 14:49:50 -0700 (PDT)
+X-Received: by 10.66.164.98 with SMTP id yp2mr2038559pab.114.1427147389338;
+        Mon, 23 Mar 2015 14:49:49 -0700 (PDT)
+Return-Path: <bnc-6d503cae-e264-4801-8854-24fdba2ed732-9795@cvent-planner.com>
+Received: from gateway-c.haas.berkeley.edu (gateway-c.Haas.Berkeley.EDU. [128.32.222.10])
+        by mx.google.com with ESMTPS id 14si2601854pdj.185.2015.03.23.14.49.48
+        for <msjche@gmail.com>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Mon, 23 Mar 2015 14:49:49 -0700 (PDT)
+Received-SPF: softfail (google.com: domain of transitioning bnc-6d503cae-e264-4801-8854-24fdba2ed732-9795@cvent-planner.com does not designate 128.32.222.10 as permitted sender) client-ip=128.32.222.10;
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: domain of transitioning bnc-6d503cae-e264-4801-8854-24fdba2ed732-9795@cvent-planner.com does not designate 128.32.222.10 as permitted sender) smtp.mail=bnc-6d503cae-e264-4801-8854-24fdba2ed732-9795@cvent-planner.com;
+       dkim=pass header.i=@cvent-planner.com
+X-SBRS: 5.6
+X-IronPort-AV: E=Sophos;i="5.11,454,1422950400"; 
+   d="scan'208";a="32522311"
+X-IPAS-Result: AjABAGuJEFWp5dqTnGdsb2JhbABcDoI1gRVagw0DwQmCEx0BC4UqEIFoTAEBAQEBAREBAQEBAQgLCQkULoQeDAETHQYLFwoIBk8EAwICRgYRE4gvDa1KAQFvhGiBXA+OOYUvBoE1iWyBPYEehE4MLxKBM4UQiTaCDoMgT4caOoJ2jBiDR4FnAQsBLg8jfwtOUwEEgj4BAQE
+Received: from cm06fe.ist.berkeley.edu ([169.229.218.147])
+  by gateway-c-v.haas.berkeley.edu with ESMTP/TLS/DHE-RSA-AES256-SHA; 23 Mar 2015 14:49:44 -0700
+Received: from m231a.cvent-planner.com ([204.239.0.231])
+	by cm06fe.ist.berkeley.edu with esmtp (Exim 4.76)
+	(envelope-from <bnc-6d503cae-e264-4801-8854-24fdba2ed732-9795@cvent-planner.com>)
+	id 1YaAEC-0007uW-KN
+	for morgan_johnson@mba.berkeley.edu; Mon, 23 Mar 2015 14:49:46 -0700
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=p1211; d=cvent-planner.com;
+ h=From:List-Unsubscribe:Reply-To:To:Message-ID:Date:Subject:MIME-Version:Content-Type;
+ bh=GZBp7YBHGbgoR6bb2VaJtlHeBFI=;
+ b=aaNXqczjKOZ4sD/SMGEfgjTO6NNRaG4khs86OLQ7tzy/iCdyCYvCm2izVOCJ4Z4+NszpIHhbIFSo
+   MH9lZBPBet44UlmRPObRpiQhAwNiBuplJ9ys7Mx2zzpd1YhGGwMFhOLdY4oijJucNJmcxvPlDnpg
+   QTIPt1hcz0E1K5rxquE=
+X-VMTA: 12319151cv
+From: "Berkeley-Haas Alumni Relations" <events@haas.berkeley.edu>
+X-Job: 9795;;872fbf63-8a25-4793-922a-fcfcb2444ff7
+X-ASID: 9795-cvp2
+X-CMID: 6d503cae-e264-4801-8854-24fdba2ed732-9795
+List-Unsubscribe: <mailto:unsubscribe-6d503cae-e264-4801-8854-24fdba2ed732-9795@cvent-planner.com?subject=unsubscribe>
+Reply-To: events@haas.berkeley.edu
+To: "Morgan Johnson" <morgan_johnson@mba.berkeley.edu>
+Message-ID: <6d503cae-e264-4801-8854-24fdba2ed732-9795@cvent-planner.com>
+Date: Mon, 23 Mar 2015 17:46:41 -0400
+Subject: =?utf-8?B?UmUtQ29ubmVjdCBhbmQgRXhwYW5kIFlvdXIgTmV0d29yayBhdCB0aGUgQmVya2VsZXk=?=
+	=?utf-8?B?LUhhYXMgQWx1bW5pIENvbmZlcmVuY2UsIEFwcmlsIDI1IOKAkyBSZWdpc3RlciBOb3c=?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----CF0E56BA6AB74993AEB3430CE6FEFD9E"
+X-Ucb-Scan-Signature: 548dd64bd2098811a33250e89df42556779a92f3
+X-Ucb-Spam: Gauge=IIIIIII, Probability=7%, Report='DKIM_SIGNED 0.1,
+ 	DKIM_VALID -0.1, HTML_MESSAGE 0.001, T_RP_MATCHES_RCVD -0.01'
+X-Ucb-Notice: This message has been processed by a spam tagging system.
+
+------CF0E56BA6AB74993AEB3430CE6FEFD9E
+Content-type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+We hope to see you back on campus for the Berkeley-Haas Alumni Conferen=
+ce on Saturday, April 25=2E Catch up with old friends and acquaintances=
+, and make new ones among the vast Haas network=2E=20
+
+
+Click YES below to register=2E
+
+
+The day includes hands-on professional development workshops and new re=
+search insights from stellar Haas faculty like Andrew Rose, as well as =
+an insider's view on how businesses can use Big Data from Facebook CIO =
+Timothy Campos, BCEMBA 10/11, our keynote speaker=2E
+
+In between sessions=E2=80=94over coffee, lunch, or cold drinks at the N=
+etworking Reception=E2=80=94you'll have time to find out what others in=
+ your industry are up to=2E Who knows where your network will lead you?
+
+You can also learn about your Berkeley-Haas Alumni Benefitsat the lunch=
+time expo=2E
+
+View the full schedule and fees at haas=2Eberkeley=2Eedu/alumni/confere=
+nce(http://www=2Ehaas=2Eberkeley=2Eedu/groups/alumni/conference/)(http:=
+//www=2Ehaas=2Eberkeley=2Eedu/groups/alumni/conference/)
+
+(http://www=2Ecvent=2Ecom/d/rfHEcDs6_Eu1kQlIAAV4Cg/9795/P1/2A?)
+
+
+(http://www=2Ecvent=2Ecom/d/rfHEcDs6_Eu1kQlIAAV4Cg/9795/P1?)
+
+If you have any questions, please contact the Berkeley-Haas Alumni Rela=
+tions Office at alumni@haas=2Eberkeley=2Eedu(mailto:alumni@haas=2Eberke=
+ley=2Eedu)=2E
+
+
+
+  =20
+
+ =20
+Please respond by clicking one of the buttons below:=20
+(http://www=2Ecvent=2Ecom/d/rfHEcDs6_Eu1kQlIAAV4Cg/9795/P1/4W?)(http://=
+www=2Ecvent=2Ecom/d/rfHEcDs6_Eu1kQlIAAV4Cg/9795/P1/3Z?)  =20
+
+Having trouble with the link? Simply copy and paste the entire address =
+listed below into your web browser:=20
+http://www=2Ecvent=2Ecom/d/rfHEcDs6_Eu1kQlIAAV4Cg/9795/P1/1Q?=20
+
+If you no longer want to receive emails from Berkeley-Haas Alumni Relat=
+ions please click the link below=2E=20
+http://www=2Ecvent=2Ecom/d/rjxQbWTiAUiIVCT9ui7XMg/9795/E1/8D
+Powered by Cvent
+------CF0E56BA6AB74993AEB3430CE6FEFD9E
+Content-type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<br />
+<table width=3D"590" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" a=
+lign=3D"center" style=3D"text-align: center; border: 1px solid #000000;=
+ width: 534px; height: 483px; background-image: url('https://custom=2Ec=
+vent=2Ecom/Invitations/blankinvite/'); background-color: #ffffff; backg=
+round-repeat: repeat;" xmlns:msxsl=3D"urn:schemas-microsoft-com:xslt">
+    <tbody>
+        <tr>
+            <td valign=3D"top"> <br />
+            </td>
+            <td><img width=3D"590" height=3D"150" src=3D"http://custom=2E=
+cvent=2Ecom/23ED02F8BF444F0AA01AAC7704085358/pix/792b0c6285e847548b6b9a=
+76e8a67409=2Ejpg" alt=3D"Haas_Reunions_2015_Conference_Banner_590x150" =
+/><br />
+            <br />
+            </td>
+        </tr>
+        <tr>
+            <td valign=3D"top"> </td>
+            <td style=3D"padding: 0px 10px; font-family: Verdana; color=
+: #000000; font-size: 8pt; text-align: left;">
+            <p>We hope to see you back on campus for the Berkeley-Haas =
+Alumni Conference on <strong>Saturday, April 25</strong>=2E Catch up wi=
+th old friends and acquaintances, and make new ones among the vast Haas=
+ network=2E=C2=A0</p>
+            <p><span><br />
+            <strong>Click YES below to register=2E<br />
+            </strong><br />
+            <br />
+            The day includes hands-on professional development workshop=
+s and new research insights from stellar Haas faculty like Andrew Rose,=
+ as well as an insider's view on how businesses can use Big Data from F=
+acebook CIO Timothy Campos, BCEMBA 10/11, our keynote speaker=2E</span>=
+</p>
+            <p>In between sessions=E2=80=94over coffee, lunch, or cold =
+drinks at the Networking Reception=E2=80=94you'll have time to find out=
+ what others in your industry are up to=2E Who knows where your network=
+ will lead you?</p>
+            <p style=3D"margin-left: 0in;">You can also learn about you=
+r <strong>Berkeley-Haas Alumni Benefits</strong> at the lunchtime expo=2E=
+</p>
+            <div style=3D"text-align: left;">=C2=A0<br />
+            <span><strong>View the full schedule and fees at </strong><=
+/span><strong><a id=3D"link_1425262016359" href=3D"http://www=2Ehaas=2E=
+berkeley=2Eedu/groups/alumni/conference/" target=3D"_blank"><span>haas=2E=
+berkeley=2Eedu/alumni/conference</span></a></strong><span><a id=3D"link=
+_1425262016359" target=3D"_blank" href=3D"http://www=2Ehaas=2Eberkeley=2E=
+edu/groups/alumni/conference/"><strong></strong></a><br />
+            =C2=A0
+            </span><span style=3D"font-size: 8pt;"></span></div>
+            <div style=3D"text-align: center;"><span style=3D"text-deco=
+ration: underline;"><a style=3D"font-size: 8pt; color: #000000;" href=3D=
+"http://www=2Ecvent=2Ecom/d/rfHEcDs6_Eu1kQlIAAV4Cg/9795/P1/2A?"></a></s=
+pan></div>
+            <div style=3D"text-align: center;"><span style=3D"text-deco=
+ration: underline;"> </span></div>
+            <div style=3D"text-align: center;">=C2=A0</div>
+            <div style=3D"text-align: center;"><span style=3D"text-deco=
+ration: underline;"><a style=3D"font-size: 8pt; color: #000000;" href=3D=
+"http://www=2Ecvent=2Ecom/d/rfHEcDs6_Eu1kQlIAAV4Cg/9795/P1?"></a></span=
+></div>
+            <div><span style=3D"text-decoration: underline;"> </span></=
+div>
+            <div style=3D"text-align: left;">
+            <span>If you have any questions, please contact the Berkele=
+y-Haas Alumni Relations Office at </span><a href=3D"mailto:alumni@haas=2E=
+berkeley=2Eedu"><span>alumni@haas=2Eberkeley=2Eedu</span></a><span>=2E<=
+/span>
+            </div>
+            <div style=3D"text-align: center;"><strong></strong></div>
+            <div> </div>
+            <div style=3D"text-align: center;">=C2=A0</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign=3D"top"><span style=3D"color: #000000;"> <br />
+            </span></td>
+            <td style=3D"padding: 0px 10px 30px; font-family: Verdana; =
+color: #000000; font-size: 8pt;">
+            <p style=3D"margin: 10px 0px;"><strong><span style=3D"color=
+: #000000;">Please respond by clicking one of the buttons below: </span=
+></strong></p>
+            <a href=3D"http://www=2Ecvent=2Ecom/d/rfHEcDs6_Eu1kQlIAAV4C=
+g/9795/P1/4W?"><img width=3D"57" height=3D"39" style=3D"padding-right: =
+2px; border: 0px solid;" alt=3D"Yes" src=3D"http://custom=2Ecvent=2Ecom=
+/Invitations/blankinvite/yes=2Egif" /></a><a href=3D"http://www=2Ecvent=
+=2Ecom/d/rfHEcDs6_Eu1kQlIAAV4Cg/9795/P1/3Z?"><img width=3D"61" height=3D=
+"39" style=3D"padding-left: 2px; border: 0px solid;" alt=3D"No" src=3D"=
+http://custom=2Ecvent=2Ecom/Invitations/blankinvite/no=2Egif" /></a></t=
+d>
+        </tr>
+    </tbody>
+</table>
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center=
+" style=3D"margin-top: 20px; margin-bottom: 20px; border-style: none; b=
+order-image-source: none; width: 590px; background-color: #ffffff;" xml=
+ns:msxsl=3D"urn:schemas-microsoft-com:xslt">
+    <tbody>
+        <tr>
+            <td style=3D"padding: 0px 10px; font-family: Verdana; color=
+: #000000; font-size: 8pt;">
+            <p><span style=3D"font-size: 10px;">Having trouble with the=
+ link? Simply copy and paste the entire address listed below into your =
+web browser: <br />
+            http://www=2Ecvent=2Ecom/d/rfHEcDs6_Eu1kQlIAAV4Cg/9795/P1/1=
+Q? </span></p>
+            <p><span style=3D"font-size: 10px;">If you no longer want t=
+o receive emails from Berkeley-Haas Alumni Relations please click the l=
+ink below=2E <br />
+            <a href=3D"http://www=2Ecvent=2Ecom/d/rjxQbWTiAUiIVCT9ui7XM=
+g/9795/E1/8D" >Opt-Out</a> </span></p>
+            </td>
+        </tr>
+    </tbody>
+</table><br><TABLE BORDER=3D"0" CELLSPACING=3D"0" WIDTH=3D"100%"><TR><T=
+D><hr noshade size=3D"1" width=3D"100%" ><A HREF=3D"HTTP://www=2Ecvent=2E=
+com"><IMG SRC=3D"http://www=2Ecvent=2Ecom/g/images/powered_by_cvent=2Eg=
+if" BORDER=3D"0" ALT=3D"Cvent - Web-based Software Solutions"></IMG></A=
+></TD></TR></TABLE><IMG height=3D1 src=3D"http://www=2Ecvent=2Ecom/Even=
+ts/images/9795/6d503cae-e264-4801-8854-24fdba2ed732=2Egifx" />
+------CF0E56BA6AB74993AEB3430CE6FEFD9E--
+

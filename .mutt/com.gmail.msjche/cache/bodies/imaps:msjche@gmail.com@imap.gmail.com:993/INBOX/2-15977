@@ -1,0 +1,154 @@
+Delivered-To: msjche@gmail.com
+Received: by 10.194.34.4 with SMTP id v4csp4367487wji;
+        Fri, 27 Feb 2015 15:09:57 -0800 (PST)
+X-Received: by 10.66.221.194 with SMTP id qg2mr28108626pac.106.1425078596882;
+        Fri, 27 Feb 2015 15:09:56 -0800 (PST)
+Return-Path: <3Q_nwVAcLBqYTUXKVReeUaZaHK.IUSSYPINKMSGOR.IUS@emeraldsea-pages.bounces.google.com>
+Received: from mail-pd0-x247.google.com (mail-pd0-x247.google.com. [2607:f8b0:400e:c02::247])
+        by mx.google.com with ESMTPS id k10si7157571pdr.113.2015.02.27.15.09.55
+        for <msjche@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 27 Feb 2015 15:09:56 -0800 (PST)
+Received-SPF: pass (google.com: domain of 3Q_nwVAcLBqYTUXKVReeUaZaHK.IUSSYPINKMSGOR.IUS@emeraldsea-pages.bounces.google.com designates 2607:f8b0:400e:c02::247 as permitted sender) client-ip=2607:f8b0:400e:c02::247;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3Q_nwVAcLBqYTUXKVReeUaZaHK.IUSSYPINKMSGOR.IUS@emeraldsea-pages.bounces.google.com designates 2607:f8b0:400e:c02::247 as permitted sender) smtp.mail=3Q_nwVAcLBqYTUXKVReeUaZaHK.IUSSYPINKMSGOR.IUS@emeraldsea-pages.bounces.google.com;
+       dkim=pass header.i=@youtube.com;
+       dmarc=pass (p=QUARANTINE dis=NONE) header.from=youtube.com
+Received: by mail-pd0-x247.google.com with SMTP id y10so151090289pdj.0
+        for <msjche@gmail.com>; Fri, 27 Feb 2015 15:09:55 -0800 (PST)
+X-Received: by 10.66.131.37 with SMTP id oj5mr15514065pab.12.1425078595690;
+        Fri, 27 Feb 2015 15:09:55 -0800 (PST)
+X-Received: by 10.236.105.137 with SMTP id k9mr14979469yhg.14.1425078595526;
+        Fri, 27 Feb 2015 15:09:55 -0800 (PST)
+Return-Path: <noreply@youtube.com>
+Received: from mail-pa0-x248.google.com (mail-pa0-x248.google.com. [2607:f8b0:400e:c03::248])
+        by gmr-mx.google.com with ESMTPS id ks4si234294pbc.1.2015.02.27.15.09.55
+        for <msjche-9835@pages.plusgoogle.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 27 Feb 2015 15:09:55 -0800 (PST)
+Received-SPF: pass (google.com: domain of noreply@youtube.com designates 2607:f8b0:400e:c03::248 as permitted sender) client-ip=2607:f8b0:400e:c03::248;
+Received: by mail-pa0-x248.google.com with SMTP id bj1so1818003pad.2
+        for <msjche-9835@pages.plusgoogle.com>; Fri, 27 Feb 2015 15:09:55 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=youtube.com; s=20120806;
+        h=mime-version:date:reply-to:list-unsubscribe:references:precedence
+         :message-id:subject:from:to:content-type;
+        bh=AOd1ZutIizKxqh21bt9GTxaUhIj1MxyL7a39wRlnGw0=;
+        b=gDfZXBm8TtSpm7yu5u8hHnlbOO+RCsFQtCLEk98Rb+01AiDeMs3xJzOt2LXQfvClKV
+         TvLVRoBMhPPGiPF2n5I8EH31fSXifd5LDrUI7wfePWlWQt/EW/0o01dayg7to/RpNeTr
+         05gqqcXOQIuxwZGMA5V7C0fKWDRvJwbERdjcfQhSDe6LJdZRb/BfKghfWW01yq8pYgn5
+         HkQYZPIk/HK74oal65bCFsiKTOJDVndD6HUoR3GT7QAOl5sPeXgwzbQs+TvqoKMvufdx
+         k3c75HuLCqcb3SnBIqaw2DDID2n/UKw8+LFvkCUh/l0IkuC3K9UXjZ1umTMhK3eLRIG7
+         6m3A==
+MIME-Version: 1.0
+X-Received: by 10.70.91.67 with SMTP id cc3mr3422410pdb.2.1425078595430; Fri,
+ 27 Feb 2015 15:09:55 -0800 (PST)
+Date: Fri, 27 Feb 2015 15:09:55 -0800 (PST)
+X-Notification-ID: g:ChNncGx1c190YXJnZXRfc2hhcmVkGipodHRwOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9dmR5RHFRWllFQXM
+X-Notification-Type: TARGET_SHARED
+X-Sender-ID: 118370158849253435225
+Reply-To: YouTube <noreply@youtube.com>
+X-Notification-Category: TARGET
+List-Unsubscribe: <https://plus.google.com/_/notifications/emlink?emr=14500395747868206761&emid=CMiM0rufg8QCFQKojAodFGAAkA&path=%2Fsettings%2Funsubscribe%3Fueat%3DAJ7SsMniga94c-Upvd_mrI-6eppYNQVHPb7dTNum_BX3F2WAtyfYHzYlr-G6Ar-BUVCD7t9uh7REo0RV4Gykf1qLkV6IuChcb2sOPJxsBmMK98kSPt6BwaVIi1XXu9a0w1bib5oL9Ej_KBRA_qHOaD7eM34qstHtJsttpyG-aCCIGeB5Usu7LmpbwCuluUmnHnnW6t7cvD4P&dt=1425078595361&ub=TARGET_SHARED&uob=TARGET_SHARED>
+References: <aHR0cDovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PXZkeURxUVpZRUFz@plus.google.com>
+X-UB: 69
+Precedence: bulk
+X-Disable-Interactive: 1
+X-Notifications: XEAAAAP-FBoyku5NopFZSw_Ff2mo
+Message-ID: <-1417005313@plus.google.com>
+Subject: New activity on your video: Full Gentoo+AwesomeWM Install Tutorial -
+ pt.1 - Gentoo Base Install
+From: YouTube <noreply@youtube.com>
+To: msjche-9835@pages.plusgoogle.com
+Content-Type: multipart/alternative; boundary=001a11c249b67527de051019f7b7
+
+--001a11c249b67527de051019f7b7
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed; delsp=yes
+
+New activity on your video:
+Ahmad Abd-Elghany commented on Full Gentoo+AwesomeWM Install Tutorial -  
+pt.1 - Gentoo Base Install
+I love you man...
+I really Love you <3
+View activity:  
+http://www.youtube.com/watch?v=vdyDqQZYEAs&google_comment_id=z13xh5wodwqchnyqo04ch5ri4tquihf4f4k&google_view_type#gpluscomments
+
+
+Change what email Google+ sends you:  
+https://plus.google.com/_/notifications/emlink?emr=14500395747868206761&emid=CMiM0rufg8QCFQKojAodFGAAkA&path=%2Fsettings%2Fplus&dt=1425078595361&ub=TARGET_SHARED&uob=TARGET_SHARED
+
+
+--001a11c249b67527de051019f7b7
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html dir=3D"ltr"><body style=3D"font-family:arial,Arial,sans-serif;"><tabl=
+e align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"640"><tbody><tr><td style=3D"background-color:#F0F0F0" width=3D"22"></t=
+d><td style=3D"background-color:#F0F0F0" width=3D"596"><table align=3D"cent=
+er" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"596"><tbody><=
+tr><td width=3D"596" style=3D"padding:16px 0;"><table align=3D"center" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"596"><tbody><tr><td w=
+idth=3D"9"></td><td align=3D"left" height=3D"47" valign=3D"center" width=3D=
+"230"><img height=3D"47" src=3D"https://ssl.gstatic.com/s2/oz/images/notifi=
+cations/yt_header_left-c741fab1eed1874fcda737d186f45ba7.png" width=3D"230">=
+</td><td align=3D"center" height=3D"47" valign=3D"center" width=3D"118"><im=
+g height=3D"47" src=3D"https://ssl.gstatic.com/s2/oz/images/notifications/y=
+t_logo-ebaf2870f77346d6a6280a077d9ac4f0.png" width=3D"118"></td><td align=
+=3D"right" height=3D"47" valign=3D"center" width=3D"230"><img height=3D"47"=
+ src=3D"https://ssl.gstatic.com/s2/oz/images/notifications/yt_header_right-=
+0b50a4971389c7bf7c88ddbdcca60df8.png" width=3D"230"></td><td width=3D"9"></=
+td></tr></tbody></table></td></tr><tr><td align=3D"left" style=3D"backgroun=
+d-color:#FFF" width=3D"596"><div style=3D"border:1px solid #CCC"><div style=
+=3D" border-bottom: 1px solid #CCC; color: #333; font-size: 18px; line-heig=
+ht: 24px; padding: 35px 50px;"><table align=3D"center" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"100%"><tbody><tr><td width=3D"58px" s=
+tyle=3D"padding-right: 20px;"><img style=3D" display: inline-block; max-hei=
+ght: 58px; max-width: 96px; vertical-align: middle;" src=3D"https://i.ytimg=
+.com/vi/vdyDqQZYEAs/hqdefault.jpg" /></td><td><strong>New comment on your v=
+ideo</strong><br><div style=3D"margin-top:5px;"><a style=3D"color:#3366CC;t=
+ext-decoration:none" href=3D"http://www.youtube.com/watch?v=3DvdyDqQZYEAs&g=
+oogle_comment_id=3Dz13xh5wodwqchnyqo04ch5ri4tquihf4f4k&google_view_type#gpl=
+uscomments">Full Gentoo+AwesomeWM Install Tutorial - pt.1 - Gentoo Base Ins=
+tall</a></div></td></tr></tbody></table></div><div style=3D"padding:35px 50=
+px;"><table cellpadding=3D0 cellspacing=3D0><tr><td style=3D"padding-right:=
+15px;vertical-align:top;width:46px"><a href=3D"https://plus.google.com/_/no=
+tifications/emlink?emr=3D14500395747868206761&emid=3DCMiM0rufg8QCFQKojAodFG=
+AAkA&path=3D%2F118370158849253435225&dt=3D1425078595361&ub=3DTARGET_SHARED&=
+uob=3DTARGET_SHARED"><img width=3D"46" height=3D"46" style=3D"border:solid =
+1px #cccccc;" src=3D"https://lh5.googleusercontent.com/-SSQSKX7rJXE/AAAAAAA=
+AAAI/AAAAAAAABdc/IkhHAPDIKz0/s75-c-k-a-no/photo.jpg" /></a></td><td style=
+=3D"vertical-align:top;font-size:14px;"><div style=3D"padding-bottom:10px">=
+<span style=3D"font-weight:bold;">Ahmad Abd-Elghany</span></div><div style=
+=3D"padding-bottom: 10px">I love you man...
+I really Love you <3</div><div style=3D"font-size:13px;margin-top:15px;"><a=
+ href=3D"http://www.youtube.com/watch?v=3DvdyDqQZYEAs&google_comment_id=3Dz=
+13xh5wodwqchnyqo04ch5ri4tquihf4f4k&google_view_type#gpluscomments" style=3D=
+"background-color:#fff;border:solid 1px #dfdfdf;border-radius:3px;-moz-bord=
+er-radius: 3px;-webkit-border-radius: 3px;color:#000;display:inline-block;f=
+ont-family:Arial;font-size:13px;font-weight:bold;height:34px;line-height:34=
+px;min-width:54px;padding:0 20px;text-align:center;text-decoration:none;whi=
+te-space:nowrap;">Reply</a><div style=3D"display:inline-block;margin:0 15px=
+;"><a style=3D"color:#3366CC;text-decoration:none" href=3D"http://www.youtu=
+be.com/watch?v=3DvdyDqQZYEAs&google_comment_id=3Dz13xh5wodwqchnyqo04ch5ri4t=
+quihf4f4k&google_view_type#gpluscomments">View all comments</a></div></div>=
+</td></tr></table></div></div></td></tr><tr><td width=3D"596" style=3D"colo=
+r:#5C5C5C"><div style=3D" border-bottom: 1px solid #CCC; margin: 10px 10px =
+0 10px; padding-bottom: 10px;"><table border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" width=3D"100%" style=3D"font-size:13px; line-height:13px;color:=
+#5C5C5C;"><tbody><tr><td>YouTube comments are powered by Google+</td><td st=
+yle=3D"text-align:right;width:20%;"><a href=3D"http://support.google.com/yo=
+utube/answer/171666" style=3D"color:#3366CC;text-decoration:none">Learn mor=
+e</a></td></tr></tbody></table></div><div style=3D" font-size: 11px; line-h=
+eight: 11px; margin: 10px; padding-bottom: 10px;"><a href=3D"https://plus.g=
+oogle.com/_/notifications/emlink?emr=3D14500395747868206761&emid=3DCMiM0ruf=
+g8QCFQKojAodFGAAkA&path=3D%2Fsettings%2Funsubscribe%3Fueat%3DAJ7SsMniga94c-=
+Upvd_mrI-6eppYNQVHPb7dTNum_BX3F2WAtyfYHzYlr-G6Ar-BUVCD7t9uh7REo0RV4Gykf1qLk=
+V6IuChcb2sOPJxsBmMK98kSPt6BwaVIi1XXu9a0w1bib5oL9Ej_KBRA_qHOaD7eM34qstHtJstt=
+pyG-aCCIGeB5Usu7LmpbwCuluUmnHnnW6t7cvD4P&dt=3D1425078595361&ub=3DTARGET_SHA=
+RED&uob=3DTARGET_SHARED" style=3D"color:#3366CC;text-decoration:none">Unsub=
+scribe</a> from these emails.<br><br>Google Inc., 1600 Amphitheatre Pkwy, M=
+ountain View, CA 94043 USA</div></td></tr></tbody></table></td><td style=3D=
+"background-color:#F0F0F0" width=3D"22"></td></tr></tbody></table></body></=
+html>
+--001a11c249b67527de051019f7b7--

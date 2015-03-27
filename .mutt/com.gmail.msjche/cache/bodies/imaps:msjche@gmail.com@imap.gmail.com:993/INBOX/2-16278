@@ -1,0 +1,142 @@
+Delivered-To: msjche@gmail.com
+Received: by 10.194.34.4 with SMTP id v4csp1757627wji;
+        Mon, 23 Mar 2015 14:58:32 -0700 (PDT)
+X-Received: by 10.141.28.135 with SMTP id f129mr1650704qhe.73.1427147912205;
+        Mon, 23 Mar 2015 14:58:32 -0700 (PDT)
+Return-Path: <jedi@nixnut.com>
+Received: from s462.sureserver.com (s462.sureserver.com. [64.14.73.29])
+        by mx.google.com with ESMTPS id md3si2130386qcb.7.2015.03.23.14.58.31
+        for <msjche@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Mon, 23 Mar 2015 14:58:32 -0700 (PDT)
+Received-SPF: none (google.com: jedi@nixnut.com does not designate permitted sender hosts) client-ip=64.14.73.29;
+Authentication-Results: mx.google.com;
+       spf=none (google.com: jedi@nixnut.com does not designate permitted sender hosts) smtp.mail=jedi@nixnut.com
+Received: (qmail 32335 invoked by uid 1003); 23 Mar 2015 21:58:31 -0000
+Received: from unknown (HELO ?192.168.1.107?) (jedi@199.193.87.55)
+  by s462.sureserver.com with ESMTPA; 23 Mar 2015 21:58:31 -0000
+Message-ID: <55108C84.5000909@nixnut.com>
+Date: Mon, 23 Mar 2015 17:58:28 -0400
+From: Jedi <jedi@nixnut.com>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Icedove/31.5.0
+MIME-Version: 1.0
+To: Morgan Johnson <msjche@gmail.com>
+Subject: Awesome WM
+Content-Type: multipart/alternative;
+ boundary="------------080902050807020000050503"
+
+This is a multi-part message in MIME format.
+--------------080902050807020000050503
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+Hello Morgan!  Hope you are doing well out on the "warm coast"!  Here on 
+the "cold coast" things are, well, COLD!  I suppose we chose to live 
+here so I can't really complain.
+
+I'd like to thank you once again for the great youtube videos. While I 
+haven't stuck with Gentoo, I have gone a lot further with Awesome.  I 
+posted a scrot of my awesome desktop using debian sid on my google+ 
+page.  (jedsdesk)
+
+HA, does that look familiar?  It is a great copy of the awesome setup 
+your using on your Gentoo videos.  Getting it to work on Sid was a 
+challenge to say the least.  Had to download the tarball and build 3.5.6 
+from source.  Fun!
+
+Anyway, thanks for the great setup!  I have poured over the interwebs 
+looking at different folks rc.lua files and yours is far and away the 
+nicest looking one I've yet to see.  I do have some questions.  I have 
+been unable to get the wireless signal indicator widget at top right to 
+display anything other than the red icon indicating no signal.  I have 
+managed to get it to display a green 'On'.  I'm connected using wicd, 
+not network manager.  Also, no VPN.  I've gone through the rc/wi.lua 
+files as well as some of the ~/.config/awesome/vicous/widgets lua files 
+to no avail.  Same with the /lain directory at that location.  Have yet 
+to figure out the yawn weather city_id placement to get that working as 
+well.
+
+I've also had some issues with having to reboot to get sound to work, 
+i.e. plugging in headphones then unplugging them, I lose touch with 
+sound completely.  Still looking into this one.  I'm a tester/dev for a 
+small distro called VSIDO that is based on Debian SID.  (shameless plug 
+- vsido.org or my personal site where we host our ISO's - 
+nixnut.com/vsido)  We recently switched our installer to Refracta from 
+Remastersys.  Refracta is adamantly opposed to systemd.  (we're a Debian 
+based distro, so they kinda made the decision for us.)  It, (refracta) 
+relies instead on systemd-shim, and this in turn causes issues with 
+dbus.  Dbus is absolutely working, just has issues with systemd trying 
+to talk to it.
+
+OK, I'll cut it there!  I could go on, but I'm having fun figuring most 
+of it out on my own.  I've noticed you hang in freenode's #gentoo 
+channel on IRC.  I have a personal channel on OFTC's network called 
+#nixnut, and can also always be found in the #vsido channel on the same 
+network.  Be an honor to type at ya sometime.
+
+Thanks for everything,
+Jed
+
+--------------080902050807020000050503
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  </head>
+  <body bgcolor="#999999" text="#000000">
+    <font size="+1">Hello Morgan!  Hope you are doing well out on the
+      "warm coast"!  Here on the "cold coast" things are, well, COLD!  I
+      suppose we chose to live here so I can't really complain.<br>
+      <br>
+      I'd like to thank you once again for the great youtube videos. 
+      While I haven't stuck with Gentoo, I have gone a lot further with
+      Awesome.  I posted a scrot of my awesome desktop using debian sid
+      on my google+ page.  (jedsdesk)<br>
+      <br>
+      HA, does that look familiar?  It is a great copy of the awesome
+      setup your using on your Gentoo videos.  Getting it to work on Sid
+      was a challenge to say the least.  Had to download the tarball and
+      build 3.5.6 from source.  Fun!<br>
+      <br>
+      Anyway, thanks for the great setup!  I have poured over the
+      interwebs looking at different folks rc.lua files and yours is far
+      and away the nicest looking one I've yet to see.  I do have some
+      questions.  I have been unable to get the wireless signal
+      indicator widget at top right to display anything other than the
+      red icon indicating no signal.  I have managed to get it to
+      display a green 'On'.  I'm connected using wicd, not network
+      manager.  Also, no VPN.  I've gone through the rc/wi.lua files as
+      well as some of the ~/.config/awesome/vicous/widgets lua files to
+      no avail.  Same with the /lain directory at that location.  Have
+      yet to figure out the yawn weather city_id placement to get that
+      working as well.<br>
+      <br>
+      I've also had some issues with having to reboot to get sound to
+      work, i.e. plugging in headphones then unplugging them, I lose
+      touch with sound completely.  Still looking into this one.  I'm a
+      tester/dev for a small distro called VSIDO that is based on Debian
+      SID.  (shameless plug - vsido.org or my personal site where we
+      host our ISO's - nixnut.com/vsido)  We recently switched our
+      installer to Refracta from Remastersys.  Refracta is adamantly
+      opposed to systemd.  (we're a Debian based distro, so they kinda
+      made the decision for us.)  It, (refracta) relies instead on
+      systemd-shim, and this in turn causes issues with dbus.  Dbus is
+      absolutely working, just has issues with systemd trying to talk to
+      it.<br>
+      <br>
+      OK, I'll cut it there!  I could go on, but I'm having fun figuring
+      most of it out on my own.  I've noticed you hang in freenode's
+      #gentoo channel on IRC.  I have a personal channel on OFTC's
+      network called #nixnut, and can also always be found in the #vsido
+      channel on the same network.  Be an honor to type at ya sometime.<br>
+      <br>
+      Thanks for everything,<br>
+      Jed<br>
+    </font>
+  </body>
+</html>
+
+--------------080902050807020000050503--

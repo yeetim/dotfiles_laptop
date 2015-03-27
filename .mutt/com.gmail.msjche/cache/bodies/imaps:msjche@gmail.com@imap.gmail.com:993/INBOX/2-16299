@@ -1,0 +1,67 @@
+Delivered-To: msjche@gmail.com
+Received: by 10.194.34.4 with SMTP id v4csp2368881wji;
+        Tue, 24 Mar 2015 12:51:39 -0700 (PDT)
+X-Received: by 10.112.137.164 with SMTP id qj4mr5150868lbb.17.1427226698423;
+        Tue, 24 Mar 2015 12:51:38 -0700 (PDT)
+Return-Path: <birdies4chris@gmail.com>
+Received: from mail-lb0-x22c.google.com (mail-lb0-x22c.google.com. [2a00:1450:4010:c04::22c])
+        by mx.google.com with ESMTPS id mz5si28472lbb.71.2015.03.24.12.51.37
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 24 Mar 2015 12:51:38 -0700 (PDT)
+Received-SPF: pass (google.com: domain of birdies4chris@gmail.com designates 2a00:1450:4010:c04::22c as permitted sender) client-ip=2a00:1450:4010:c04::22c;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of birdies4chris@gmail.com designates 2a00:1450:4010:c04::22c as permitted sender) smtp.mail=birdies4chris@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-lb0-x22c.google.com with SMTP id sy1so935029lbb.1;
+        Tue, 24 Mar 2015 12:51:37 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=oXuKHwmZ+07h829fCfAjE40entigBSa6DLSZQhafThk=;
+        b=y9i2LPTXhPsa8yXZCGomLGhA12L+eBZS9m2lymkJSuAby9uxbsInKw/fk8S46A7oM4
+         vxcgKrZIiznsaR8C+vuSGWUJSehFo22u3Jn8dybKKB6wz05iTX+QUxYV50TepLpcl2RK
+         iXXb6cqtHSDirMgxvXn78jPjFlhGeum96Stfx7QsbeLY2Uo8wNyh8nE+p4BiRaNc2Shu
+         eWbSBLGxZkZcxSxtw56JH4JZ3wIT5ZjhnfHutauIB5rUhAle5Ynzoy6plJcCyBmbKlir
+         2juNym6y7wPuiLvIe6JwutRBR6/OE9Sea2xztzJ+u8CZnRaWmS5u+cxfLsmRW0tC1iI6
+         UjoA==
+MIME-Version: 1.0
+X-Received: by 10.112.160.227 with SMTP id xn3mr3265747lbb.112.1427226697560;
+ Tue, 24 Mar 2015 12:51:37 -0700 (PDT)
+Received: by 10.112.125.69 with HTTP; Tue, 24 Mar 2015 12:51:37 -0700 (PDT)
+Date: Tue, 24 Mar 2015 12:51:37 -0700
+Message-ID: <CAJnw0aFLHebfAs1EFvNw_ykhVMOALRUFkwsZq7QLCza5ve5Keg@mail.gmail.com>
+Subject: Masters TV Watch Party - Sunday 4/12/15
+From: Chris <birdies4chris@gmail.com>
+To: Morgan Johnson <msjche@gmail.com>, Tomas Schlesinger <tomasfitness1@gmail.com>, 
+	Sean Kalsi <spkalsi@gmail.com>
+Content-Type: multipart/alternative; boundary=001a11c32e1452788505120e1c79
+
+--001a11c32e1452788505120e1c79
+Content-Type: text/plain; charset=UTF-8
+
+Hey Guys,
+
+My sister is in town April 10-12 & I'm wanting to do a Masters watch party
+at my place on Sunday 4/12. I'll have food, drinks & the 50" plasma TV.
+C'mon over anytime after 1200noon & watch Tiger chunk some chips (if he
+even makes the cut - which I seriously doubt!).
+
+CT
+
+--001a11c32e1452788505120e1c79
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><span style=3D"font-size:12.8000001907349px">Hey Guys,</sp=
+an><br style=3D"font-size:12.8000001907349px"><br style=3D"font-size:12.800=
+0001907349px"><span style=3D"font-size:12.8000001907349px">My sister is in =
+town April 10-12 &amp; I&#39;m wanting to do a Masters watch party at my pl=
+ace on Sunday 4/12. I&#39;ll have food, drinks &amp; the 50&quot; plasma TV=
+.=C2=A0 C&#39;mon over anytime after 1200noon &amp; watch Tiger chunk some =
+chips (if he even makes the cut - which I seriously doubt!).</span><br styl=
+e=3D"font-size:12.8000001907349px"><br style=3D"font-size:12.8000001907349p=
+x"><span style=3D"font-size:12.8000001907349px">CT</span><br style=3D"font-=
+size:12.8000001907349px"></div>
+
+--001a11c32e1452788505120e1c79--

@@ -1,0 +1,156 @@
+Delivered-To: msjche@gmail.com
+Received: by 10.194.34.4 with SMTP id v4csp770082wji;
+        Sat, 7 Mar 2015 19:20:53 -0800 (PST)
+X-Received: by 10.202.206.9 with SMTP id e9mr16028150oig.18.1425784852589;
+        Sat, 07 Mar 2015 19:20:52 -0800 (PST)
+Return-Path: <3E8D7VAcLBjAZadQbXkkagfgNQ.OaYYeVOTQSYMUX.OaY@emeraldsea-pages.bounces.google.com>
+Received: from mail-ob0-x248.google.com (mail-ob0-x248.google.com. [2607:f8b0:4003:c01::248])
+        by mx.google.com with ESMTPS id q81si3181800oib.82.2015.03.07.19.20.51
+        for <msjche@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 07 Mar 2015 19:20:52 -0800 (PST)
+Received-SPF: pass (google.com: domain of 3E8D7VAcLBjAZadQbXkkagfgNQ.OaYYeVOTQSYMUX.OaY@emeraldsea-pages.bounces.google.com designates 2607:f8b0:4003:c01::248 as permitted sender) client-ip=2607:f8b0:4003:c01::248;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3E8D7VAcLBjAZadQbXkkagfgNQ.OaYYeVOTQSYMUX.OaY@emeraldsea-pages.bounces.google.com designates 2607:f8b0:4003:c01::248 as permitted sender) smtp.mail=3E8D7VAcLBjAZadQbXkkagfgNQ.OaYYeVOTQSYMUX.OaY@emeraldsea-pages.bounces.google.com;
+       dkim=pass header.i=@youtube.com;
+       dmarc=pass (p=QUARANTINE dis=NONE) header.from=youtube.com
+Received: by mail-ob0-x248.google.com with SMTP id wp18so24864478obc.2
+        for <msjche@gmail.com>; Sat, 07 Mar 2015 19:20:51 -0800 (PST)
+X-Received: by 10.50.23.75 with SMTP id k11mr23114314igf.3.1425784851935;
+        Sat, 07 Mar 2015 19:20:51 -0800 (PST)
+X-Received: by 10.66.100.198 with SMTP id fa6mr20970834pab.31.1425784851818;
+        Sat, 07 Mar 2015 19:20:51 -0800 (PST)
+Return-Path: <noreply@youtube.com>
+Received: from mail-vc0-x246.google.com (mail-vc0-x246.google.com. [2607:f8b0:400c:c03::246])
+        by gmr-mx.google.com with ESMTPS id o10si185978vdh.1.2015.03.07.19.20.51
+        for <msjche-9835@pages.plusgoogle.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 07 Mar 2015 19:20:51 -0800 (PST)
+Received-SPF: pass (google.com: domain of noreply@youtube.com designates 2607:f8b0:400c:c03::246 as permitted sender) client-ip=2607:f8b0:400c:c03::246;
+Received: by mail-vc0-x246.google.com with SMTP id hq11so10458167vcb.1
+        for <msjche-9835@pages.plusgoogle.com>; Sat, 07 Mar 2015 19:20:51 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=youtube.com; s=20120806;
+        h=mime-version:date:reply-to:list-unsubscribe:references:precedence
+         :message-id:subject:from:to:content-type;
+        bh=tTOZaBa0/3SHDTPTK1NjGlzmJ4Lgk2gOlminSTEQXO0=;
+        b=VwsRwIeNocmX227XYGYjCERosOz4U/WV+XXPh4Ed0ehS91y7HtwvmpbqhWRIpUoFzx
+         3uXXaqCn2TmI1HxS2f2K3rYhdz0lvP5GPV2+DYiOXbQnW1GC387SCq6xYEicxL/Fj0+R
+         bWx5wG0m3ffw1hsulqR0Zi+nyKPMHfH484bFz9PuCdSdpnVcMG36I1l37tim+zYt52ij
+         lqwkkmFj6ljCQq6v7hD1G1Ljf2Hv3pvSwNOFCLCGsv61+JoXfwJIXLaE8LIUSEF71/ZF
+         FOO6fMPEJ+xWQ7F++m36CJhSXsfGiBvm+EU8GBwkOZKdDamYLnuwT+z1a6tTsC4yRwzD
+         I/6A==
+MIME-Version: 1.0
+X-Received: by 10.236.4.134 with SMTP id 6mr20557085yhj.35.1425784851708; Sat,
+ 07 Mar 2015 19:20:51 -0800 (PST)
+Date: Sat, 07 Mar 2015 19:20:51 -0800 (PST)
+X-Notification-ID: g:ChNncGx1c190YXJnZXRfc2hhcmVkGipodHRwOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9dmR5RHFRWllFQXM
+X-Notification-Type: TARGET_SHARED
+X-Sender-ID: 118370158849253435225
+Reply-To: YouTube <noreply@youtube.com>
+X-Notification-Category: TARGET
+List-Unsubscribe: <https://plus.google.com/_/notifications/emlink?emr=14500395747868206761&emid=CJiL8rzml8QCFeVuTAodQy8A2Q&path=%2Fsettings%2Funsubscribe%3Fueat%3DAJ7SsMkI1lcInBwqjVq6rsa0ze0VMYqApBoG0hFjHlryqOxeRBi1uRPaPqn01vVrcsdOH5pDWlJlBlFKPP_K1JO5bL37A4smaXs8oVRWbnI5Rm6b38MmMABaGIlnYaCKsXJ2ryNCXaNWtxSKvOOIsRnXALHQiohdQIOUB2Valmw2FXg5vvx4pLawDYwMLvm3FUaJo4JaGlFM&dt=1425784851671&ub=TARGET_SHARED>
+References: <aHR0cDovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PXZkeURxUVpZRUFz@plus.google.com>
+X-UB: 69
+Precedence: bulk
+X-Disable-Interactive: 1
+X-Notifications: XEAAAANsvKVoH2Yc-ZayaSSpzJWQ
+Message-ID: <-1784770649@plus.google.com>
+Subject: New activity on your video: Full Gentoo Install Tutorial - pt.1 -
+ Gentoo Base Install
+From: YouTube <noreply@youtube.com>
+To: msjche-9835@pages.plusgoogle.com
+Content-Type: multipart/alternative; boundary=089e013a13909cbb480510be679e
+
+--089e013a13909cbb480510be679e
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed; delsp=yes
+
+New activity on your video:
+Ahmad Abd-Elghany commented on Full Gentoo Install Tutorial - pt.1 - Gentoo  
+Base Install
+Why you calculated the Memory/Disk size? why not just choosing 6000MB  
+rather than 6144? and how did you did that for portioning? somehow it's  
+hard for me as I got a 120GB ssd and I don't know what is
+View activity:  
+http://www.youtube.com/watch?v=vdyDqQZYEAs&google_comment_id=z13ltdwqalyuuv4yj04ch5ri4tquihf4f4k&google_view_type#gpluscomments
+
+
+Change what email Google+ sends you:  
+https://plus.google.com/_/notifications/emlink?emr=14500395747868206761&emid=CJiL8rzml8QCFeVuTAodQy8A2Q&path=%2Fsettings%2Fplus&dt=1425784851671&ub=TARGET_SHARED
+
+
+--089e013a13909cbb480510be679e
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html dir=3D"ltr"><body style=3D"font-family:arial,Arial,sans-serif;"><tabl=
+e align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"640"><tbody><tr><td style=3D"background-color:#F0F0F0" width=3D"22"></t=
+d><td style=3D"background-color:#F0F0F0" width=3D"596"><table align=3D"cent=
+er" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"596"><tbody><=
+tr><td width=3D"596" style=3D"padding:16px 0;"><table align=3D"center" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"596"><tbody><tr><td w=
+idth=3D"9"></td><td align=3D"left" height=3D"47" valign=3D"center" width=3D=
+"230"><img height=3D"47" src=3D"https://ssl.gstatic.com/s2/oz/images/notifi=
+cations/yt_header_left-c741fab1eed1874fcda737d186f45ba7.png" width=3D"230">=
+</td><td align=3D"center" height=3D"47" valign=3D"center" width=3D"118"><im=
+g height=3D"47" src=3D"https://ssl.gstatic.com/s2/oz/images/notifications/y=
+t_logo-ebaf2870f77346d6a6280a077d9ac4f0.png" width=3D"118"></td><td align=
+=3D"right" height=3D"47" valign=3D"center" width=3D"230"><img height=3D"47"=
+ src=3D"https://ssl.gstatic.com/s2/oz/images/notifications/yt_header_right-=
+0b50a4971389c7bf7c88ddbdcca60df8.png" width=3D"230"></td><td width=3D"9"></=
+td></tr></tbody></table></td></tr><tr><td align=3D"left" style=3D"backgroun=
+d-color:#FFF" width=3D"596"><div style=3D"border:1px solid #CCC"><div style=
+=3D" border-bottom: 1px solid #CCC; color: #333; font-size: 18px; line-heig=
+ht: 24px; padding: 35px 50px;"><table align=3D"center" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"100%"><tbody><tr><td width=3D"58px" s=
+tyle=3D"padding-right: 20px;"><img style=3D" display: inline-block; max-hei=
+ght: 58px; max-width: 96px; vertical-align: middle;" src=3D"http://i.ytimg.=
+com/vi/vdyDqQZYEAs/hqdefault.jpg" /></td><td><strong>New comment on your vi=
+deo</strong><br><div style=3D"margin-top:5px;"><a style=3D"color:#3366CC;te=
+xt-decoration:none" href=3D"http://www.youtube.com/watch?v=3DvdyDqQZYEAs&go=
+ogle_comment_id=3Dz13ltdwqalyuuv4yj04ch5ri4tquihf4f4k&google_view_type#gplu=
+scomments">Full Gentoo Install Tutorial - pt.1 - Gentoo Base Install</a></d=
+iv></td></tr></tbody></table></div><div style=3D"padding:35px 50px;"><table=
+ cellpadding=3D0 cellspacing=3D0><tr><td style=3D"padding-right:15px;vertic=
+al-align:top;width:46px"><a href=3D"https://plus.google.com/_/notifications=
+/emlink?emr=3D14500395747868206761&emid=3DCJiL8rzml8QCFeVuTAodQy8A2Q&path=
+=3D%2F118370158849253435225&dt=3D1425784851671&ub=3DTARGET_SHARED"><img wid=
+th=3D"46" height=3D"46" style=3D"border:solid 1px #cccccc;" src=3D"https://=
+lh5.googleusercontent.com/-SSQSKX7rJXE/AAAAAAAAAAI/AAAAAAAABo8/K2v4tmj-P14/=
+s75-c-k-a-no/photo.jpg" /></a></td><td style=3D"vertical-align:top;font-siz=
+e:14px;"><div style=3D"padding-bottom:10px"><span style=3D"font-weight:bold=
+;">Ahmad Abd-Elghany</span></div><div style=3D"padding-bottom: 10px">Why yo=
+u calculated the Memory/Disk size? why not just choosing 6000MB rather than=
+ 6144? and how did you did that for portioning? somehow it's hard for me as=
+ I got a 120GB ssd and I don't know what is</div><div style=3D"font-size:13=
+px;margin-top:15px;"><a href=3D"http://www.youtube.com/watch?v=3DvdyDqQZYEA=
+s&google_comment_id=3Dz13ltdwqalyuuv4yj04ch5ri4tquihf4f4k&google_view_type#=
+gpluscomments" style=3D"background-color:#fff;border:solid 1px #dfdfdf;bord=
+er-radius:3px;-moz-border-radius: 3px;-webkit-border-radius: 3px;color:#000=
+;display:inline-block;font-family:Arial;font-size:13px;font-weight:bold;hei=
+ght:34px;line-height:34px;min-width:54px;padding:0 20px;text-align:center;t=
+ext-decoration:none;white-space:nowrap;">Reply</a><div style=3D"display:inl=
+ine-block;margin:0 15px;"><a style=3D"color:#3366CC;text-decoration:none" h=
+ref=3D"http://www.youtube.com/watch?v=3DvdyDqQZYEAs&google_comment_id=3Dz13=
+ltdwqalyuuv4yj04ch5ri4tquihf4f4k&google_view_type#gpluscomments">View all c=
+omments</a></div></div></td></tr></table></div></div></td></tr><tr><td widt=
+h=3D"596" style=3D"color:#5C5C5C"><div style=3D" border-bottom: 1px solid #=
+CCC; margin: 10px 10px 0 10px; padding-bottom: 10px;"><table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"font-size:13px; =
+line-height:13px;color:#5C5C5C;"><tbody><tr><td>YouTube comments are powere=
+d by Google+</td><td style=3D"text-align:right;width:20%;"><a href=3D"http:=
+//support.google.com/youtube/answer/171666" style=3D"color:#3366CC;text-dec=
+oration:none">Learn more</a></td></tr></tbody></table></div><div style=3D" =
+font-size: 11px; line-height: 11px; margin: 10px; padding-bottom: 10px;"><a=
+ href=3D"https://plus.google.com/_/notifications/emlink?emr=3D1450039574786=
+8206761&emid=3DCJiL8rzml8QCFeVuTAodQy8A2Q&path=3D%2Fsettings%2Funsubscribe%=
+3Fueat%3DAJ7SsMkI1lcInBwqjVq6rsa0ze0VMYqApBoG0hFjHlryqOxeRBi1uRPaPqn01vVrcs=
+dOH5pDWlJlBlFKPP_K1JO5bL37A4smaXs8oVRWbnI5Rm6b38MmMABaGIlnYaCKsXJ2ryNCXaNWt=
+xSKvOOIsRnXALHQiohdQIOUB2Valmw2FXg5vvx4pLawDYwMLvm3FUaJo4JaGlFM&dt=3D142578=
+4851671&ub=3DTARGET_SHARED" style=3D"color:#3366CC;text-decoration:none">Un=
+subscribe</a> from these emails.<br><br>Google Inc., 1600 Amphitheatre Pkwy=
+, Mountain View, CA 94043 USA</div></td></tr></tbody></table></td><td style=
+=3D"background-color:#F0F0F0" width=3D"22"></td></tr></tbody></table></body=
+></html>
+--089e013a13909cbb480510be679e--

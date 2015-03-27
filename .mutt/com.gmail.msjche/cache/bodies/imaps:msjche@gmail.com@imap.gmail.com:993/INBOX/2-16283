@@ -1,0 +1,871 @@
+Delivered-To: msjche@gmail.com
+Received: by 10.194.34.4 with SMTP id v4csp2029866wji;
+        Tue, 24 Mar 2015 03:03:13 -0700 (PDT)
+X-Received: by 10.50.111.168 with SMTP id ij8mr20849470igb.43.1427191392938;
+        Tue, 24 Mar 2015 03:03:12 -0700 (PDT)
+Return-Path: <GoldSilvercom-qdudyjl1ikljutlrjd1r@cmail2.com>
+Received: from mx80.g.outbound.createsend.com (mx80.g.outbound.createsend.com. [103.28.42.80])
+        by mx.google.com with ESMTP id q101si3043396ioi.100.2015.03.24.03.03.11
+        for <msjche@gmail.com>;
+        Tue, 24 Mar 2015 03:03:12 -0700 (PDT)
+Received-SPF: pass (google.com: domain of GoldSilvercom-qdudyjl1ikljutlrjd1r@cmail2.com designates 103.28.42.80 as permitted sender) client-ip=103.28.42.80;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of GoldSilvercom-qdudyjl1ikljutlrjd1r@cmail2.com designates 103.28.42.80 as permitted sender) smtp.mail=GoldSilvercom-qdudyjl1ikljutlrjd1r@cmail2.com;
+       dkim=pass header.i=@cmail2.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=cs2013; d=cmail2.com;
+ h=From:To:Reply-To:Date:Subject:MIME-Version:Content-Type:X-Feedback-ID:List-Unsubscribe:Sender:Message-ID; i=News=3DGoldSilver.com@cmail2.com;
+ bh=UUoDksplGpjmEaRL7jRMwyz1E/c=;
+ b=WEwQ2lIIX+ef+WNVvQVZ24zWZ1HQGLcAlOGqrlpORpgkit6uaSrG8GFzpR1O5xVJyD1aula93LEa
+   u2KvxLcKDR6SgAia0hZemTWO5L5H6wLubGkhkzKh76KuyHtsHBx9y6bZTi1IT2K1HznZwgoJIx/2
+   Xvi8E4OF+xzGL9njBH8=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=cs2013; d=cmail2.com;
+ h=From:To:Reply-To:Date:Subject:MIME-Version:Content-Type:X-Feedback-ID:List-Unsubscribe:Sender:Message-ID;
+ bh=UUoDksplGpjmEaRL7jRMwyz1E/c=;
+ b=I3VjSpxi2NP2HlQoUlhwlVejn757INNgTDHqxl3v5aYlCUsasBheZ5fCkaOO5ya3qhQQhnhPfHnq
+   sP6YQdXEXyY85c5xaXz7zpR3p6/GYIrng+uOpHfSn9tY+3pk1PyRK77IeMamZBaGjhzz1KHYqYzY
+   U3IWKaQqitd3vQXD9Fw=
+From: "GoldSilver.com" <News@GoldSilver.com> 
+To: "Morgan Johnson" <msjche@gmail.com>
+Reply-To: News@GoldSilver.com
+Date: Tue, 24 Mar 2015 21:00:44 +1100
+Subject: Are you saving enough for retirement?
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_954d7a46-5a8f-4398-8999-299c99b66582_"; charset=utf-8
+X-Mailer: Create Send
+X-Complaints-To: abuse@cmail2.com
+X-Feedback-ID: CA1-r-qdudyjl:LI1-r-idtriij:CL1-r-jityjd:createSEND
+List-Unsubscribe: <http://unsub.cmail2.com/t/r-u-qdudyjl-ikljutlrjd/>,
+ <mailto:unsubscribe-qdudyjl2ikljutlrjd2r-4E1041D3@cmail2.com?subject=Unsubscribe>
+Sender: "GoldSilver.com" <News=GoldSilver.com@cmail2.com>
+Message-ID: <cm.210044.qdudyjl.ikljutlrjd.r@cmail2.com>
+
+--_954d7a46-5a8f-4398-8999-299c99b66582_
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Having trouble seeing this email?  view it online http://goldsilvercom.cm=
+ail2.com/t/r-e-qdudyjl-ikljutlrjd-o/
+
+March 24, 2015
+
+Hello =
+Morgan=
+=
+,
+
+In this GoldSilver Weekly, Patricia Powell issues a wake-up call to Ameri=
+cans, you won't guess who Richard Fisher blames for the stock market bubb=
+le, David Stockman blames the Fed, and Peter Schiff defends his position =
+that the dollar will collapse and gold will rise.
+
+Regards,
+
+Mike Maloney, Chairman
+
+Please like us or forward this email to a friend
+
+http://goldsilvercom.cmail2.com/t/r-fb-qdudyjl-ikljutlrjd-b/
+
+What Net Neutrality Will Do to the Internet [http://hiddensecretsofmoney=
+.com/blog/the-day-the-internet-died]
+
+Last month the FCC passed Net Neutrality and so for the first time the go=
+vernment will be regulating the internet. But extraordinary measures were=
+ taken to hide the text of the regulation before it was voted on. Mike ex=
+plains the consequences in this week's video.  Click Here to Watch it. [=
+http://hiddensecretsofmoney.com/blog/the-day-the-internet-died]
+
+"Americans are woefully ill prepared for retirement." [http://goldsilver=
+.com/video/for-millions-of-americans-the-401-k-is-a-failure/]
+
+Retirement planning in America used to consist of three legs, a pension o=
+r 401K, social security, and personal savings. In this interview Patricia=
+ Powell reports how much an average person needs to save to enjoy a finan=
+cially secure retirement.
+
+"What worries me, however, is how lazy investors have gotten. Totally dep=
+endent on the Federal Reserve." [http://goldsilver.com/video/fed-fisher-=
+say-s-market-is-hyper-overpriced-see-s-a-major-correction/]
+
+Watch Rick Santelli grill former Dallas Fed President Richard Fisher on t=
+he state of the economy and hear him blame investors for inflating the st=
+ock market. Fisher also makes an interesting statement about the role of =
+the Fed in the economy.
+
+"It's a fiscal fraud for the central bank to buy three trillion worth of =
+government debt, essentially monetizing it, buying it with money printed =
+out of thin air." [http://goldsilver.com/video/why-we-need-to-stop-ignor=
+ing-the-u-s-debt-problem/]
+
+David Stockman prescribes some tough medicine in this interview with Neil=
+ Cavuto. It's information we all need to hear, but few want to. And both =
+parties are responsible for the amount of debt that we're in.
+
+"If you thought gold went up a lot when the Fed did QE 1 & 2, wait til yo=
+u see what's going to happen when it does QE 4." [http://goldsilver.com/=
+video/peter-schiff-won-t-back-down-the-dollar-is-going-to-crash-buy-gold/=
+]
+
+Peter Schiff stands by his position that the Fed is not going to raise in=
+terest rates because it can't, but instead will be forced to launch QE 4 =
+and this is bullish for gold.
+
+Product Spotlight
+
+Valcambi 1 oz Combibar [http://goldsilver.com/buy-online/valcambi-gold-c=
+ombibar-1oz/]
+
+- .9999 Pure Fine Gold
+
+- Breakable into ten 1/10 oz gold pieces
+
+- Perfect for using as a form of payment in times of crisis
+
+- Unique serial number stamped into each bar
+
+- Weight & purity stamped into each segment
+
+- Low premium over spot
+
+Quote of the Week
+
+"In fact, all the underlying fundamentals that caused the meltdown of '08=
+ have only been exaggerated and magnified by the actions of the world's c=
+entral banks.  The bailouts, currency creation, market manipulation, deri=
+vatives expansion, and growth of the 'too big to fail' banks only guarant=
+ee that the next crisis will be of a far greater magnitude."
+
+Mike Maloney, best selling author of Guide to Investing in Gold & Silver
+
+You have received this email because you have subscribed to  GoldSilver.c=
+om
+
+If you no longer wish to receive emails please  unsubscribe http://goldsi=
+lvercom.cmail2.com/t/r-u-qdudyjl-ikljutlrjd-n/ =C2=A92015, All ri=
+ghts reserved  unsubscribe http://goldsilvercom.cmail2.com/t/r-u-qdudyjl-=
+ikljutlrjd-p/
+
+--_954d7a46-5a8f-4398-8999-299c99b66582_
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+	<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://w=
+ww.w3.org/TR/html4/loose.dtd">
+	<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://w=
+ww.w3.org/TR/html4/loose.dtd">
+    <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http:=
+//www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html;charset=3Dutf-8" /=
+>
+<title>GoldSilver Weekly</title>
+</head>
+<style type=3D"text/css">
+	.bodytbl{
+	margin: 0;
+	padding: 0;
+	background-image: url();
+	background-repeat: no-repeat;
+	background-position: center;
+}
+=09
+	table{font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#2a2a2=
+a;}
+	div{line-height:18px;color:#696969;}
+	img{display:block;}
+	td,tr{padding:0;}
+	ul{margin-top:10px;margin-bottom:10px;}
+	li{list-style:disc;line-height:24px;font-weight: 500;color:#454B88;}
+	a{color:#ffcc33;text-decoration:none;padding:2px 0px;}
+	.headertbl{border-bottom:1px solid #E1E1E1;}
+	.contenttbl2{background-color:#fff;border-left:1px solid #E1E1E1;border-=
+right:1px solid #E1E1E1;}
+	.contenttbl3{background-color:#f3f3f3; color:blue;}
+	.product{background-color:#eee;border-left:1px solid #eee;border-right:1=
+px solid #eee;}
+	.cachtertbl{background-color:#444444;border-left:1px solid #E1E1E1;borde=
+r-right:1px solid #E1E1E1;}
+	.footertbl{border-top:1px solid #E1E1E1;}
+	.sheet{background-color:#f8f8f8;border-left:1px solid #E1E1E1;border-rig=
+ht:1px solid #E1E1E1;border-bottom:1px solid #E1E1E1;line-height:1px;}
+	.h1 div{font-family:Arial,Helvetica,sans-serif;font-size:30px;color:#444=
+444;font-weight:bold;letter-spacing:-1px;margin-bottom:22px;margin-top:2p=
+x;line-height:36px;}
+	.h2 div{font-family:Arial,Helvetica,sans-serif;font-size:24px;color:#787=
+878;letter-spacing:0;margin-bottom:22px;margin-top:2px;line-height:30px;}=
+
+	.h div{
+	font-family: Georgia, Helvetica, Arial, sans-serif;
+	font-size: 24px;
+	color: #000;
+	margin-bottom: 10px;
+	margin-top: 2px;
+	line-height: 24px;
+	font-style: italic;
+}
+	.qh div{font-family:Arial,Helvetica,sans-serif;font-size:20px;color:#ffc=
+c33;background:#444444;letter-spacing:-1px;margin-bottom:10px;margin-top:=
+0px;padding-left:15px;line-height:34px;}
+	.qb div{font-family:Arial,Helvetica,sans-serif;font-size:18px;textcolor:=
+#ffcc33;letter-spacing:0px;margin-bottom:10px;margin-top:2px;line-height:=
+14px;}
+	.invert div, .invert .h{color:#F4F4F4;}
+	.invert div a{color:#FFFFFF;}
+	.line{border-top:1px dashed #D1D1D1;}
+	.logo{border-right:1px dotted #D1D1D1;}
+	.small div{font-size:10px; line-height:16px; color: #ffffff;}
+	.btn{margin-top:20px;display:block;}
+	.btn img,.social img{display:inline;}
+	.social img{padding-top: 5px;}
+	.subline div{font-family:Georgia,"Times New Roman",Times,serif;font-styl=
+e:italic;text-align:right;}
+	.title div{font-family:Arial,Helvetica,sans-serif;font-size:18px;color:#=
+ffcc33;font-weight:bold;letter-spacing:0px;margin-bottom:5px;margin-top:5=
+px;line-height:20px; text-align: right;padding-right: 5px;}
+	.date div{font-family:Arial,Helvetica,sans-serif;font-size:18px;color:#f=
+fcc33;font-weight:bold;letter-spacing:0px;margin-bottom:5px;margin-top:5p=
+x;line-height:20px; text-align: left;padding-left: 10px;}
+	.quote div{font-family:Arial,Helvetica,sans-serif;font-size:18px;color:#=
+ffcc33;letter-spacing:0px;margin-bottom:5px;margin-top:5px;line-height:20=
+px; text-align: left;}
+</style>
+<table class=3D"bodytbl" width=3D"100%" cellspacing=3D"0" cellpadding=3D"=
+0" bgcolor=3D"#000" style=3D"font-family:Arial,Helvetica,sans-serif;font-=
+size:14px;color:#2a2a2a;margin-top:0;margin-bottom:0;margin-right:0;margi=
+n-left:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;ba=
+ckground-image:url();background-repeat:no-repeat;background-position:cent=
+er;" >
+<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-left:=
+0;" >
+	<td align=3D"center" background=3D"http://i7.cmail2.com/ti/r/66/F28/A3A/=
+090906/images/bg.jpg" style=3D"background-position:center top;background-=
+repeat:no-repeat;background-color:#000;padding-top:0;padding-bottom:0;pad=
+ding-right:0;padding-left:0;" >
+		<table width=3D"600" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-=
+family:Arial,Helvetica,sans-serif;font-size:14px;color:#2a2a2a;" >
+		<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-lef=
+t:0;" >
+			<td width=3D"600" height=3D"42" align=3D"center" valign=3D"top" bgcolo=
+r=3D"#131313" class=3D"small" style=3D"padding-top:0;padding-bottom:0;pad=
+ding-right:0;padding-left:0;" >
+                <p style=3D"color:#fff;font-size:14px;" >Having trouble s=
+eeing this email? <a href=3D"http://goldsilvercom.cmail2.com/t/r-e-qdudyj=
+l-ikljutlrjd-r/" style=3D"color:#ffcc33;text-decoration:none;padd=
+ing-top:2px;padding-bottom:2px;padding-right:0px;padding-left:0px;" >view=
+ it online</a></p>
+                <a name=3D"top" style=3D"color:#ffcc33;text-decoration:no=
+ne;padding-top:2px;padding-bottom:2px;padding-right:0px;padding-left:0px;=
+" ></a>
+			</td>
+		</tr>
+		</table>
+		<table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" s=
+tyle=3D"font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#2a2a=
+2a;" >
+  <tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-lef=
+t:0;" >
+    <td style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-l=
+eft:0;" ><a href=3D"http://goldsilvercom.cmail2.com/t/r-l-qdudyjl-=
+ikljutlrjd-i/" style=3D"color:#ffcc33;text-decoration:none;padding-top:2=
+px;padding-bottom:2px;padding-right:0px;padding-left:0px;" ><img src=3D"h=
+ttp://i8.cmail2.com/ti/r/66/F28/A3A/090906/images/goldsilver_weekly.jpg" =
+alt=3D"Gold & Silver Weekly" title=3D"" width=3D"600px" height=3D"148" bo=
+rder=3D"0" label=3D"Gold Silver Weekly Newsletter" style=3D"display:block=
+;" /></a></td>
+  </tr>
+</table>
+		<table width=3D"600" height=3D"65" cellpadding=3D"0" cellspacing=3D"0" =
+bgcolor=3D"#131313" style=3D"font-family:Arial,Helvetica,sans-serif;font-=
+size:14px;color:#2a2a2a;" >
+		<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-lef=
+t:0;" ><td width=3D"476" height=3D"18" style=3D"padding-top:0;padding-bot=
+tom:0;padding-right:0;padding-left:0;" >
+        <p style=3D"font-family:Arial,Helvetica,sans-serif;font-size:18px=
+;color:#ffcc33;letter-spacing:0px;margin-bottom:5px;margin-top:5px;line-h=
+eight:20px;text-align:left;padding-left:20px;" >March 24, 2015</p>
+        </td><td class=3D"social" align=3D"center" valign=3D"center" widt=
+h=3D"122" style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding=
+-left:0;" >
+				<div style=3D"line-height:18px;color:#696969;" >
+					<a href=3D"http://goldsilvercom.cmail2.com/t/r-l-qdudyjl-=
+ikljutlrjd-d/" target=3D"_blank" style=3D"color:#ffcc33;text-decoration:none=
+;padding-top:2px;padding-bottom:2px;padding-right:0px;padding-left:0px;" =
+><img src=3D"http://i9.cmail2.com/ti/r/66/F28/A3A/090906/images/social_yo=
+utube.jpg" alt=3D"" title=3D"" width=3D"29" height=3D"29" border=3D"0" st=
+yle=3D"display:inline;padding-top:5px;" /></a>
+				<a href=3D"http://goldsilvercom.cmail2.com/t/r-l-qdudyjl-=
+ikljutlrjd-h/" target=3D"_blank" style=3D"color:#ffcc33;text-decoration:none;=
+padding-top:2px;padding-bottom:2px;padding-right:0px;padding-left:0px;" >=
+<img src=3D"http://i10.cmail2.com/ti/r/66/F28/A3A/090906/images/social_fa=
+cebook.jpg" alt=3D"" title=3D"" width=3D"29" height=3D"29" border=3D"0" s=
+tyle=3D"display:inline;padding-top:5px;" /></a>
+				<a href=3D"http://goldsilvercom.cmail2.com/t/r-l-qdudyjl-=
+ikljutlrjd-k/" target=3D"_blank" style=3D"color:#ffcc33;text-decoration:none;=
+padding-top:2px;padding-bottom:2px;padding-right:0px;padding-left:0px;" >=
+<img src=3D"http://i1.cmail2.com/ti/r/66/F28/A3A/090906/images/social_twi=
+tter.jpg" alt=3D"" title=3D"" width=3D"29" height=3D"29" border=3D"0" sty=
+le=3D"display:inline;padding-top:5px;" /></a>
+				</div>
+		</td></tr></table>
+		<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" class=3D"conte=
+nttbl" bgcolor=3D"#ffffff" style=3D"font-family:Arial,Helvetica,sans-seri=
+f;font-size:14px;color:#2a2a2a;" ><tr style=3D"padding-top:0;padding-bott=
+om:0;padding-right:0;padding-left:0;" ><td height=3D"24" style=3D"padding=
+-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >&nbsp;</td></tr=
+></table>
+		<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" class=3D"conte=
+nttbl" bgcolor=3D"#ffffff" style=3D"font-family:Arial,Helvetica,sans-seri=
+f;font-size:14px;color:#2a2a2a;" >
+		<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-lef=
+t:0;" >
+			<td valign=3D"top" align=3D"center" style=3D"padding-top:0;padding-bot=
+tom:0;padding-right:0;padding-left:0;" >
+				<table width=3D"552" cellpadding=3D"0" cellspacing=3D"0" style=3D"fon=
+t-family:Arial,Helvetica,sans-serif;font-size:14px;color:#2a2a2a;" >
+				<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-l=
+eft:0;" >
+					<td width=3D"360" valign=3D"top" align=3D"left" style=3D"padding-top=
+:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+						<div class=3D"h" style=3D"line-height:18px;color:#696969;" ><div st=
+yle=3D"font-family:Georgia, Helvetica, Arial, sans-serif;font-size:24px;c=
+olor:#000;margin-bottom:10px;margin-top:2px;line-height:24px;font-style:i=
+talic;" >Hello =
+Morgan=
+=
+,</div></div>
+						<p style=3D"line-height:18px;color:#696969;" >
+							In this GoldSilver Weekly, Patricia Powell issues a wake-up call t=
+o Americans, you won't guess who Richard Fisher blames for the stock mark=
+et bubble, David Stockman blames the Fed, and Peter Schiff defends his po=
+sition that the dollar will collapse and gold will rise.
+<p>							 <br />
+ Regards,<br />
+						<div style=3D"line-height:18px;color:#696969;" >
+Mike Maloney, Chairman
+						</div>
+					</p></p></td>
+					<td width=3D"24" style=3D"padding-top:0;padding-bottom:0;padding-rig=
+ht:0;padding-left:0;" >&nbsp;</td>
+					<td width=3D"200" valign=3D"top" align=3D"right" style=3D"padding-to=
+p:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+						<img src=3D"http://i2.cmail2.com/ti/r/66/F28/A3A/090906/images/mike=
+maloney.jpg" alt=3D"Welcome" title width=3D"225" border=3D"0" style=3D"ma=
+x-width:200px;display:block;" />
+					</td>
+				</tr>
+				</table>
+			</td>
+		</tr>
+		<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-lef=
+t:0;" ><td height=3D"24" style=3D"padding-top:0;padding-bottom:0;padding-=
+right:0;padding-left:0;" >&nbsp;</td></tr>
+		</table>
+		<table width=3D"600" height=3D"70" cellpadding=3D"0" cellspacing=3D"0" =
+bgcolor=3D"#f3f3f3" class=3D"contenttbl3" style=3D"font-family:Arial,Helv=
+etica,sans-serif;font-size:14px;background-color:#f3f3f3;color:blue;" >
+		<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-lef=
+t:0;" >
+			<td valign=3D"top" align=3D"center" style=3D"padding-top:0;padding-bot=
+tom:0;padding-right:0;padding-left:0;" >
+				<table width=3D"566" cellpadding=3D"0" cellspacing=3D"0" style=3D"fon=
+t-family:Arial,Helvetica,sans-serif;font-size:14px;color:#2a2a2a;" >
+				<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-l=
+eft:0;" >
+				  <td width=3D"51" valign=3D"center" cellpadding=3D"2" style=3D"paddi=
+ng-top:0;padding-bottom:0;padding-right:0;padding-left:0;" ><img src=3D"h=
+ttp://i3.cmail2.com/ti/r/66/F28/A3A/090906/images/social_fb_logo.jpg" wid=
+th=3D"39" height=3D"39" alt=3D"" style=3D"display:block;" /></td>
+		<td width=3D"329" height=3D"70" valign=3D"center" cellpadding=3D"2" sty=
+le=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+		<p style=3D"color:#3f447e;font-size:14px;" >Please like us or forward t=
+his email to a friend</p>
+			</td>
+			<td width=3D"85" style=3D"padding-top:0;padding-bottom:0;padding-right=
+:0;padding-left:0;" ><a href=3D"http://goldsilvercom.cmail2.com/t/r-fb-qd=
+udyjl-ikljutlrjd-y/" rel=3D"cs_facebox" style=3D"color:#ffcc33;te=
+xt-decoration:none;padding-top:2px;padding-bottom:2px;padding-right:0px;p=
+adding-left:0px;" ><img src=3D"http://i4.cmail2.com/ti/r/66/F28/A3A/09090=
+6/images/fb_like.jpg" alt=3D"Like This" width=3D"67" height=3D"32" style=3D=
+"display:inline;padding-top:2px;border-width:0px;" /></a></td>
+			<td width=3D"99" style=3D"padding-top:0;padding-bottom:0;padding-right=
+:0;padding-left:0;" ><a href=3D"http://goldsilvercom.forwardtomyfriend.co=
+m/r-ikljutlrjd-4E1041D3-qdudyjl-l-j" style=3D"color:#f=
+fcc33;text-decoration:none;padding-top:2px;padding-bottom:2px;padding-rig=
+ht:0px;padding-left:0px;" ><img src=3D"http://i5.cmail2.com/ti/r/66/F28/A=
+3A/090906/images/fb_forward.jpg" alt=3D"forward" width=3D"96" height=3D"3=
+2" style=3D"display:inline;padding-top:2px;border-width:0px;" /></a></td>=
+
+				</tr>
+				</table>
+			</td>
+		</tr>
+		</table>
+		<table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" s=
+tyle=3D"font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#2a2a=
+2a;" >
+  <tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-lef=
+t:0;" >
+    <td height=3D"384" align=3D"center" background=3D"http://i6.cmail2.co=
+m/ti/r/66/F28/A3A/090906/images/hsom_bg.jpg" bgcolor=3D"#000000" style=3D=
+"background-repeat:no-repeat;padding-top:0;padding-bottom:0;padding-right=
+:0;padding-left:0;" >
+    <table width=3D"564" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ style=3D"font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#2a=
+2a2a;" >
+      <tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding=
+-left:0;" >
+        <td width=3D"311" height=3D"150" style=3D"padding-top:0;padding-b=
+ottom:0;padding-right:0;padding-left:0;" >&nbsp;</td>
+        <td width=3D"253" style=3D"padding-top:0;padding-bottom:0;padding=
+-right:0;padding-left:0;" >&nbsp;</td>
+      </tr>
+      <tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding=
+-left:0;" >
+        <td valign=3D"top" style=3D"padding-top:0;padding-bottom:0;paddin=
+g-right:0;padding-left:0;" >
+          <table width=3D"286" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"font-family:Arial,Helvetica,sans-serif;font-size:14px;col=
+or:#2a2a2a;" >
+            <tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;p=
+adding-left:0;" >
+              <td style=3D"padding-top:0;padding-bottom:0;padding-right:0=
+;padding-left:0;" ><p style=3D"font-family:Arial,Helvetica,sans-serif;fon=
+t-size:18px;color:#ffcc33;text-align:left;padding-left:10px;font-weight:b=
+old;" >
+                <a href=3D"http://goldsilvercom.cmail2.com/t/r-l-qdudyjl-=
+ikljutlrjd-u/" style=3D"color:#ffcc33;text-decoration:none;paddin=
+g-top:2px;padding-bottom:2px;padding-right:0px;padding-left:0px;" >What N=
+et Neutrality Will Do to the Internet</a>
+                </p></td>
+            </tr>
+            <tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;p=
+adding-left:0;" >
+              <td style=3D"padding-top:0;padding-bottom:0;padding-right:0=
+;padding-left:0;" >&nbsp;</td>
+            </tr>
+            <tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;p=
+adding-left:0;" >
+              <td style=3D"padding-top:0;padding-bottom:0;padding-right:0=
+;padding-left:0;" ><p  editable=3D"true" style=3D"line-height:18px;color:=
+#fff;padding-left:10px;margin-top:-15px;" >Last month the FCC passed Net =
+Neutrality and so for the first time the government will be regulating  t=
+he internet.  But extraordinary measures were taken to hide the text of t=
+he regulation before it was voted on.  Mike explains the consequences in =
+this week's video.
+                  <a href=3D"http://goldsilvercom.cmail2.com/t/r-l-qdudyj=
+l-ikljutlrjd-x/" style=3D"color:#ffcc33;text-decoration:none;padd=
+ing-top:2px;padding-bottom:2px;padding-right:0px;padding-left:0px;" >Clic=
+k Here to Watch it.</a>
+              </p></td>
+            </tr>
+          </table></td>
+        <td style=3D"padding-top:0;padding-bottom:0;padding-right:0;paddi=
+ng-left:0;" ><a href=3D"http://goldsilvercom.cmail2.com/t/r-l-qdudyjl-=
+ikljutlrjd-m/" target=3D"_blank" style=3D"color:#ffcc33;text-decorat=
+ion:none;padding-top:2px;padding-bottom:2px;padding-right:0px;padding-lef=
+t:0px;" ><img src=3D"http://i1.cmail2.com/ei/r/36/8CF/EE8/csimport/NetNeu=
+trality.191331.png" width=3D"244" height=3D"137" style=3D"display:block;"=
+ /></a></td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+</table>
+		<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" class=3D"conte=
+nttbl" bgcolor=3D"#ffffff" style=3D"font-family:Arial,Helvetica,sans-seri=
+f;font-size:14px;color:#2a2a2a;" >
+		<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-lef=
+t:0;" >
+		</tr>
+		<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-lef=
+t:0;" ><td height=3D"35" style=3D"padding-top:0;padding-bottom:0;padding-=
+right:0;padding-left:0;" >&nbsp;</td></tr>
+        			<td valign=3D"top" align=3D"center" style=3D"padding-top:0;pad=
+ding-bottom:0;padding-right:0;padding-left:0;" >
+				<table width=3D"552" cellpadding=3D"0" cellspacing=3D"0" style=3D"fon=
+t-family:Arial,Helvetica,sans-serif;font-size:14px;color:#2a2a2a;" >
+				<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-l=
+eft:0;" >
+					<td width=3D"264" valign=3D"top" align=3D"left" style=3D"padding-top=
+:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+						<a href=3D"http://goldsilvercom.cmail2.com/t/r-l-qdudyjl-=
+ikljutlrjd-c/" style=3D"color:#ffcc33;text-decoration:none;padding-top:2px;=
+padding-bottom:2px;padding-right:0px;padding-left:0px;" ><img src=3D"http=
+://i2.cmail2.com/ei/r/36/8CF/EE8/csimport/ScreenShot2015-03-23at3.25.24PM=
+.152557.png" title width=3D"264" border=3D"0"  height=3D"273" style=3D"ma=
+x-width:264px;display:block;" /></a>
+					</td>
+					<td width=3D"24" style=3D"padding-top:0;padding-bottom:0;padding-rig=
+ht:0;padding-left:0;" >&nbsp;</td>
+					<td width=3D"264" valign=3D"top" align=3D"left" style=3D"padding-top=
+:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+						<p style=3D"font-family:Georgia, Helvetica, Arial, sans-serif;font-=
+size:24px;color:#000;margin-bottom:10px;margin-top:2px;line-height:24px;f=
+ont-style:italic;" ><a href=3D"http://goldsilvercom.cmail2.com/t/r-l-qdud=
+yjl-ikljutlrjd-q/" style=3D"color:#ffcc33;text-decoration:none;pa=
+dding-top:2px;padding-bottom:2px;padding-right:0px;padding-left:0px;" >"A=
+mericans are woefully ill prepared for retirement."</a></p>
+						<p style=3D"line-height:18px;color:#696969;" >
+				    Retirement planning in America used to consist of three legs, a p=
+ension or 401K, social security, and personal savings.  In this interview=
+ Patricia Powell reports how much an average person needs to save to enjo=
+y a financially secure retirement.</p>
+                    <a href=3D"http://goldsilvercom.cmail2.com/t/r-l-qdud=
+yjl-ikljutlrjd-a/" style=3D"color:#ffcc33;text-decoration:none;pa=
+dding-top:2px;padding-bottom:2px;padding-right:0px;padding-left:0px;" ><i=
+mg src=3D"http://i9.cmail2.com/ti/r/66/F28/A3A/090906/images/btn_watch.jp=
+g" width=3D"104" alt=3D"read&#32;more" title=3D"read more" border=3D"0" s=
+tyle=3D"margin-top:10px;float:left;border-style:none;display:block;" /></=
+a>	    </td>
+				</tr>
+				</table>
+			</td>
+		<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-lef=
+t:0;" >
+		  <td height=3D"35" style=3D"padding-top:0;padding-bottom:0;padding-rig=
+ht:0;padding-left:0;" >&nbsp;</td>
+		  </tr>
+		</table>
+    <table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" class=3D"con=
+tenttbl" bgcolor=3D"#ffffff" style=3D"font-family:Arial,Helvetica,sans-se=
+rif;font-size:14px;color:#2a2a2a;" >
+		<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-lef=
+t:0;" ><td height=3D"35" class=3D"line" style=3D"border-top-width:1px;bor=
+der-top-style:dashed;border-top-color:#D1D1D1;padding-top:0;padding-botto=
+m:0;padding-right:0;padding-left:0;" >&nbsp;</td></tr>
+        		<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;pad=
+ding-left:0;" >
+			<td valign=3D"top" align=3D"center" style=3D"padding-top:0;padding-bot=
+tom:0;padding-right:0;padding-left:0;" >
+				<table width=3D"552" cellpadding=3D"0" cellspacing=3D"0" style=3D"fon=
+t-family:Arial,Helvetica,sans-serif;font-size:14px;color:#2a2a2a;" >
+				<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-l=
+eft:0;" >
+					<td width=3D"408" valign=3D"top" align=3D"left" style=3D"padding-top=
+:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+						<p style=3D"font-family:Georgia, Helvetica, Arial, sans-serif;font-=
+size:24px;color:#000;margin-bottom:10px;margin-top:2px;line-height:24px;f=
+ont-style:italic;" ><a href=3D"http://goldsilvercom.cmail2.com/t/r-l-qdud=
+yjl-ikljutlrjd-f/" style=3D"color:#ffcc33;text-decoration:none;pa=
+dding-top:2px;padding-bottom:2px;padding-right:0px;padding-left:0px;" >"W=
+hat worries me, however, is how lazy investors have gotten.  Totally depe=
+ndent on the Federal Reserve."</a></p>
+						<p style=3D"line-height:18px;color:#696969;" >Watch Rick Santelli g=
+rill former Dallas Fed President Richard Fisher on the state of the econo=
+my and hear him blame investors for inflating the stock market.  Fisher a=
+lso makes an interesting statement about the role of the Fed in the econo=
+my.</p>
+							<a href=3D"http://goldsilvercom.cmail2.com/t/r-l-qdudyjl-=
+ikljutlrjd-z/" style=3D"color:#ffcc33;text-decoration:none;padding-top:2px=
+;padding-bottom:2px;padding-right:0px;padding-left:0px;" ><img src=3D"htt=
+p://i9.cmail2.com/ti/r/66/F28/A3A/090906/images/btn_watch.jpg" width=3D"1=
+04" alt=3D"read&#32;more" title=3D"read more" border=3D"0" style=3D"margi=
+n-top:10px;float:left;border-style:none;display:block;" /></a>
+					</td>
+					<td width=3D"24" style=3D"padding-top:0;padding-bottom:0;padding-rig=
+ht:0;padding-left:0;" >&nbsp;</td>
+					<td width=3D"120" valign=3D"top" align=3D"left" style=3D"padding-top=
+:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+						<a href=3D"http://goldsilvercom.cmail2.com/t/r-l-qdudyjl-=
+ikljutlrjd-v/" style=3D"color:#ffcc33;text-decoration:none;padding-top:2px;=
+padding-bottom:2px;padding-right:0px;padding-left:0px;" ><img src=3D"http=
+://i3.cmail2.com/ei/r/36/8CF/EE8/csimport/richard-fisher.154826.jpg" titl=
+e width=3D"120" border=3D"0"  height=3D"104" style=3D"max-width:120px;dis=
+play:block;" /></a>
+					</td>
+				</tr>
+				</table>
+			</td>
+		</tr>
+		<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-lef=
+t:0;" >
+		  <td height=3D"35" style=3D"padding-top:0;padding-bottom:0;padding-rig=
+ht:0;padding-left:0;" >&nbsp;</td>
+	    </tr>
+	  </table>
+        <table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" class=3D=
+"contenttbl" bgcolor=3D"#ffffff" style=3D"font-family:Arial,Helvetica,san=
+s-serif;font-size:14px;color:#2a2a2a;" >
+		<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-lef=
+t:0;" ><td height=3D"35" class=3D"line" style=3D"border-top-width:1px;bor=
+der-top-style:dashed;border-top-color:#D1D1D1;padding-top:0;padding-botto=
+m:0;padding-right:0;padding-left:0;" >&nbsp;</td></tr>
+        		<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;pad=
+ding-left:0;" >
+			<td valign=3D"top" align=3D"center" style=3D"padding-top:0;padding-bot=
+tom:0;padding-right:0;padding-left:0;" >
+				<table width=3D"552" cellpadding=3D"0" cellspacing=3D"0" style=3D"fon=
+t-family:Arial,Helvetica,sans-serif;font-size:14px;color:#2a2a2a;" >
+				<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-l=
+eft:0;" >
+					<td width=3D"408" valign=3D"top" align=3D"left" style=3D"padding-top=
+:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+						<p style=3D"font-family:Georgia, Helvetica, Arial, sans-serif;font-=
+size:24px;color:#000;margin-bottom:10px;margin-top:2px;line-height:24px;f=
+ont-style:italic;" ><a href=3D"http://goldsilvercom.cmail2.com/t/r-l-qdud=
+yjl-ikljutlrjd-e/" style=3D"color:#ffcc33;text-decoration:none;pa=
+dding-top:2px;padding-bottom:2px;padding-right:0px;padding-left:0px;" >"I=
+t's a fiscal fraud for the central bank to buy three trillion worth of go=
+vernment debt, essentially monetizing it, buying it with money printed ou=
+t of thin air."</a></p>
+						<p style=3D"line-height:18px;color:#696969;" >David Stockman prescr=
+ibes some tough medicine in this interview with Neil Cavuto.  It's inform=
+ation we all need to hear, but few want to.  And both parties are respons=
+ible for the amount of debt that we're in.</p>
+							<a href=3D"http://goldsilvercom.cmail2.com/t/r-l-qdudyjl-=
+ikljutlrjd-s/" style=3D"color:#ffcc33;text-decoration:none;padding-top:2px=
+;padding-bottom:2px;padding-right:0px;padding-left:0px;" ><img src=3D"htt=
+p://i9.cmail2.com/ti/r/66/F28/A3A/090906/images/btn_watch.jpg" width=3D"1=
+04" alt=3D"read&#32;more" title=3D"read more" border=3D"0" style=3D"margi=
+n-top:10px;float:left;border-style:none;display:block;" /></a>
+					</td>
+					<td width=3D"24" style=3D"padding-top:0;padding-bottom:0;padding-rig=
+ht:0;padding-left:0;" >&nbsp;</td>
+					<td width=3D"120" valign=3D"top" align=3D"left" style=3D"padding-top=
+:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+						<a href=3D"http://goldsilvercom.cmail2.com/t/r-l-qdudyjl-=
+ikljutlrjd-g/" style=3D"color:#ffcc33;text-decoration:none;padding-top:2px;=
+padding-bottom:2px;padding-right:0px;padding-left:0px;" ><img src=3D"http=
+://i4.cmail2.com/ei/r/36/8CF/EE8/csimport/DavidStockmanportrait.194223.jp=
+g" title width=3D"120" border=3D"0"  height=3D"167" style=3D"max-width:12=
+0px;display:block;" /></a>
+					</td>
+				</tr>
+				</table>
+			</td>
+		</tr>
+		<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-lef=
+t:0;" >
+		  <td height=3D"35" style=3D"padding-top:0;padding-bottom:0;padding-rig=
+ht:0;padding-left:0;" >&nbsp;</td>
+		  </tr>
+		</table>
+        <table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" class=3D=
+"contenttbl" bgcolor=3D"#ffffff" style=3D"font-family:Arial,Helvetica,san=
+s-serif;font-size:14px;color:#2a2a2a;" >
+		<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-lef=
+t:0;" ><td height=3D"35" class=3D"line" style=3D"border-top-width:1px;bor=
+der-top-style:dashed;border-top-color:#D1D1D1;padding-top:0;padding-botto=
+m:0;padding-right:0;padding-left:0;" >&nbsp;</td></tr>
+        		<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;pad=
+ding-left:0;" >
+			<td valign=3D"top" align=3D"center" style=3D"padding-top:0;padding-bot=
+tom:0;padding-right:0;padding-left:0;" >
+				<table width=3D"552" cellpadding=3D"0" cellspacing=3D"0" style=3D"fon=
+t-family:Arial,Helvetica,sans-serif;font-size:14px;color:#2a2a2a;" >
+				<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-l=
+eft:0;" >
+					<td width=3D"408" valign=3D"top" align=3D"left" style=3D"padding-top=
+:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+							<p style=3D"font-family:Georgia, Helvetica, Arial, sans-serif;font=
+-size:24px;color:#000;margin-bottom:10px;margin-top:2px;line-height:24px;=
+font-style:italic;" ><a href=3D"http://goldsilvercom.cmail2.com/t/r-l-qdu=
+dyjl-ikljutlrjd-w/" style=3D"color:#ffcc33;text-decoration:none;p=
+adding-top:2px;padding-bottom:2px;padding-right:0px;padding-left:0px;" >"=
+If you thought gold went up a lot when the Fed did QE 1 &amp; 2, wait til=
+ you see what's going to happen when it does QE 4."</a></p>
+						<p style=3D"line-height:18px;color:#696969;" >Peter Schiff stands b=
+y his position that the Fed is not going to raise interest rates because =
+it can't, but instead will be forced to launch QE 4 and this is bullish f=
+or gold.</p>
+							<a href=3D"http://goldsilvercom.cmail2.com/t/r-l-qdudyjl-=
+ikljutlrjd-yd/" style=3D"color:#ffcc33;text-decoration:none;padding-top:2p=
+x;padding-bottom:2px;padding-right:0px;padding-left:0px;" ><img src=3D"ht=
+tp://i9.cmail2.com/ti/r/66/F28/A3A/090906/images/btn_watch.jpg" width=3D"=
+104" alt=3D"read&#32;more" title=3D"read more" border=3D"0" style=3D"marg=
+in-top:10px;float:left;border-style:none;display:block;" /></a>
+				  </td>
+					<td width=3D"24" style=3D"padding-top:0;padding-bottom:0;padding-rig=
+ht:0;padding-left:0;" >&nbsp;</td>
+					<td width=3D"120" valign=3D"top" align=3D"left" style=3D"padding-top=
+:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+						<a href=3D"http://goldsilvercom.cmail2.com/t/r-l-qdudyjl-=
+ikljutlrjd-yh/" style=3D"color:#ffcc33;text-decoration:none;padding-top:2px=
+;padding-bottom:2px;padding-right:0px;padding-left:0px;" ><img src=3D"htt=
+p://i5.cmail2.com/ei/r/36/8CF/EE8/csimport/PeterSchiff.212634.png" title =
+width=3D"120" border=3D"0"  height=3D"136" style=3D"max-width:120px;displ=
+ay:block;" /></a>
+					</td>
+				</tr>
+				</table>
+			</td>
+		</tr>
+		<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-lef=
+t:0;" >
+		  <td height=3D"35" style=3D"padding-top:0;padding-bottom:0;padding-rig=
+ht:0;padding-left:0;" >&nbsp;</td>
+		  </tr>
+		</table>
+<table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgc=
+olor=3D"#131313" style=3D"font-family:Arial,Helvetica,sans-serif;font-siz=
+e:14px;color:#2a2a2a;" >
+  <tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-lef=
+t:0;" >
+    <td width=3D"25" height=3D"60" style=3D"padding-top:0;padding-bottom:=
+0;padding-right:0;padding-left:0;" >&nbsp;</td>
+    <td width=3D"575" style=3D"padding-top:0;padding-bottom:0;padding-rig=
+ht:0;padding-left:0;" >
+      <p style=3D"font-family:Arial,Helvetica,sans-serif;font-size:18px;c=
+olor:#ffcc33;letter-spacing:0px;margin-bottom:5px;margin-top:5px;line-hei=
+ght:20px;text-align:left;" >
+                Product Spotlight</p>
+      </td>
+  </tr>
+</table>
+			<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" class=3D"cont=
+enttbl2" bgcolor=3D"#ffffff" style=3D"font-family:Arial,Helvetica,sans-se=
+rif;font-size:14px;color:#2a2a2a;background-color:#fff;border-left-width:=
+1px;border-left-style:solid;border-left-color:#E1E1E1;border-right-width:=
+1px;border-right-style:solid;border-right-color:#E1E1E1;" >
+			<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-le=
+ft:0;" >
+						<td height=3D"32" align=3D"center" valign=3D"top" style=3D"padding-=
+top:0;padding-bottom:0;padding-right:0;padding-left:0;" >&nbsp;</td>
+			</tr>
+			<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-le=
+ft:0;" >
+			  <td align=3D"center" valign=3D"top" style=3D"padding-top:0;padding-b=
+ottom:0;padding-right:0;padding-left:0;" >
+              <table width=3D"552" cellpadding=3D"0" cellspacing=3D"0" st=
+yle=3D"font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#2a2a2=
+a;" >
+			    <tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;paddin=
+g-left:0;" >
+			      <td width=3D"264" valign=3D"top" align=3D"left" style=3D"padding=
+-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+			        <p style=3D"font-family:Georgia, Helvetica, Arial, sans-serif;=
+font-size:24px;color:#000;margin-bottom:10px;margin-top:2px;line-height:2=
+4px;font-style:italic;" ><a href=3D"http://goldsilvercom.cmail2.com/t/r-l=
+-qdudyjl-ikljutlrjd-yk/" style=3D"color:#ffcc33;text-decoration:n=
+one;padding-top:2px;padding-bottom:2px;padding-right:0px;padding-left:0px=
+;" >Valcambi 1 oz Combibar</a></p>
+				  <p>
+	- .9999 Pure Fine Gold</p>
+<p>
+	- Breakable into ten 1/10 oz gold pieces</p>
+<p>
+	- Perfect for using as a form of payment in times of crisis</p>
+<p>
+	- Unique serial number stamped into each bar</p>
+<p>
+	- Weight &amp; purity stamped into each segment</p>
+<p>
+	- Low premium over spot</p>
+<a href=3D"http://goldsilvercom.cmail2.com/t/r-l-qdudyjl-=
+ikljutlrjd-yu/" style=3D"color:#ffcc33;text-decoration:none;padding-top:2px;paddi=
+ng-bottom:2px;padding-right:0px;padding-left:0px;" ><img src=3D"http://i1=
+.cmail2.com/ti/r/66/F28/A3A/090906/images/btn_details.jpg" width=3D"104" =
+alt=3D"read&#32;more" title=3D"read more" border=3D"0" style=3D"margin-to=
+p:10px;float:left;border-style:none;display:block;" /></a>
+                  </td>
+			      <td width=3D"24" style=3D"padding-top:0;padding-bottom:0;padding=
+-right:0;padding-left:0;" >&nbsp;</td>
+			      <td width=3D"264" valign=3D"top" align=3D"left" style=3D"padding=
+-top:0;padding-bottom:0;padding-right:0;padding-left:0;" ><a href=3D"http=
+://goldsilvercom.cmail2.com/t/r-l-qdudyjl-ikljutlrjd-jl/" style=3D=
+"color:#ffcc33;text-decoration:none;padding-top:2px;padding-bottom:2px;pa=
+dding-right:0px;padding-left:0px;" ><img src=3D"http://i6.cmail2.com/ei/r=
+/36/8CF/EE8/csimport/200-obverse-combi-bar-gold.223340.jpg" title width=3D=
+"264" border=3D"0"  height=3D"184" style=3D"max-width:264 px;display:bloc=
+k;" /></a></td>
+		        </tr>
+		      </table></td></tr>
+			<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-le=
+ft:0;" >
+			  <td height=3D"24" style=3D"padding-top:0;padding-bottom:0;padding-ri=
+ght:0;padding-left:0;" >&nbsp;</td>
+			  </tr>
+      </table>
+			<table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+bgcolor=3D"#131313" style=3D"font-family:Arial,Helvetica,sans-serif;font-=
+size:14px;color:#2a2a2a;" >
+			  <tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-=
+left:0;" >
+			    <td width=3D"25" height=3D"60" style=3D"padding-top:0;padding-bott=
+om:0;padding-right:0;padding-left:0;" >&nbsp;</td>
+			    <td width=3D"575" style=3D"padding-top:0;padding-bottom:0;padding-=
+right:0;padding-left:0;" >
+                <p style=3D"font-family:Arial,Helvetica,sans-serif;font-s=
+ize:18px;color:#ffcc33;letter-spacing:0px;margin-bottom:5px;margin-top:5p=
+x;line-height:20px;text-align:left;" >
+                Quote of the Week</p>
+                  </td>
+		      </tr>
+	  </table>
+	  <table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" class=3D"cont=
+enttbl" bgcolor=3D"#131313" style=3D"font-family:Arial,Helvetica,sans-ser=
+if;font-size:14px;color:#2a2a2a;" >
+		<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-lef=
+t:0;" >
+			<td width=3D"24" style=3D"padding-top:0;padding-bottom:0;padding-right=
+:0;padding-left:0;" >&nbsp;</td>
+			<td valign=3D"top" align=3D"left" style=3D"padding-top:0;padding-botto=
+m:0;padding-right:0;padding-left:0;" >
+	 <p>
+	<span style=3D"color:#ffffff;" >"In fact, all the underlying fundamental=
+s that caused the meltdown of '08 have only been exaggerated and magnifie=
+d by the actions of the world's central banks. &nbsp;The bailouts, curren=
+cy creation, market manipulation, derivatives expansion, and growth of th=
+e 'too big to fail' banks only guarantee that the next crisis will be of =
+a far greater magnitude."</span></p>
+<p>
+	<span style=3D"color:#ffffff;" >Mike Maloney, best selling author of Gui=
+de to Investing in Gold &amp; Silver</span></p>
+			</td>
+			<td width=3D"24" style=3D"padding-top:0;padding-bottom:0;padding-right=
+:0;padding-left:0;" >&nbsp;</td>
+		</tr>
+		<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-lef=
+t:0;" ><td height=3D"24" colspan=3D"3" style=3D"padding-top:0;padding-bot=
+tom:0;padding-right:0;padding-left:0;" >&nbsp;</td></tr>
+		</table>
+				<table width=3D"552" height=3D"100" cellpadding=3D"0" cellspacing=3D"=
+0" style=3D"font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#=
+2a2a2a;" >
+				<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-l=
+eft:0;" ><td height=3D"8" style=3D"padding-top:0;padding-bottom:0;padding=
+-right:0;padding-left:0;" ></td></tr>
+				<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-l=
+eft:0;" ><td class=3D"small" align=3D"left" valign=3D"bottom" style=3D"co=
+lor:#fff;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" =
+>
+				<div style=3D"text-align:center;font-size:10px;line-height:16px;color=
+:#ffffff;" >You have received this email because you have subscribed to <=
+a href=3D"#" target=3D"_blank" style=3D"color:#ffcc33;text-decoration:non=
+e;padding-top:2px;padding-bottom:2px;padding-right:0px;padding-left:0px;"=
+ >GoldSilver.com</a><br>
+If you no longer wish to receive emails please <a href=3D"http://goldsilv=
+ercom.cmail2.com/t/r-u-qdudyjl-ikljutlrjd-jr/" style=3D"color:#ff=
+cc33;text-decoration:none;padding-top:2px;padding-bottom:2px;padding-righ=
+t:0px;padding-left:0px;" >unsubscribe</a></div>
+				<div style=3D"text-align:center;font-size:10px;line-height:16px;color=
+:#ffffff;" >=C2=A92015, All rights reserved
+					<a href=3D"http://goldsilvercom.cmail2.com/t/r-u-qdudyjl-=
+ikljutlrjd-t/" style=3D"color:#ffcc33;text-decoration:none;padding-top:2px;p=
+adding-bottom:2px;padding-right:0px;padding-left:0px;" >unsubscribe</a>
+				  <p>&nbsp;</p>
+				</div>
+				</td></tr>
+				</table>
+			</td>
+		</tr>
+		<tr style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-lef=
+t:0;" ><td height=3D"24" style=3D"padding-top:0;padding-bottom:0;padding-=
+right:0;padding-left:0;" >&nbsp;</td></tr>
+		</table>
+<img src=3D"https://goldsilvercom.cmail2.com/t/r-o-qdudyjl-=
+ikljutlrjd/o.gif"  width=3D"1" height=3D"1" border=3D"0" alt=3D"" style=3D"heig=
+ht:1px !important;width:1px !important;border-width:0 !important;margin-t=
+op:0 !important;margin-bottom:0 !important;margin-right:0 !important;marg=
+in-left:0 !important;padding-top:0 !important;padding-bottom:0 !important=
+;padding-right:0 !important;padding-left:0 !important;display:block;" /><=
+/html>=
+
+
+
+
+--_954d7a46-5a8f-4398-8999-299c99b66582_--
