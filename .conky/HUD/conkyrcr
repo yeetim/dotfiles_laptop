@@ -57,9 +57,9 @@ color7 35BF5C
 color8 575757
 
 TEXT
-${voffset 20}${color1}${goto 10}${font DejaVu Sans Mono:size=55}${time %H}${font DejaVu Sans Mono:size=25}${voffset -25}:${time %M}${font DejaVu Sans Mono:size=12}${voffset -12}${time %S}
-${color2}${goto 90}${voffset 5}${font :size=8}${time %A}
-${color3}${goto 90}${voffset 1}${font :size=8}${time %d %B %Y}
+${voffset 20}${color1}${goto 5}${font DejaVu Sans Mono:size=55}${time %H}${font DejaVu Sans Mono:size=25}${voffset -29}:${time %M}${font DejaVu Sans Mono:size=12}${voffset -12}${time %S}
+${color2}${goto 100}${voffset 7}${font :size=8}${time %A}
+${color3}${goto 100}${voffset 1}${font :size=8}${time %d %B %Y}
 ${color2}${voffset -80}${font}${font DejaVu Sans Mono:size=10}${execpi 3600 DJS=`date +%_d`; cal -m | sed '1d' | sed '/./ !d' | sed 's/$/ /' | fold -w 21 | sed -n '/^.\{21\}/p' | sed 's/^/${alignr} /' | sed /" $DJS "/s/" $DJS "/" "'${color1}'"$DJS"'${color2}'" "/}${font}
 
 # NETWORK
