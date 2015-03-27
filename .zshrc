@@ -608,6 +608,7 @@ Jupiter() { livestreamer -p mplayer http://www.ustream.tv/channel/jupiterbroadca
 
 TwitchyMarbs() { livestreamer -p mplayer http://www.twitch.tv/Marbozir best ;}
 TwitchyBeagle() { livestreamer -p mplayer http://www.twitch.tv/miss_jamball best ;}
+TwitchyQuill() { livestreamer -p mplayer http://www.twitch.tv/quill18 best ;}
 
 # News
 live-news-cnn() { livestreamer -p mplayer http://www.justin.tv/msnbc_live_stream_cnn#/w/5008673600 live ;}
