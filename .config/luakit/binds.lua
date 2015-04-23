@@ -57,6 +57,7 @@ add_binds("all", {
         local view = w.view
         local uri = view.hovered_uri or view.uri
         if uri then
+--            luakit.spawn(string.format("urxvt -e youtube-viewer -I %q", uri))
             luakit.spawn(string.format("urxvt -e youtube-viewer --video-player mpv -I %q", uri))
         end 
     end),

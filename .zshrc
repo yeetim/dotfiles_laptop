@@ -49,7 +49,7 @@ export PAGER="less"
 export BROWSER="luakit"
 export MOVPLAY="vlc"
 export PICVIEW="feh"
-export SNDPLAY="mplayer2"
+export SNDPLAY="mpv"
 export TERMINAL="uxterm"
 export PULSE_LATENCY_MSEC=60
 

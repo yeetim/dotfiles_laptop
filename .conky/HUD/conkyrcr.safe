@@ -57,17 +57,16 @@ color7 35BF5C
 color8 575757
 
 TEXT
-${voffset 20}${color1}${goto 5}${font DejaVu Sans Mono:size=55}${time %H}${font DejaVu Sans Mono:size=25}${voffset -29}:${time %M}${font DejaVu Sans Mono:size=12}${voffset -12}${time %S}
+${voffset 20}${color1}${goto 5}${font Droid Sans Mono:size=55}${time %H}${font Droid Sans Mono:size=25}${voffset -29}:${time %M}${font Droid Sans Mono:size=12}${voffset -12}${time %S}
 ${color2}${goto 100}${voffset 7}${font :size=8}${time %A}
 ${color3}${goto 100}${voffset 1}${font :size=8}${time %d %B %Y}
-${color2}${voffset -80}${font}${font DejaVu Sans Mono:size=10}${execpi 3600 DJS=`date +%_d`; cal -m | sed '1d' | sed '/./ !d' | sed 's/$/ /' | fold -w 21 | sed -n '/^.\{21\}/p' | sed 's/^/${alignr} /' | sed /" $DJS "/s/" $DJS "/" "'${color1}'"$DJS"'${color2}'" "/}${font}
-
+${color2}${voffset -80}${font}${font Droid Sans Mono:size=10}${execpi 3600 DJS=`date +%_d`; cal -m | sed '1d' | sed '/./ !d' | sed 's/$/ /' | fold -w 21 | sed -n '/^.\{21\}/p' | sed 's/^/${alignr} /' | sed /" $DJS "/s/" $DJS "/" "'${color1}'"$DJS"'${color2}'" "/}${font}
 # NETWORK
 ${font xirod:Bold:size=11}${color7}NETWORK ${hr 2}$font
 
 ${font Droid Sans:Bold:size=9}${color7}NETWORK (GENERAL)${stippled_hr}$color$font
 Active Interface ${alignr}$gw_iface
-Public IP${alignr}NOPE ;)
+Public IP${alignr}NOPE :)
 #${execi 3600 wget -O - http://ip.tupeux.com | tail}
 Gateway IP ${alignr}$gw_ip
 DNS ${alignr}$nameserver
@@ -108,6 +107,6 @@ ${font Droid Sans:Bold:size=8}Outbound Connections:  ${tcp_portmon 32768 61000 c
    ${tcp_portmon 32768 61000 rhost 13} ${alignr} ${tcp_portmon 32768 61000 rservice 13}
    ${tcp_portmon 32768 61000 rhost 14} ${alignr} ${tcp_portmon 32768 61000 rservice 14}
 
-${color8}${font xirod:size=11}PACMAN LOG ${hr 2}$color$font ${execi 30 tail -n4 /var/log/pacman.log | fold -w60}
+${color8}${font xirod:size=11}PACMAN LOG ${hr 2}$color$font ${execi 30 tail -n5 /var/log/pacman.log | fold -w60}
 
 ${color orange}${font xirod:size=11}SYSTEM LOG ${hr 2}$color$font ${execi 30 tail -n4 /var/log/messages.log | fold -w60}

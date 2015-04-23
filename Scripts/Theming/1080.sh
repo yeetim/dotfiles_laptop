@@ -1,13 +1,6 @@
 #!/bin/bash
 
-cp ~/.config/awesome/rc.lua.1080 ~/.config/awesome/rc.lua
-cp -r ~/.config/awesome/themes/msjche-1080 ~/.config/awesome/themes/msjche
-cp -r ~/.conky/HUD-1080 ~/.conky/HUD
-cp ~/Scripts/Theming/1080.Xresources ~/.Xresources
-cp ~/Scripts/Theming/default.vimrc ~/.vimrc
-echo 'awesome.restart()' | awesome-client
-
+xrandr --newmode "1920x1080_60.00"  173.00  1920 2048 2248 2576  1080 1083 1088 1120 -hsync +vsync
+xrandr --addmode eDP1 1920x1080_60.00
 xrandr --output eDP1 --mode 1920x1080_60.00
-
 xrdb -merge ~/.Xresources
-pkill urxvt
