@@ -47,7 +47,7 @@ COMPLETION_WAITING_DOTS="true"
 export EDITOR="vim"
 export PAGER="less"
 export BROWSER="luakit"
-export MOVPLAY="vlc"
+export MOVPLAY="mpv"
 export PICVIEW="feh"
 export SNDPLAY="mpv"
 export TERMINAL="uxterm"
@@ -404,7 +404,7 @@ hacker-top() { python ~/Scripts/hacker-top/hacker_top.py  ;}
 reddit-top() { python ~/git/reddit-top/reddit_top ;}
 
 # Transmission
-T() { ~/Scripts/blocklist.sh && transmission-daemon && sleep 3 && transmission-remote-cli ;}
+T() { ~/Scripts/blocklist.sh && transmission-daemon && sleep 2 && transmission-remote-cli ;}
 
 # Pirate Bay search
 tpb() { clear && figlet -c Pirate Bay && ~/Scripts/tpb.sh ;}
@@ -606,9 +606,10 @@ TV-v() { livestreamer -p vlc "$1" best ;}
 
 Jupiter() { livestreamer -p mplayer http://www.ustream.tv/channel/jupiterbroadcasting 720p+_alt_akamai ;}
 
-TwitchyMarbs() { livestreamer -p mplayer http://www.twitch.tv/Marbozir best ;}
-TwitchyBeagle() { livestreamer -p mplayer http://www.twitch.tv/miss_jamball best ;}
-TwitchyQuill() { livestreamer -p mplayer http://www.twitch.tv/quill18 best ;}
+TwitchyMarbs() { livestreamer -p mpv http://www.twitch.tv/Marbozir best ;}
+TwitchyBeagle() { livestreamer -p mpv http://www.twitch.tv/miss_jamball best ;}
+TwitchyQuill() { livestreamer -p mpv http://www.twitch.tv/quill18 best ;}
+TwitchyElysium() { livestreamer -p mpv http://www.twitch.tv/enterelysium best ;}
 
 # News
 live-news-cnn() { livestreamer -p mplayer http://www.justin.tv/msnbc_live_stream_cnn#/w/5008673600 live ;}
@@ -706,4 +707,4 @@ source /home/msjche/.oh-my-zsh/oh-my-zsh.sh
 
 clear
 /home/msjche/Scripts/pacolor.sh
-#linux_logo -L 2
+#alsi -a -u

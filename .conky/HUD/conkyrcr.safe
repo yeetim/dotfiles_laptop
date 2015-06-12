@@ -57,10 +57,10 @@ color7 35BF5C
 color8 575757
 
 TEXT
-${voffset 20}${color1}${goto 5}${font Droid Sans Mono:size=55}${time %H}${font Droid Sans Mono:size=25}${voffset -29}:${time %M}${font Droid Sans Mono:size=12}${voffset -12}${time %S}
+${voffset 20}${color1}${goto 5}${font Liberation Sans:size=62}${time %H}${font Liberation Sans:size=28}${voffset -29}:${time %M}${font Liberation Sans:size=13}${voffset -12}${time %S}
 ${color2}${goto 100}${voffset 7}${font :size=8}${time %A}
 ${color3}${goto 100}${voffset 1}${font :size=8}${time %d %B %Y}
-${color2}${voffset -80}${font}${font Droid Sans Mono:size=10}${execpi 3600 DJS=`date +%_d`; cal -m | sed '1d' | sed '/./ !d' | sed 's/$/ /' | fold -w 21 | sed -n '/^.\{21\}/p' | sed 's/^/${alignr} /' | sed /" $DJS "/s/" $DJS "/" "'${color1}'"$DJS"'${color2}'" "/}${font}
+${color2}${voffset -80}${font}${font Droid Sans Mono:size=10}${execpi 3600 DJS=`date +%_d`; cal -m | sed '1d' | sed '/./ !d' | sed 's/$/ /' | fold -w 21 | sed -n '/^.\{21\}/p' | sed 's/^/${alignr} /' | sed /" $DJS "/s/" $DJS "/" "'${font Droid Sans Mono:bold:size=11}${color1}'"$DJS"'${font Droid Sans Mono:size=10}${color2}'" "/}${font}
 # NETWORK
 ${font xirod:Bold:size=11}${color7}NETWORK ${hr 2}$font
 
@@ -107,6 +107,4 @@ ${font Droid Sans:Bold:size=8}Outbound Connections:  ${tcp_portmon 32768 61000 c
    ${tcp_portmon 32768 61000 rhost 13} ${alignr} ${tcp_portmon 32768 61000 rservice 13}
    ${tcp_portmon 32768 61000 rhost 14} ${alignr} ${tcp_portmon 32768 61000 rservice 14}
 
-${color8}${font xirod:size=11}PACMAN LOG ${hr 2}$color$font ${execi 30 tail -n5 /var/log/pacman.log | fold -w60}
-
-${color orange}${font xirod:size=11}SYSTEM LOG ${hr 2}$color$font ${execi 30 tail -n4 /var/log/messages.log | fold -w60}
+${color orange}${font xirod:size=11}PACMAN LOG ${hr 2}$color$font ${execi 30 tail -n10 /var/log/pacman.log}

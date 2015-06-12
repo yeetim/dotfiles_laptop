@@ -29,6 +29,6 @@ filetype plugin indent on
 "set fillchars+=stl:\ ,stlnc:\ 
 "set laststatus=2
 
-colorscheme molokai
+colorscheme skittles_dark
 
 " vim: set ft=vim :
