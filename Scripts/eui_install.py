@@ -7,7 +7,7 @@ import tempfile
 import zipfile
 
 # Verify this is the right path on your system
-DLC_DIR = '~/.local/share/Steam/SteamApps/common/Sid Meier\'s Civilization V/steamassets/assets/dlc'
+DLC_DIR = '~/.local/share/Steam/steamapps/common/Sid Meier\'s Civilization V/steamassets/assets/dlc'
 EUI_DIR = 'UI_bc1'
 
 if __name__ == '__main__':

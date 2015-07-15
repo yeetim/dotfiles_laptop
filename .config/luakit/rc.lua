@@ -44,10 +44,10 @@ require "window"
 -- ("$XDG_CONFIG_HOME/luakit/webview.lua" or "/etc/xdg/luakit/webview.lua")
 require "webview"
 
---function webview.init_funcs.set_default_zoom(view)
---    view.full_content_zoom = true -- optional 
---    view.zoom_level = 1.4 -- 80%, play with this figure
---end
+function webview.init_funcs.set_default_zoom(view)
+    view.full_content_zoom = true -- optional 
+    view.zoom_level = 1.4 -- 80%, play with this figure
+end
 
 -- Load users mode configuration
 -- ("$XDG_CONFIG_HOME/luakit/modes.lua" or "/etc/xdg/luakit/modes.lua")

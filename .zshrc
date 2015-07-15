@@ -152,7 +152,7 @@ alias Uworld-bdeps='time emerge --ask --newuse --update --deep --with-bdeps=y @w
 alias Esync='eix-sync'
 alias Eupdate='eix --update'
 alias cdP='cd /etc/portage && sudo su'
-alias eM='vim /etc/portage/make.conf'
+alias eM='sudo vim /etc/portage/make.conf'
  
 ## Portage
 alias F='tail -f /var/log/emerge-fetch.log'
@@ -317,7 +317,7 @@ alias net-wifi='wavemon'
 alias net-nmon='nmon'
 alias net-speedtest='speedtest-cli'
 alias net-speed='speedometer -r wlp6s0 -t wlp6s0'
-alias net-graph='nbwmon -i wlp6s0'
+alias graph='nbwmon -i wlp6s0'
 alias iftop='sudo iftop -p -n'
 alias slurm='slurm -i wlp6s0'
 
@@ -344,7 +344,7 @@ alias info='inxi -F'
 alias cap='cd ~/Screencasts/screencaps && scrot -d 4'
 alias rip='abcde'
 alias vidterm='mplayer -vo caca'
-alias graph='gnuplot'
+#alias graph='gnuplot'
 
 ## Sparklines - CLI visualizations
 alias spark-earthquake='curl http://earthquake.usgs.gov/earthquakes/catalogs/eqs1day-M1.txt --silent | sed '1d' | cut -d, -f9 | sparklines'
@@ -706,5 +706,6 @@ plugins=(git archlinux vi-mode themes zsh-completions color-command)
 source /home/msjche/.oh-my-zsh/oh-my-zsh.sh
 
 clear
-/home/msjche/Scripts/pacolor.sh
+#/home/msjche/Scripts/pacolor.sh
+/home/msjche/Scripts/batman.sh
 #alsi -a -u

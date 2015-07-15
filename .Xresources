@@ -26,10 +26,10 @@ URxvt.foreground: 15
 URxvt.geometry: 128x38
 
 !Droid Sans
-URxvt.font: xft:Droid Sans Mono for Powerline:pixelsize=12:antialias=true:hinting=true
-URxvt.boldFont: xft:Droid Sans Mono for Powerline:bold:pixelsize=12:antialias=true:hinting=true
-URxvt.italicFont: xft:Droid Sans Mono for Powerline:italic:pixelsize=12:antialias=true:hinting=true
-URxvt.boldItalicFont: xft:Droid Sans Mono for Powerline:bold:italic:pixelsize=12:antialias=true
+URxvt.font: xft:Droid Sans Mono for Powerline:pixelsize=16:antialias=true:hinting=true
+URxvt.boldFont: xft:Droid Sans Mono for Powerline:bold:pixelsize=16:antialias=true:hinting=true
+URxvt.italicFont: xft:Droid Sans Mono for Powerline:italic:pixelsize=16:antialias=true:hinting=true
+URxvt.boldItalicFont: xft:Droid Sans Mono for Powerline:bold:italic:pixelsize=16:antialias=true
 !! Monofur
 !URxvt.font: xft:Monofur for Powerline:pixelsize=22:antialias=true:hinting=true
 !URxvt.boldFont: xft:Monofur Bold for Powerline:pixelsize=22:antialias=true:hinting=true
@@ -68,15 +68,15 @@ URxvt.keysym.M-v           	: perl:clipboard:paste
 URxvt.keysym.M-s           	: perl:keyboard-select:search
 URxvt.keysym.M-C-v         	: perl:clipboard:paste_escaped
 !URxvt.perl-ext-common     	: tabbed,default,matcher
-Urxvt.perl-lib            	: /usr/lib/urxvt/perl/
-URxvt.url-select.launcher  	: dwb
+!Urxvt.perl-lib            	: /usr/lib/urxvt/perl/
+URxvt.url-select.launcher  	: luakit
 URxvt.url-select.autocopy  	: true
 URxvt.url-select.underline 	: true
 
 URxvt.url-select.button:   1
 
-URxvt.clipboard.copycmd:  xsel --input  --clipboard
-URxvt.clipboard.pastecmd: xsel --output --clipboard
+!URxvt.clipboard.copycmd:  xsel --input  --clipboard
+!URxvt.clipboard.pastecmd: xsel --output --clipboard
 
 !URxvt.keysym.Control-Shift-C: perl:clipboard:copy
 !URxvt.keysym.Control-Shift-V: perl:clipboard:paste

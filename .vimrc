@@ -23,11 +23,14 @@ execute pathogen#infect()
 syntax on
 filetype plugin indent on
 
-"set t_Co=256
-"let g:Powerline_symbols = "fancy"
-"set encoding=utf-8
-"set fillchars+=stl:\ ,stlnc:\ 
-"set laststatus=2
+set t_Co=256
+let g:Powerline_symbols = "fancy"
+set encoding=utf-8
+set fillchars+=stl:\ ,stlnc:\ 
+set laststatus=2
+let g:Powerline_symbols = "fancy"
+let g:Powerline_dividers_override = ["\Ue0b0","\Ue0b1","\Ue0b2","\Ue0b3"]
+let g:Powerline_symbols_override = {'BRANCH': "\Ue0a0", 'LINE': "\Ue0a1", 'RO': "\Ue0a2"}
 
 colorscheme skittles_dark
 

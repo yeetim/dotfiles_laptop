@@ -1,38 +1,18 @@
-cut 
-rename Halloween 2007
-rename I (2007)
-rename Halloween I (2007)
-rename backup.avi
-rename drain.mov
-mplayer .backup/drain.avi
-rename The Big Bang Theory
-rename 0806.mp4
-mkdir Constantine
-rename 0101.mp4
-paste 0502.mp4
-rename 0502.mp4
-rename The Big Bang Theory - 
-shell
 rename
 rename The Big Bang Theory - Season 8
 rename 1805.mp4
 rename 0808.mp4
 rename 0103.mp4
 rename 1806.mp4
-rename 0506.mp4
 rename 1808.mp4
 mkdir 
 paste 0106.mp4
 rename 0106.mp4
-paste 
-rename 0508.mp4
 rename 0811.mp4
 rename 1810.mp4
 rename The Interview
 rename Blood & Chrome
 rename Blood and Chrome
-cut
-paste
 rename 11 - Blood and Chrome
 open_with 
 rename II - The Two Towers.mp4
@@ -41,10 +21,30 @@ rename Star Wars
 q
 copy
 open_with feh
-shell 
 open_with mplayer
-
 open_with mplayer2
 find 
-open_with vlc
 open_with nvlc
+find
+rename Interstellar
+rename Interstellar.mp4
+rename BAttlestart Galactica - Complete Series
+open_with vlc
+mkdir Game of Thrones
+mkdir Season 5
+paste
+rename 0501.avi
+rename 0502.mp4
+rename 0503.avi
+rename 0504.avi
+
+shell 
+rename Daredevil
+rename Queen Greatest Hits
+cunmap 
+cut
+paste 
+rename 0506.mp4
+rename 0507.mp4
+rename 0508.mp4
+open_with mpv
