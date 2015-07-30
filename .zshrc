@@ -46,12 +46,13 @@ COMPLETION_WAITING_DOTS="true"
 #export NMON=cmknt
 export EDITOR="vim"
 export PAGER="less"
-export BROWSER="luakit"
+export BROWSER="firefox-developer"
 export MOVPLAY="mpv"
 export PICVIEW="feh"
 export SNDPLAY="mpv"
 export TERMINAL="uxterm"
 export PULSE_LATENCY_MSEC=60
+export TERM="xterm-256color"
 
 # File Extensions
 for ext in html org php com net no;    do alias -s $ext=$BROWSER; done
@@ -702,7 +703,7 @@ iptv-Rueters() {  rtmpdump \
 
 
 plugins=(git archlinux vi-mode themes zsh-completions color-command)
-#source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source /home/msjche/.oh-my-zsh/oh-my-zsh.sh
 
 clear
