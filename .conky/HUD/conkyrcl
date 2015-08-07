@@ -54,7 +54,7 @@ color5 DEDEDE
 color6 757575
 
 TEXT
-${font xirod:Bold:size=33}${color1} ARCH ${color}LINUX$font
+${font xirod:Bold:size=34}${color1} ARCH ${color}LINUX$font
 # SYS
 
 System Uptime $alignr $uptime
