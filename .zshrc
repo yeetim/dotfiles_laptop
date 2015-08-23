@@ -270,7 +270,7 @@ alias music='sh ~/Scripts/music.sh & '
 
 ## Multimedia
 alias irc='weechat-curses'
-alias M='mplayer -vo x11 -fs -zoom'
+alias M='mpv'
 alias Vids='cd ~/Downloads/.blackbox && ranger'
 
 ## Google Calenar
