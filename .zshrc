@@ -86,6 +86,7 @@ alias GitCommit='git commit -m'
 
 # Configs
 alias Config='cd ~/.config'
+alias Background='~/.config/awesome/themes/msjche/wall.jpg'
 
 # GPG
 alias Keys='gpg --recv-keys'
@@ -291,8 +292,8 @@ alias pgl-stop='pglcmd stop'
 alias web='cd ~/Podcasts && w3m -cookie www.google.com'
 
 ## Check Screencast
-alias FF-check-raw='mplayer ~/Screencasts/screencast.mkv'
-alias FF-check-final='mplayer ~/Screencasts/screencast.mp4'
+alias FF-check-raw='mpv ~/Screencasts/screencast.mkv'
+alias FF-check-final='mpv ~/Screencasts/screencast.mp4'
 # Bottom Left
 #alias FF-cam='mplayer -cache 128 -tv driver=v4l2:width=700:height=393 -vo xv tv:// -noborder -geometry "2%:95%" -ontop'
 # Top Right
@@ -471,9 +472,9 @@ ffx_MONO="1"		# mono
 ffx_DUAL="2"		# dual channel
 ffx_HW="hw:1,0" 	# alsa; run 'cat /proc/asound/pcm' to change to the correct numbers
 ffx_PULSE="pulse" 	# pulseaudio; might have to install pavucontrol to change volume
-ffx_FPS="20"		# frame per seconds
+ffx_FPS="30"		# frame per seconds
 #ffx_WIN_FULL="2560x1440"	# record fullscreen
-ffx_WIN_FULL="1920x1080"	# record fullscreen
+ffx_WIN_FULL="2560x1440"	# record fullscreen
 ffx_AUDIO="pcm_s16le"	# audio codec
 ffx_VIDEO="libx264"	# video codec
 ffx_PRESET="ultrafast"	# preset error? run 'x264 -h' replace with fast,superfast, slow ..etc

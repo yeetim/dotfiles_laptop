@@ -28,7 +28,7 @@ own_window_hints below,skip_taskbar,skip_pager
 
 own_window_colour 000000
 own_window_argb_visual yes
-own_window_argb_value 10
+own_window_argb_value 0
 
 alignment top_right
 gap_y 55
@@ -58,18 +58,18 @@ color8 575757
 
 TEXT
 ${voffset 10}${color1}${goto 5}${font Liberation Sans:size=82}${time %H}${font Liberation Sans:size=38}${voffset -38}:${time %M}${font Liberation Sans:size=18}${voffset -19}${time %S}
-${color2}${goto 140}${voffset 10}${font :size=11}${time %A}
-${color3}${goto 140}${voffset 1}${font :size=11}${time %d %B %Y}
-${color2}${voffset -100}${font}${font Droid Sans Mono:size=13}${execpi 3600 DJS=`date +%_d`; cal -m | sed '1d' | sed '/./ !d' | sed 's/$/ /' | fold -w 21 | sed -n '/^.\{21\}/p' | sed 's/^/${alignr} /' | sed /" $DJS "/s/" $DJS "/" "'${font Droid Sans Mono:bold:size=14}${color1}'"$DJS"'${font Droid Sans Mono:size=13}${color2}'" "/}${font}
+${color2}${goto 130}${voffset 10}${font :size=11}${time %A}
+${color3}${goto 130}${voffset 1}${font :size=11}${time %d %B %Y}
+${color2}${voffset -100}${font}${font Droid Sans Mono:size=13}${execpi 3600 DJS=`date +%_d`; cal -m | sed '1d' | sed '/./ !d' | sed 's/$/ /' | fold -w 21 | sed -n '/^.\{21\}/p' | sed 's/^/${alignr} /' | sed /" $DJS "/s/" $DJS "/" "'${font Droid Sans Mono:bold:size=14}${color7}'"$DJS"'${font Droid Sans Mono:size=13}${color2}'" "/}${font}
 # NETWORK
 ${font xirod:Bold:size=13}${color7}NETWORK ${hr 2}$font
 
 ${font Droid Sans:Bold:size=12}${color7}NETWORK (GENERAL)${stippled_hr}$color$font
 Active Interface ${alignr}$gw_iface
-Public IP${alignr}NOPE :)
+Public IP${alignr} NOPE;)
 #${execi 3600 wget -O - http://ip.tupeux.com | tail}
-#Gateway IP ${alignr}$gw_ip
-DNS ${alignr}$nameserver
+Gateway IP #${alignr}$gw_ip
+DNS #${alignr}$nameserver
 TOR Status ${alignr}${if_running tor} Active${else}Disabled${endif}
 Firewall ${alignr}${exec systemctl status ufw | grep active | cut -c 11-27}
 Packets $alignr In:${tcp_portmon 1 32767 count}  Out: ${tcp_portmon 32768 61000 count}
