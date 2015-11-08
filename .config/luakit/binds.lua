@@ -67,8 +67,7 @@ add_binds("all", {
         local view = w.view
         local uri = view.hovered_uri or view.uri
         if uri then
-            luakit.spawn(string.format("urxvt -e cclive %q"
-            .. "--output-dir %q --exec='mplayer \"%%f\"' %q", os.getenv("HOME") .."downloads/YouTube", uri))
+            luakit.spawn(string.format("urxvt -e youtube-dl -I %q", uri))
         end 
     end),
 

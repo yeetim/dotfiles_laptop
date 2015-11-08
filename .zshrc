@@ -46,7 +46,7 @@ COMPLETION_WAITING_DOTS="true"
 #export NMON=cmknt
 export EDITOR="vim"
 export PAGER="less"
-export BROWSER="firefox-developer"
+export BROWSER="opera"
 export MOVPLAY="mpv"
 export PICVIEW="feh"
 export SNDPLAY="mpv"
@@ -154,6 +154,8 @@ alias Uworld-bdeps='time emerge --ask --newuse --update --deep --with-bdeps=y @w
 alias Esync='eix-sync'
 alias Eupdate='eix --update'
 alias cdP='cd /etc/portage && sudo su'
+alias cdU='cd /etc/portage/package.use && sudo su'
+alias cdK='cd /etc/portage/package.accept_keywords && sudo su'
 alias eM='sudo vim /etc/portage/make.conf'
  
 ## Portage
@@ -270,7 +272,7 @@ alias Pods='cd ~/Podcasts && ranger'
 alias music='sh ~/Scripts/music.sh & '
 
 ## Multimedia
-alias irc='weechat-curses'
+alias irc='cp ~/.weechat/irc.conf.bak ~/.weechat/irc.conf && weechat-curses'
 alias M='mpv'
 alias Vids='cd ~/Downloads/.blackbox && ranger'
 
@@ -318,8 +320,8 @@ alias net-dump='sudo tcpdump -i wlp6s0'
 alias net-wifi='wavemon'
 alias net-nmon='nmon'
 alias net-speedtest='speedtest-cli'
-alias graph='speedometer -r wlp6s0 -t wlp6s0'
-alias net-graph='nbwmon -i wlp6s0'
+alias net-graph='speedometer -r wlp6s0 -t wlp6s0'
+alias graph='nbwmon -i wlp6s0'
 alias iftop='sudo iftop -p -n'
 alias slurm='slurm -i wlp6s0'
 
@@ -343,7 +345,7 @@ alias date-time='watch -n 1 -t date'
 alias stopwatch='echo "cntl-z to end" & time cat'
 alias starwars='telnet towel.blinkenlights.nl'
 alias info='inxi -F'
-alias cap='cd ~/Screencasts/Screencaps && scrot -d 4'
+alias Cap='cd ~/Screencasts/Screencaps && scrot -d 4'
 alias rip='abcde'
 alias vidterm='mplayer -vo caca'
 #alias graph='gnuplot'

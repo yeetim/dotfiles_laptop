@@ -32,16 +32,16 @@ URxvt.geometry: 145x43
 !URxvt.boldItalicFont: xft:Inconsolata for Powerline:bold:italic:pixelsize=20:antialias=true
 
 !!DejaVu Sans
-URxvt.font: xft:Dejavu Sans Mono for Powerline:pixelsize=16:antialias=true:hinting=true
-URxvt.boldFont: xft:DejaVu Sans Mono for Powerline:bold:pixelsize=16:antialias=true:hinting=true
-URxvt.italicFont: xft:DejaVu Sans Mono for Powerline:italic:pixelsize=16:antialias=true:hinting=true
-URxvt.boldItalicFont: xft:DejaVu Sans Mono for Powerline:bold:italic:pixelsize=16:antialias=true
+!URxvt.font: xft:Dejavu Sans Mono for Powerline:pixelsize=16:antialias=true:hinting=true
+!URxvt.boldFont: xft:DejaVu Sans Mono for Powerline:bold:pixelsize=16:antialias=true:hinting=true
+!URxvt.italicFont: xft:DejaVu Sans Mono for Powerline:italic:pixelsize=16:antialias=true:hinting=true
+!URxvt.boldItalicFont: xft:DejaVu Sans Mono for Powerline:bold:italic:pixelsize=16:antialias=true
 
 !!Droid Sans
-!URxvt.font: xft:Droid Sans Mono for Powerline:pixelsize=16:antialias=true:hinting=true
-!URxvt.boldFont: xft:Droid Sans Mono for Powerline:bold:pixelsize=16:antialias=true:hinting=true
-!URxvt.italicFont: xft:Droid Sans Mono for Powerline:italic:pixelsize=16:antialias=true:hinting=true
-!URxvt.boldItalicFont: xft:Droid Sans Mono for Powerline:bold:italic:pixelsize=16:antialias=true
+URxvt.font: xft:Droid Sans Mono for Powerline:pixelsize=16:antialias=true:hinting=true
+URxvt.boldFont: xft:Droid Sans Mono for Powerline:bold:pixelsize=16:antialias=true:hinting=true
+URxvt.italicFont: xft:Droid Sans Mono for Powerline:italic:pixelsize=16:antialias=true:hinting=true
+URxvt.boldItalicFont: xft:Droid Sans Mono for Powerline:bold:italic:pixelsize=16:antialias=true
 
 !! Monofur
 !URxvt.font: xft:Monofur for Powerline:pixelsize=20:antialias=true:hinting=true
@@ -62,10 +62,10 @@ URxvt.boldItalicFont: xft:DejaVu Sans Mono for Powerline:bold:italic:pixelsize=1
 !URxvt.boldItalicFont: xft:Literation Mono Bold for Powerline:italic:pixelsize=16:antialias=true
 
 !! Sauce Code
-!URxvt.font: xft:Sauce Code Powerline:pixelsize=16:antialias=true:hinting=true
-!URxvt.boldFont: xft:Sauce Code Powerline Bold:pixelsize=16:antialias=true:hinting=true
-!URxvt.italicFont: xft:Sauce Code Powerline Italic:pixelsize=16:antialias=true:hinting=true
-!URxvt.boldItalicFont: xft:Sauce Code Bold Italic:pixelsize=16:antialias=true
+!URxvt.font: xft:Sauce Code Powerline:pixelsize=17:antialias=true:hinting=true
+!URxvt.boldFont: xft:Sauce Code Powerline Bold:pixelsize=17:antialias=true:hinting=true
+!URxvt.italicFont: xft:Sauce Code Powerline Italic:pixelsize=17:antialias=true:hinting=true
+!URxvt.boldItalicFont: xft:Sauce Code Bold Italic:pixelsize=17:antialias=true
 
 !! Ubuntu Mono derivative
 !URxvt.font: xft:Ubuntu Mono derivative Powerline:pixelsize=20:antialias=true:hinting=true
