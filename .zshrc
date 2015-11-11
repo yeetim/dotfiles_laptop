@@ -2,7 +2,7 @@
 ZSH=/home/msjche/.oh-my-zsh
 ZSH_THEME="powerline"    #kardan agnoster af-magic bira clean candy gentoo terminalparty
 
-#POWERLINE_RIGHT_A="date"
+POWERLINE_RIGHT_A="date"
 #POWERLINE_RIGHT_A="exit-status"
 #POWERLINE_FULL_CURRENT_PATH="true"
 POWERLINE_DETECT_SSH="true"
@@ -18,6 +18,8 @@ POWERLINE_GIT_DELETED="%F{red}✖%F{black}"
 POWERLINE_GIT_UNTRACKED="%F{cyan}✭%F{black}"
 POWERLINE_GIT_RENAMED="➜"
 POWERLINE_GIT_UNMERGED="═"
+POWERLINE_RIGHT_A_COLOR_FRONT="black"
+POWERLINE_RIGHT_A_COLOR_BACK="red"
 
 # Lines configured by zsh-newuser-install
 HISTFILE=~/.histfile
@@ -78,6 +80,13 @@ alias unblock-wireless='rfkill unblock all && ifconfig set wlp6s0 up'
 alias toggle-wifi='sudo ifconfig wlp6s0 down && sudo ifconfig wlp6s0 up'
 alias audit='lynis --auditor MoJo'
 alias Minimal='~/Scripts/minimal.sh'
+
+# Programming
+alias cdProg='cd ~/Dropbox/Programming'
+
+# Weather
+alias Weather='wego'
+alias Redding='wego 4 redding'
 
 # Git
 alias cdG='cd ~/Git/dotfiles'
