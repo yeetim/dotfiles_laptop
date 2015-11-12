@@ -1,66 +1,23 @@
-set t_Co=256
-let g:Powerline_symbols = "fancy"
-set encoding=utf-8
-set fillchars+=stl:\ ,stlnc:\ 
-set laststatus=2
+"set paste
+set pastetoggle=<F2>
+
 let g:Powerline_symbols = "fancy"
 let g:Powerline_dividers_override = ["\Ue0b0","\Ue0b1","\Ue0b2","\Ue0b3"]
 let g:Powerline_symbols_override = {'BRANCH': "\Ue0a0", 'LINE': "\Ue0a1", 'RO': "\Ue0a2"}
 
 colorscheme wombat256
 
-set paste
-set pastetoggle=<F2>
-
-"-----------------------------------------------------------------------------------
-
 " Pathogen
 execute pathogen#infect()
 syntax on
 filetype plugin indent on
 
-"NeoBundle Scripts-----------------------------
-if has('vim_starting')
-  if &compatible
-    set nocompatible               " Be iMproved
-  endif
-
-  " Required:
-  set runtimepath+=/home/msjche/.vim/bundle/neobundle.vim/
-endif
-
-" Required:
-call neobundle#begin(expand('/home/msjche/.vim/bundle'))
-
-" Let NeoBundle manage NeoBundle
-" Required:
-NeoBundleFetch 'Shougo/neobundle.vim'
-
-" Add or remove your Bundles here:
-NeoBundle 'Shougo/neosnippet.vim'
-NeoBundle 'Shougo/neosnippet-snippets'
-NeoBundle 'tpope/vim-fugitive'
-NeoBundle 'ctrlpvim/ctrlp.vim'
-NeoBundle 'flazz/vim-colorschemes'
-
-" You can specify revision/branch/tag.
-NeoBundle 'Shougo/vimshell', { 'rev' : '3787e5' }
-
-" Required:
-call neobundle#end()
-
-" Required:
-filetype plugin indent on
-"End NeoBundle Scripts-------------------------
-
-"-----------------------------------------------------------------------------------
-
 set nocompatible        " don't use old settings that vi used.  
 						" Use the newer features that vim offers
 
-
 " Make the leader key be space
 let mapleader = "\<Space>"
+let maptrailer = "\<Ctrl>"
 
 
 set backspace=2       	" make backspace able to go over end of lines
@@ -95,17 +52,12 @@ syntax enable			"use syntax highlighting
 	call neobundle#begin(expand('~/.vim/bundle/'))
 		" Let NeoBundle manage NeoBundle (Required!)
 			NeoBundleFetch 'Shougo/neobundle.vim'
-
 		" Fuzzy finding for files
 			NeoBundle 'kien/ctrlp.vim'
-
 		"Move around easier
 			NeoBundle 'Lokaltog/vim-easymotion'
-
 		"File navigation
 			NeoBundle 'scrooloose/nerdtree'
-
-
 		"Coffeescript integration and syntax highlighting
 			NeoBundle 'kchmck/vim-coffee-script'
 
@@ -119,13 +71,19 @@ syntax enable			"use syntax highlighting
 
 
 " Key mappings
+
+	" easymotion <leader> remap
+	" Easymotion shortcut
+	map <C-O> <Leader><Leader>w
+	map <C-E> <Leader><Leader>W
+
 	" space-n to open a new file (in a new tab)
 		nnoremap <leader>n :tabnew<cr>
 
 	" space-t to open a new tab
 		nnoremap <leader>t :tabnew<cr>
 
-	" <c-tab> to go to next tab
+	" <shift-tab> to go to next tab
 		nnoremap <c-tab> :tabnext<cr>
 		inoremap <c-tab> <esc>:tabnext<cr>
 
@@ -148,7 +106,28 @@ syntax enable			"use syntax highlighting
 	" space-q to quit (doesn't save, watch out!)
 		nnoremap <leader>q :q!<cr>
 
+	" space-1 insert "!" commenting
+		nnoremap <leader>1 :norm i!<cr>
+		vnoremap <leader>1 :norm i!<cr>
 
+	" space-' insert """ commenting
+		nnoremap <leader>' :norm i"<cr>
+		vnoremap <leader>' :norm i"<cr>
+
+	" space-3 insert "#" commenting
+		nnoremap <leader>3 :norm i#<cr>
+		vnoremap <leader>3 :norm i#<cr>
+
+	" space-- insert "--" commenting
+		nnoremap <leader>- :norm i--<cr>
+		vnoremap <leader>- :norm i--<cr>
+
+	" space-6 uncomment
+		nnoremap <leader>6 :norm ^x<cr>
+		vnoremap <leader>6 :norm ^x<cr>
+
+	" add line above and stay at end current in "insert" mode
+		nnoremap <c-a> <Esc>O<Esc>jA
 
 " Key mappings that might be new
 	" space-rv to reload vimrc
@@ -156,7 +135,6 @@ syntax enable			"use syntax highlighting
 
 	" space-ev to edit the vimrc file (think: edit-vim)
 		nnoremap <leader>ev :tabnew $MYVIMRC<cr>
-
 
 " Other keymappings to make the experience less painful
   "make j and k keys go up normally instead of to the previous line number
