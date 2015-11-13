@@ -1,5 +1,6 @@
- set paste
+set paste
 set pastetoggle=<F2>
+set mouse=a
 
 let g:Powerline_symbols = "fancy"
 let g:Powerline_dividers_override = ["\Ue0b0","\Ue0b1","\Ue0b2","\Ue0b3"]
@@ -9,9 +10,12 @@ let g:Powerline_symbols_override = {'BRANCH': "\Ue0a0", 'LINE': "\Ue0a1", 'RO': 
 "colorscheme tango
 "colorscheme railscasts
 "colorscheme vividchalk
-colorscheme distinguished
+"colorscheme distinguished
+"colorscheme monokai
+colorscheme ir_black
 "colorscheme jellybeans 
 "colorscheme desertEx
+"colorscheme codeblocks_dark
 
 " Pathogen
 execute pathogen#infect()
@@ -90,8 +94,8 @@ syntax enable			"use syntax highlighting
 		nnoremap <leader>t :tabnew<cr>
 
 	" <shift-tab> to go to next tab
-		nnoremap <c-tab> :tabnext<cr>
-		inoremap <c-tab> <esc>:tabnext<cr>
+		nnoremap <s-tab> :tabnext<cr>
+		inoremap <s-tab> <esc>:tabnext<cr>
 
 	" <c-shift-tab> to go to previous tab
 		nnoremap <c-s-tab> :tabprev<cr>
@@ -111,6 +115,10 @@ syntax enable			"use syntax highlighting
 
 	" space-q to quit (doesn't save, watch out!)
 		nnoremap <leader>q :q!<cr>
+
+	" pageup and page down
+		nnoremap <leader>u :PageUp
+		nnoremap <leader>d :PageDown
 
 	" space-1 insert "!" commenting
 		nnoremap <leader>1 :norm i!<cr>
