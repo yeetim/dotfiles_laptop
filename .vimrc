@@ -1,4 +1,4 @@
-set paste
+"set paste
 set pastetoggle=<F2>
 set mouse=a
 
@@ -10,9 +10,9 @@ let g:Powerline_symbols_override = {'BRANCH': "\Ue0a0", 'LINE': "\Ue0a1", 'RO': 
 "colorscheme tango
 "colorscheme railscasts
 "colorscheme vividchalk
-"colorscheme distinguished
+colorscheme distinguished
 "colorscheme monokai
-colorscheme ir_black
+"colorscheme ir_black
 "colorscheme jellybeans 
 "colorscheme desertEx
 "colorscheme codeblocks_dark
@@ -141,7 +141,7 @@ syntax enable			"use syntax highlighting
 		vnoremap <leader>6 :norm ^x<cr>
 
 	" add line above and stay at end current in "insert" mode
-		nnoremap <c-a> <Esc>O<Esc>jA
+		nnoremap <leader>ev :e $MYVIMRC<cr>
 
 " Key mappings that might be new
 	" space-rv to reload vimrc
