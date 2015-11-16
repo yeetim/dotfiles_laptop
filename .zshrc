@@ -110,7 +110,7 @@ alias font-check='echo "\ue0b0 \u00b1 \ue0a0 \u27a6 \u2718 \u26a1 \u2699"'
 alias Backup-local='sudo /home/msjche/Scripts/laptop_backup_local.sh'
 
 # SSH
-alias Libertas='ssh msjche@192.168.1.100'
+alias Libertas='ssh msjche@192.168.1.11'
 alias Libertas-X='ssh -X msjche@192.168.1.100'
 alias L-get='echo "/path/to/host/file ~/path/to/destination" && scp msjche@192.168.1.7:'
 

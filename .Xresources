@@ -133,7 +133,7 @@ URxvt.url-select.button:   1
 !URxvt.keysym.Control-Shift-V: perl:clipboard:paste
 
 ! Black
-URxvt.color0:  #000000
+URxvt.color0:  #5c5c5c
 URxvt.color8:  #4c4c4c
 ! Red
 URxvt.color1:  #cd0000

@@ -10,8 +10,8 @@ let g:Powerline_symbols_override = {'BRANCH': "\Ue0a0", 'LINE': "\Ue0a1", 'RO': 
 "colorscheme tango
 "colorscheme railscasts
 "colorscheme vividchalk
-colorscheme distinguished
-"colorscheme monokai
+"colorscheme distinguished
+colorscheme monokai
 "colorscheme ir_black
 "colorscheme jellybeans 
 "colorscheme desertEx
@@ -114,7 +114,7 @@ syntax enable			"use syntax highlighting
 		nnoremap <leader><s-s> :w 
 
 	" space-q to quit (doesn't save, watch out!)
-		nnoremap <leader>q :q!<cr>
+		nnoremap <leader>q :wq!<cr>
 
 	" pageup and page down
 		nnoremap <leader>u :PageUp
