@@ -1,6 +1,8 @@
-"set paste
+set paste
 set pastetoggle=<F2>
 set mouse=a
+"set foldmethod=indent
+set rnu
 
 let g:Powerline_symbols = "fancy"
 let g:Powerline_dividers_override = ["\Ue0b0","\Ue0b1","\Ue0b2","\Ue0b3"]
@@ -11,8 +13,8 @@ let g:Powerline_symbols_override = {'BRANCH': "\Ue0a0", 'LINE': "\Ue0a1", 'RO': 
 "colorscheme railscasts
 "colorscheme vividchalk
 "colorscheme distinguished
-colorscheme monokai
-"colorscheme ir_black
+"colorscheme monokai
+colorscheme ir_black
 "colorscheme jellybeans 
 "colorscheme desertEx
 "colorscheme codeblocks_dark
@@ -27,16 +29,13 @@ set nocompatible        " don't use old settings that vi used.
 
 " Make the leader key be space
 let mapleader = "\<Space>"
-let maptrailer = "\<Ctrl>"
-
 
 set backspace=2       	" make backspace able to go over end of lines
-set number 		        " show the line number on the side
 set laststatus=2    	"always show the status line
 set t_Co=256        	"set colors to 256
 
 set number          	"show line number on side
-set nornu           	"do not make the line numbers relative to cursor
+"set nornu           	"do not make the line numbers relative to cursor
 set mousehide       	"hide mouse cursor while typing
 set showmode        	"display the current mode
 set cursorline      	"highlight the current line
@@ -84,8 +83,8 @@ syntax enable			"use syntax highlighting
 
 	" easymotion <leader> remap
 	" Easymotion shortcut
-	map <C-O> <Leader><Leader>w
-	map <C-E> <Leader><Leader>W
+		map <c-o> <Leader><leader>w
+		map <c-e> <leader><leader>W
 
 	" space-n to open a new file (in a new tab)
 		nnoremap <leader>n :tabnew<cr>
@@ -115,6 +114,9 @@ syntax enable			"use syntax highlighting
 
 	" space-q to quit (doesn't save, watch out!)
 		nnoremap <leader>q :wq!<cr>
+	
+	" alt-x to Esc
+		inoremap <a-d> <esc>
 
 	" pageup and page down
 		nnoremap <leader>u :PageUp
@@ -140,8 +142,22 @@ syntax enable			"use syntax highlighting
 		nnoremap <leader>6 :norm ^x<cr>
 		vnoremap <leader>6 :norm ^x<cr>
 
-	" add line above and stay at end current in "insert" mode
-		nnoremap <leader>ev :e $MYVIMRC<cr>
+	" edit config files
+		nnoremap <leader>ez :tabnew ~/.zshrc<cr>
+	
+	" set relative number
+"	 	nnoremap <c-n> set rnu<cr>
+"	 	nnoremap <c-s-n> set number<cr>
+
+function! NumberToggle()
+  if(&relativenumber == 1)
+    set number
+  else
+    set relativenumber
+  endif
+endfunc
+
+nnoremap <c-n> :call NumberToggle()<cr>
 
 " Key mappings that might be new
 	" space-rv to reload vimrc

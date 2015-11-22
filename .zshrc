@@ -5,9 +5,8 @@ ZSH_THEME="powerline"    #kardan agnoster af-magic bira clean candy gentoo termi
 #POWERLINE_RIGHT_A="date"
 #POWERLINE_RIGHT_A="exit-status"
 #POWERLINE_FULL_CURRENT_PATH="true"
-POWERLINE_DETECT_SSH="true"
 #POWERLINE_SHOW_GIT_ON_RIGHT="true"
-POWERLINE_DATE_FORMAT="%D{%d-%m}"
+#POWERLINE_DATE_FORMAT="%D{%d-%m}"
 POWERLINE_HIDE_HOST_NAME="true"
 POWERLINE_DETECT_SSH="true"
 POWERLINE_GIT_CLEAN="✔"
@@ -18,8 +17,8 @@ POWERLINE_GIT_DELETED="%F{red}✖%F{black}"
 POWERLINE_GIT_UNTRACKED="%F{cyan}✭%F{black}"
 POWERLINE_GIT_RENAMED="➜"
 POWERLINE_GIT_UNMERGED="═"
-#POWERLINE_RIGHT_A_COLOR_FRONT="black"
-#POWERLINE_RIGHT_A_COLOR_BACK="red"
+POWERLINE_RIGHT_A_COLOR_FRONT="black"
+POWERLINE_RIGHT_A_COLOR_BACK="red"
 
 # Lines configured by zsh-newuser-install
 HISTFILE=~/.histfile
