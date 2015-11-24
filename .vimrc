@@ -1,4 +1,4 @@
-set paste
+"set paste
 set pastetoggle=<F2>
 set mouse=a
 "set foldmethod=indent
