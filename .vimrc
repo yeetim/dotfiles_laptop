@@ -86,11 +86,18 @@ syntax enable			"use syntax highlighting
 		map <c-o> <Leader><leader>w
 		map <c-e> <leader><leader>W
 
-	" space-n to open a new file (in a new tab)
-		nnoremap <leader>n :tabnew<cr>
+"	" space-n to open a new file (in a new tab)
+"		nnoremap <leader>n :tabnew<cr>
+"	" space-t to open a new tab
+"		nnoremap <leader>t :tabnew<cr>
 
-	" space-t to open a new tab
-		nnoremap <leader>t :tabnew<cr>
+	" tab stuff
+		nnoremap tn :tabnew<cr>
+		nnoremap tk :tabnext<cr>
+		nnoremap tj :tabprev<cr>
+		nnoremap th :tabfirst<cr>
+		nnoremap tl :tablast<cr>
+
 
 	" <shift-tab> to go to next tab
 		nnoremap <s-tab> :tabnext<cr>
@@ -114,6 +121,7 @@ syntax enable			"use syntax highlighting
 
 	" space-q to quit (doesn't save, watch out!)
 		nnoremap <leader>q :wq!<cr>
+		nnoremap <leader>Q :q!<cr>
 	
 	" alt-x to Esc
 		inoremap <a-d> <esc>
