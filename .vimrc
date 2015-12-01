@@ -87,7 +87,7 @@ syntax enable			"use syntax highlighting
 		map <c-e> <leader><leader>W
 
 "	" space-n to open a new file (in a new tab)
-"		nnoremap <leader>n :tabnew<cr>
+		nnoremap <leader>n :tabnew<cr>
 "	" space-t to open a new tab
 "		nnoremap <leader>t :tabnew<cr>
 

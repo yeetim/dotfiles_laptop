@@ -18,7 +18,7 @@
 # requires: ffmpeg wmctrl xclip xdotool youtube-dl
 
 # browser to focus; show list using wmctrl -l
-BROWSER_FOCUS=Opera
+BROWSER_FOCUS=chromium
 # set / create save location
 DOWNLOAD_DIR=~/Downloads/YouTube
 # image to use
@@ -40,6 +40,6 @@ cd "$DOWNLOAD_DIR"
 notify-send -i "$IMAGE_LOGO" 'Downloading YouTube Content' 'Starting ...' -t 5000
 
 # download (prevents downloading all playlist)
-youtube-dl -c --restrict-filenames --audio-format mp3 -o "%(title)s.%(ext)s" "$(xclip -selection clipboard -o | cut -d\& -f1)"
+youtube-dl -c --restrict-filenames --audio-format mp3 -o "%(title)s.%(ext)s" '$(xclip -selection clipboard -o | cut -d\& -f1)'
 
 notify-send -i "$IMAGE_LOGO" 'Downloading YouTube Content' 'Completed !!!' -t 5000

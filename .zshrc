@@ -437,7 +437,8 @@ yt-listen() { clear && figlet -c YouTube Listen && youtube-viewer -n $@ ;}
 pandora-cli() { clear && figlet -c Pandora CLI && ~/.config/pianobar/pianobar_headless.sh ;}
 
 # PMS- ncurses Spotify client
-spotify-cli() { clear && cd ~/Music && figlet -c Spotify CLI && python3 ~/Scripts/pms/pms.py ;}
+#spotify-cli() { clear && cd ~/Music && figlet -c Spotify CLI && python3 ~/Scripts/mps/mps;}
+spotify-cli() { clear && python3 ~/Scripts/mps/mps;}
 
 # Grooveshark CLI
 groove-dl-cli() { cd grooveshark && clear && figlet -c Grooveshark && groove-dl ;}
