@@ -173,7 +173,7 @@ alias F='tail -f /var/log/emerge-fetch.log'
 alias E='tail -f /var/log/emerge.log'
 
 ## Pacman
-alias UU='packer-color -Syyu'
+alias UU='rm /tmp/off.updates && rm /tmp/aur.updates && packer-color -Syyu'
 alias UUA='yaourt -Syyua --devel'
 alias P='packer-color'
 alias PI='packer-color -S'

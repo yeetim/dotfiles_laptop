@@ -1,0 +1,36 @@
+2015-12-08 18:42:43	════>	msjche (~msjche@gateway/vpn/privateinternetaccess/msjche) has joined #python
+2015-12-08 18:42:43	--	Topic for #python is "Don't paste, use https://bpaste.net/+python | http://bit.ly/psf-coc | NO LOL | Tutorial: http://bit.ly/MCAhYx | New programmer? http://goo.gl/c170V | Specify 2.x or 3.x in your question | Find your local User Group: http://goo.gl/S1Zsq | #python-fr #python.de #python-es #python.tw #python.pl #python-br #python-nl #python-ir #python.it #python-ro #python-india #python-hu #python-dev"
+2015-12-08 18:42:43	--	Topic set by ssbr_at_work (scorchsabe@python/site-packages/ssbr) on Tue, 01 Sep 2015 00:01:20
+2015-12-08 18:42:43	--	Channel #python: 1565 nicks (0 ops, 0 voices, 1565 normals)
+2015-12-08 18:42:44	--	Channel created on Sat, 25 Nov 2006 22:42:41
+2015-12-08 18:42:59	<════	bocard (~bocard@dhcp-189-134.gjk.dk) has quit (Ping timeout: 250 seconds)
+2015-12-08 18:44:20	ninebits	http://pastebin.com/8GVMqNFX
+2015-12-08 18:44:21	infobob	http://paste.pound-python.org/show/XnSX41d7ZUsRFYyFRBJu/ (repasted for ninebits)
+2015-12-08 18:44:23	ninebits	that's for python 3
+2015-12-08 18:44:38	ninebits	i've tried dozens of variations on it.. oh cool infobob .. i'll take a look
+2015-12-08 18:44:39	════>	spvensko (~spvensko@unaffiliated/spvensko) has joined #python
+2015-12-08 18:44:51	ninebits	oh
+2015-12-08 18:44:51	<════	wildlander (~wild@unaffiliated/wildlander) has quit (Quit: Saliendo)
+2015-12-08 18:44:52	ninebits	lol
+2015-12-08 18:45:08	ninebits	infobob's some kind of bot?
+2015-12-08 18:45:13	Vgr	yes
+2015-12-08 18:45:14	ninebits	oh he's the lol bot.
+2015-12-08 18:45:33	Vgr	ninebits: please don't use a bare except - if you need to catch KeyboardInterrupt, use 'except KeyboardInterrupt:' instead
+2015-12-08 18:45:44	ninebits	ya, done those
+2015-12-08 18:45:58	ninebits	i mean, using the bare except was my last ditch effort
+2015-12-08 18:46:28	Vgr	I'm not seeing anything like you're describing over here (using 3.5.1rc1)
+2015-12-08 18:46:32	ninebits	i'm looking for a way around what's happening there, and so far nobody else even acknowledges there's a prolem.
+2015-12-08 18:46:37	ninebits	i'm on Windows 8
+2015-12-08 18:47:22	Vgr	the only cause I can think of is something weird going on at a lower level
+2015-12-08 18:47:27	nedbat	ninebits: have you shown what weird things happen when you tyupe Ctrl-C?
+2015-12-08 18:47:28	ninebits	ya
+2015-12-08 18:47:34	ninebits	well, i assumed that
+2015-12-08 18:47:40	════>	bedekelly_ (1fcdfb15@gateway/web/freenode/ip.31.205.251.21) has joined #python
+2015-12-08 18:47:45	ninebits	just hoping maybe someone here would have a workaround
+2015-12-08 18:47:58	bedekelly_	ninebits what do you need a workaround for?
+2015-12-08 18:48:06	z1haze	hypothetically, what would be the fastest way possible to check a massive list of doamins to see if they are actual domains? and how long would it take to check say.. 80,000
+2015-12-08 18:48:09	════>	Rena (~rena@PSTNON1203W-LP140-02-2389809833.dsl.bell.ca) has joined #python
+2015-12-08 18:48:14	_habnabit	z1haze, what's a domain
+2015-12-08 18:48:22	Vgr	ninebits: please show us a paste with your full output
+2015-12-08 18:48:28	════>	TheoryCat (TheoryCat@unaffiliated/wye-naught/x-8734122) has joined #python
+2015-12-08 18:48:31	Vgr	full code and exact output

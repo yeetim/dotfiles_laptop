@@ -5,6 +5,8 @@ password =
 # Proxy (for those who are not living in the USA)
 #control_proxy = http://127.0.0.1:9090/
 
+tls_fingerprint = 13CC51AC0C31CD96C55015C76914360F7AC41A00
+
 # Keybindings
 act_help = ?
 act_songlove = +

@@ -83,8 +83,8 @@ syntax enable			"use syntax highlighting
 
 	" easymotion <leader> remap
 	" Easymotion shortcut
-		map <c-o> <Leader><leader>w
-		map <c-e> <leader><leader>W
+		map <leader>e <leader><leader>W
+		map <leader>e <leader><leader>W
 
 "	" space-n to open a new file (in a new tab)
 		nnoremap <leader>n :tabnew<cr>
