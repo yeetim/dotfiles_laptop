@@ -1,7 +1,9 @@
+.Xresources
 .mutt/
 .config/luakit/luakit-adblock
 .config/pianobar/artist
 .config/pianobar/nowplaying
+.config/pianobar/isplaying
 .config/pianobar/out
 .config/pianobar/state
 .config/pianobar/title

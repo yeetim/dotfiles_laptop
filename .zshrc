@@ -193,6 +193,8 @@ alias cdT='cd ~/.config/awesome/themes/msjche'
 alias BG='~/Scripts/background.sh'
 
 ## Theming
+alias Msjche='~/Scripts/Theming/msjche.sh'
+alias Default='~/Scripts/Theming/default.sh'
 alias 1080='/home/msjche/Scripts/Theming/1080.sh'
 alias 1440='/home/msjche/Scripts/Theming/1440.sh'
 
@@ -315,6 +317,7 @@ alias FF-cam='mplayer -cache 128 -tv driver=v4l2:width=467:height=262 -vo xv tv:
 
 
 ## Net
+alias NM='sudo systemctle restart NetworkManager.service'
 alias WW='wicd-curses'
 alias hogs='sudo nethogs tun0'
 alias net-driftnet='echo "see pics from other computers on network" && sudo driftnet -i wlp6s0'
@@ -721,7 +724,7 @@ source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zs
 source /home/msjche/.oh-my-zsh/oh-my-zsh.sh
 
 clear
-#/home/msjche/Scripts/pacolor.sh
-/home/msjche/Scripts/starwars.sh
+/home/msjche/Scripts/pacolor.sh
+#/home/msjche/Scripts/starwars.sh
 #/home/msjche/Scripts/batman.sh
 #alsi -a -u
