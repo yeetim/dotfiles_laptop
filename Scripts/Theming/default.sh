@@ -11,6 +11,8 @@ ln -s ~/.config/awesome/PROFILES/Default/* ~/.config/awesome/
 
 cp ~/Scripts/Theming/zenburn.Xresources ~/.Xresources
 
+xrdb -merge ~/.Xresources
+
 echo 'awesome.restart()' | awesome-client
 
 sleep 5
