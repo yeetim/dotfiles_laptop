@@ -317,7 +317,7 @@ alias FF-cam='mplayer -cache 128 -tv driver=v4l2:width=467:height=262 -vo xv tv:
 
 
 ## Net
-alias NM='sudo systemctle restart NetworkManager.service'
+alias NM='sudo systemctl restart NetworkManager.service'
 alias WW='wicd-curses'
 alias hogs='sudo nethogs tun0'
 alias net-driftnet='echo "see pics from other computers on network" && sudo driftnet -i wlp6s0'
