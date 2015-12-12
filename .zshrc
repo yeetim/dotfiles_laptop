@@ -47,7 +47,7 @@ COMPLETION_WAITING_DOTS="true"
 #export NMON=cmknt
 export EDITOR="vim"
 export PAGER="less"
-export BROWSER="opera"
+export BROWSER="luakit"
 export MOVPLAY="mpv"
 export PICVIEW="feh"
 export SNDPLAY="mpv"
@@ -173,7 +173,7 @@ alias F='tail -f /var/log/emerge-fetch.log'
 alias E='tail -f /var/log/emerge.log'
 
 ## Pacman
-alias UU='rm /tmp/off.updates && rm /tmp/aur.updates && packer-color -Syyu'
+alias UU='packer-color -Syyu && rm /tmp/off.updates && rm /tmp/aur.updates'
 alias UUA='yaourt -Syyua --devel'
 alias P='packer-color'
 alias PI='packer-color -S'

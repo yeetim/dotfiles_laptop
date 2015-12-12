@@ -103,6 +103,9 @@ syntax enable			"use syntax highlighting
 		nnoremap <s-tab> :tabnext<cr>
 		inoremap <s-tab> <esc>:tabnext<cr>
 
+	" <alt-q> to exit Insert	
+		inoremap <leader>j <esc>
+
 	" <c-shift-tab> to go to previous tab
 		nnoremap <c-s-tab> :tabprev<cr>
 		inoremap <c-s-tab> <esc>:tabprev<cr>
