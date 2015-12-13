@@ -407,9 +407,11 @@ bindkey -M vicmd '^s' history-incremental-search-backward
 ######################## FUNCTIONS ######################## 
 ###########################################################
 
+# Christmas Tree
+Christmas() { perl -MAcme::POE::Tree -e 'Acme::POE::Tree->new()->run()' ;}
+
 # Best of YouTube
 bestofyoutube() { cd ~/Downloads/YouTube && ~/Scripts/bestofyoutube.sh  }
-
 
 # Simple python HTTP server
 server() { python3 -m http.server ;}
