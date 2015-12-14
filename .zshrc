@@ -189,6 +189,8 @@ alias eA='cd ~/.config/awesome && vim rc.lua'
 alias eW='cd ~/.config/awesome && vim wi.lua'
 alias eT='cd ~/.config/awesome/themes/msjche && vim theme.lua' 
 alias cdA='cd ~/.config/awesome'
+alias cdD='cd ~/.config/awesome/PROFILES/Default'
+alias cdM='cd ~/.config/awesome/PROFILES/msjche'
 alias cdT='cd ~/.config/awesome/themes/msjche'
 alias BG='~/Scripts/background.sh'
 
