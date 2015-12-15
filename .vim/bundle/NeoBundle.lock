@@ -1,13 +1,5 @@
-<<<<<<< HEAD
 NeoBundleLock ctrlp.vim 564176f01d7f3f7f8ab452ff4e1f5314de7b0981
-NeoBundleLock neobundle.vim 847cbd0d180a9ff2baf369c788e186b8aafaae8b
+NeoBundleLock neobundle.vim 1a93153a902db58e1c502da1013162805c9bf1ea
 NeoBundleLock nerdtree 4ebbb533c3faf2c480211db2b547972bb3b60f2b
 NeoBundleLock vim-coffee-script 32fe889b8cafd3a4921ef8e6485156453ff58c42
 NeoBundleLock vim-easymotion a21d4474f0e9df7a721246e0a3b386068901965f
-=======
-NeoBundleLock ctrlp.vim 9e2081a55d9be21634505d98b9905ac156d718e7
-NeoBundleLock neobundle.vim 1a93153a902db58e1c502da1013162805c9bf1ea
-NeoBundleLock nerdtree 9e2081a55d9be21634505d98b9905ac156d718e7
-NeoBundleLock vim-coffee-script 9e2081a55d9be21634505d98b9905ac156d718e7
-NeoBundleLock vim-easymotion 9e2081a55d9be21634505d98b9905ac156d718e7
->>>>>>> 0fd30c274458fbe1c589e9cc03821cf3a502de20
