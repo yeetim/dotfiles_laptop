@@ -11,8 +11,9 @@ rm ~/.config/awesome/cyclefocus
 rm ~/.config/awesome/lain
 rm ~/.config/awesome/patched
 rm ~/.config/awesome/fonts
+rm ~/.config/awesome/blingbling
 
-ln -s ~/.config/awesome/PROFILES/msjche/* ~/.config/awesome/
+ln -s ~/.config/awesome/PROFILES/pro/* ~/.config/awesome/
 
 cp ~/Scripts/Theming/msjche.Xresources ~/.Xresources
 
@@ -22,4 +23,4 @@ echo 'awesome.restart()' | awesome-client
 
 sleep 5
 
-notify-send "Welcome to MoJos msjche config!"
+notify-send "Welcome to MoJos Pro config!"

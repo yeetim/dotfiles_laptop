@@ -6,6 +6,12 @@ rm ~/.config/awesome/menugen
 rm ~/.config/awesome/rc.lua
 rm ~/.config/awesome/themes
 rm ~/.config/awesome/wi.lua
+rm ~/.config/awesome/cyclefocus
+rm ~/.config/awesome/fonts
+rm ~/.config/awesome/patched
+rm ~/.config/awesome/vicious
+rm ~/.config/awesome/themes
+rm ~/.config/awesome/blingbling
 
 ln -s ~/.config/awesome/PROFILES/Default/* ~/.config/awesome/
 

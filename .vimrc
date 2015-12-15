@@ -1,4 +1,4 @@
-"set paste
+set paste
 set pastetoggle=<F2>
 set mouse=a
 "set foldmethod=indent
@@ -14,8 +14,8 @@ let g:Powerline_symbols_override = {'BRANCH': "\Ue0a0", 'LINE': "\Ue0a1", 'RO': 
 "colorscheme vividchalk
 "colorscheme distinguished
 "colorscheme monokai
-"colorscheme ir_black
-colorscheme gotham
+colorscheme ir_black
+"colorscheme gotham
 "colorscheme jellybeans 
 "colorscheme desertEx
 "colorscheme codeblocks_dark
@@ -128,7 +128,7 @@ syntax enable			"use syntax highlighting
 		nnoremap <leader>Q :q!<cr>
 	
 	" alt-x to Esc
-		inoremap <a-d> <esc>
+		inoremap <c-q> <esc>
 
 	" pageup and page down
 		nnoremap <leader>u :PageUp
