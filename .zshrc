@@ -287,6 +287,7 @@ alias music='sh ~/Scripts/music.sh & '
 
 ## Multimedia
 alias irc='cp ~/.weechat/irc.conf.bak ~/.weechat/irc.conf && weechat-curses'
+alias weeinfo='vim ~/Dropbox/weechat'
 alias M='mpv'
 alias Vids='cd ~/Downloads/.blackbox && ranger'
 
