@@ -14,7 +14,8 @@ let g:Powerline_symbols_override = {'BRANCH': "\Ue0a0", 'LINE': "\Ue0a1", 'RO': 
 "colorscheme vividchalk
 "colorscheme distinguished
 "colorscheme monokai
-colorscheme ir_black
+"colorscheme ir_black
+colorscheme gotham
 "colorscheme jellybeans 
 "colorscheme desertEx
 "colorscheme codeblocks_dark
