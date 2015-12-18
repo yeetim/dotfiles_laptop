@@ -124,8 +124,7 @@ syntax enable			"use syntax highlighting
 		nnoremap <leader><s-s> :w 
 
 	" space-q to quit (doesn't save, watch out!)
-		nnoremap <leader>q :wq!<cr>
-		nnoremap <leader>Q :q!<cr>
+		nnoremap <leader>q :q!<cr>
 	
 	" alt-x to Esc
 		inoremap <c-q> <esc>
