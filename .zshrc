@@ -272,7 +272,7 @@ alias compressMKV='ffmpeg -i input.mkv -c:v libx264 $1'
 
 ## Transmission
 alias IP-update='~/Scripts/blocklist.sh'
-alias tsm-check='luakit http://localhost:9091/transmission/web'
+alias tsm-check='qutebrowser http://localhost:9091/transmission/web'
 alias t='transmission-daemon && transmission-remote-cli'
 alias kT='killall transmission-daemon'
 
@@ -282,7 +282,7 @@ alias MO='mocp -T transparent-background'
 alias news='newsbeuter'
 alias nix='cortex linux'
 alias Xcom='cortex xcom 2'
-alias War='cortex warriors game thread'
+alias Warr='cortex warriors game thread'
 alias pods='podbeuter'
 alias twit='turses'
 alias Pods='cd ~/Podcasts && ranger'
