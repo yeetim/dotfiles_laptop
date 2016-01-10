@@ -70,6 +70,8 @@ syntax enable			"use syntax highlighting
 			NeoBundle 'scrooloose/nerdtree'
 		"Coffeescript integration and syntax highlighting
 			NeoBundle 'kchmck/vim-coffee-script'
+		"Vim airline
+			NeoBundle 'bling/vim-airline'
 
 	call neobundle#end()
 
