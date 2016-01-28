@@ -174,6 +174,7 @@ alias E='tail -f /var/log/emerge.log'
 
 ## Pacman
 alias UU='packer-color -Syyu && rm /tmp/off.updates && rm /tmp/aur.updates'
+alias Mirrors='sudo /home/msjche/Scripts/mirrors.sh'
 alias UUA='yaourt -Syyua --devel'
 alias P='packer-color'
 alias PI='packer-color -S'
