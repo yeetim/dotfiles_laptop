@@ -635,7 +635,7 @@ Jupiter() { livestreamer -p mplayer http://www.ustream.tv/channel/jupiterbroadca
 
 TwitchyMarbs() { livestreamer -p mpv http://www.twitch.tv/Marbozir best ;}
 Twitchyllamma() { livestreamer -p mpv http://www.twitch.tv/llamachomp best ;}
-TwitchyBeagle() { livestreamer -p mpv http://www.twitch.tv/miss_jamball best ;}
+TwitchyBeagle() { livestreamer -p mpv http://www.twitch.tv/beagsandjam best ;}
 TwitchyQuill() { livestreamer -p mpv http://www.twitch.tv/quill18 best ;}
 TwitchyElysium() { livestreamer -p mpv http://www.twitch.tv/enterelysium best ;}
 
@@ -734,7 +734,8 @@ source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zs
 source /home/msjche/.oh-my-zsh/oh-my-zsh.sh
 
 clear
-/home/msjche/Scripts/pacolor.sh
+neofetch
+#/home/msjche/Scripts/pacolor.sh
 #/home/msjche/Scripts/starwars.sh
 #/home/msjche/Scripts/batman.sh
 #alsi -a -u
