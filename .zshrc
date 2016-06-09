@@ -734,8 +734,8 @@ source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zs
 source /home/msjche/.oh-my-zsh/oh-my-zsh.sh
 
 clear
-neofetch
-#/home/msjche/Scripts/pacolor.sh
+#neofetch
+/home/msjche/Scripts/pacolor.sh
 #/home/msjche/Scripts/starwars.sh
 #/home/msjche/Scripts/batman.sh
 #alsi -a -u

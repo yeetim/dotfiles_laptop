@@ -15,6 +15,7 @@
 .mpd/mpdstate
 .mpd/playlists/Main.m3u
 .mutt/com*
+.mutt/account.com.gmail.msjche
 Scripts/mps
 .mpd/playlists/default.m3u
 .weechat/
